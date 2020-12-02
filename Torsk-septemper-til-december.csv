@@ -1,383 +1,383 @@
-Auktion;Art;Klas.;Sort;Redskab;MSC;SeaPacked;Ks;Kilo;Slant;Ialt;Pris;Total;Område;Dato;Redskab;Sælger;Sælger navn;Sælger adresse;Post nr.;By;Land;Tlf;Email;Landingsdato;Fangst start;Fangst slut;FAO;Latin;Parti nr.
-Strandby;Torsk;A;3;;FALSE;FALSE;2;25,00;0,00;50,00;34,75;1737,50;;01-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;01-09-2020;;;COD;Gadus Morhua;0109202010001
-Strandby;Torsk;A;4;;FALSE;FALSE;1;0,00;12,00;12,00;27,75;333,00;;01-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;01-09-2020;;;COD;Gadus Morhua;010920209901
-Hirtshals;Torsk;E;4;SSC;FALSE;FALSE;1;20,00;0,00;20,00;31,75;635,00;27.3.AN;01-09-2020;;S 43;"S 43 ""Nordstrand""";"Gitte Henning A/S
+Auktion;Art;Klas.;Sort;Redskab;MSC;SeaPacked;Ks;Kilo;Slant;Ialt;Pris;Total;Dato;Redskab;Sælger;Sælger navn;Sælger adresse;Post nr.;By;Land;Tlf;Email;Landingsdato;Fangst start;Fangst slut;FAO;Latin;Parti nr.
+Strandby;Torsk;A;3;;FALSE;FALSE;2;25;0;50;34,75;1737,5;01-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;01-09-2020;;;COD;Gadus Morhua;1,09202E+11
+Strandby;Torsk;A;4;;FALSE;FALSE;1;0;12;12;27,75;333;01-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;01-09-2020;;;COD;Gadus Morhua;10920209901
+Hirtshals;Torsk;E;4;SSC;FALSE;FALSE;1;20;0;20;31,75;635;01-09-2020;;S 43;"S 43 ""Nordstrand""";"Gitte Henning A/S
 Østerbyvej 44
-";9990;Skagen;Denmark;;;01-09-2020;30-08-2020;31-08-2020;COD;Gadus Morhua;0109202030205
-Hirtshals;Torsk;E;4;SSC;FALSE;FALSE;3;20,00;0,00;60,00;32,00;1920,00;27.3.AN;01-09-2020;;S 43;"S 43 ""Nordstrand""";"Gitte Henning A/S
+";9990;Skagen;Denmark;;;01-09-2020;30-08-2020;31-08-2020;COD;Gadus Morhua;1,09202E+11
+Hirtshals;Torsk;E;4;SSC;FALSE;FALSE;3;20;0;60;32;1920;01-09-2020;;S 43;"S 43 ""Nordstrand""";"Gitte Henning A/S
 Østerbyvej 44
-";9990;Skagen;Denmark;;;01-09-2020;30-08-2020;31-08-2020;COD;Gadus Morhua;0109202030202
-Strandby;Torsk;E;4;;FALSE;FALSE;2;25,00;0,00;50,00;32,25;1612,50;;01-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;01-09-2020;;;COD;Gadus Morhua;010920209502
-Hanstholm;Torsk;A;3;TRAWL;FALSE;TRUE;5;0,00;105,00;105,00;36,50;3832,50;27.4.A;02-09-2020;OTB;VA 19 S;"VA 19 S ""Tenor""";;;;Norway;;;02-09-2020;;;COD;Gadus Morhua;0209202014501
-Strandby;Torsk;A;3;;FALSE;FALSE;1;0,00;5,50;5,50;35,50;195,25;;02-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;02-09-2020;;;COD;Gadus Morhua;020920207301
-Hanstholm;Torsk;A;4;TRAWL;FALSE;TRUE;5;0,00;92,00;92,00;29,00;2668,00;27.4.A;02-09-2020;OTB;VA 19 S;"VA 19 S ""Tenor""";;;;Norway;;;02-09-2020;;;COD;Gadus Morhua;0209202014601
-Hirtshals;Torsk;E;4;VOD;FALSE;FALSE;5;20,00;0,00;100,00;33,00;3300,00;27.3.AN;02-09-2020;SDN;L 232;"L 232 ""Tove Kynde""";Sprogøvej 133;7680;Thyborøn;Denmark;;;02-09-2020;31-08-2020;01-09-2020;COD;Gadus Morhua;020920205702
-Hirtshals;Torsk;E;4;;FALSE;FALSE;5;20,00;0,00;100,00;34,25;3425,00;27.3.AN;02-09-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;02-09-2020;;;COD;Gadus Morhua;020920207403
-Strandby;Torsk;E;4;;FALSE;FALSE;1;0,00;25,00;25,00;31,75;793,75;;02-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;02-09-2020;;;COD;Gadus Morhua;020920209301
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0,00;20,00;20,00;30,50;610,00;27, 3A;02-09-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;02-09-2020;;;COD;Gadus Morhua;0209202020201
-Strandby;Torsk;A;2;;FALSE;FALSE;2;25,00;0,00;50,00;49,00;2450,00;;03-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;03-09-2020;;;COD;Gadus Morhua;030920209802
-Strandby;Torsk;A;3;;FALSE;FALSE;5;25,00;0,00;125,00;40,25;5031,25;;03-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;03-09-2020;;;COD;Gadus Morhua;030920209702
-Strandby;Torsk;A;4;;FALSE;FALSE;2;25,00;16,00;41,00;31,25;1281,25;;03-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;03-09-2020;;;COD;Gadus Morhua;030920209601
-Strandby;Torsk;E;4;;FALSE;FALSE;1;25,00;21,00;21,00;32,00;672,00;;03-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;03-09-2020;;;COD;Gadus Morhua;030920209202
-Strandby;Torsk;A;1;;FALSE;FALSE;1;0,00;8,00;8,00;36,50;292,00;;04-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;04-09-2020;;;COD;Gadus Morhua;040920209201
-Hanstholm;Torsk;A;2;TRAWL;FALSE;TRUE;3;0,00;75,00;75,00;47,00;3525,00;27.4.A;04-09-2020;OTB;H 101 AV;"H 101 AV ""Tobis""";;;;Norway;;;04-09-2020;;;COD;Gadus Morhua;0409202040601
-Strandby;Torsk;A;2;;FALSE;FALSE;3;25,00;9,00;59,00;47,50;2802,50;;04-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;04-09-2020;;;COD;Gadus Morhua;040920209101
-Strandby;Torsk;A;4;;FALSE;FALSE;1;0,00;30,00;30,00;27,50;825,00;;04-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;04-09-2020;;;COD;Gadus Morhua;040920208901
-Strandby;Torsk;A;2;;FALSE;FALSE;2;25,00;30,00;55,00;47,50;2612,50;;07-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;07-09-2020;;;COD;Gadus Morhua;0709202010201
-Strandby;Torsk;A;3;;FALSE;FALSE;2;25,00;0,00;50,00;37,75;1887,50;;07-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;07-09-2020;;;COD;Gadus Morhua;0709202010302
-Strandby;Torsk;A;4;;FALSE;FALSE;2;25,00;23,00;48,00;36,75;1764,00;;07-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;07-09-2020;;;COD;Gadus Morhua;0709202010402
-Hanstholm;Torsk;E;2;FLY;FALSE;TRUE;1;0,00;23,00;23,00;51,00;1173,00;27.4.A;07-09-2020;SSC;AG 7 LS;AG 7 LS “Astrid”;;;;Norway;;;07-09-2020;03-09-2020;06-09-2020;COD;Gadus Morhua;0709202014801
-Hanstholm;Torsk;E;2;FLY;FALSE;TRUE;3;24,00;0,00;72,00;55,00;3960,00;27.4.A;07-09-2020;SSC;VA 97 M;"VA 97 M ""Nordsö""";;;;Norway;;;07-09-2020;01-09-2020;06-09-2020;COD;Gadus Morhua;0709202015101
-Strandby;Torsk;E;2;;FALSE;FALSE;1;25,00;0,00;25,00;51,50;1287,50;;07-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;07-09-2020;;;COD;Gadus Morhua;070920209802
-Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;5;19,00;0,00;95,00;33,25;3158,75;27.4.A;07-09-2020;OTB;HM 227;"HM 227 ""Myggenes""";"Lynge Fiskeri Aps. MC Revision
-Havnegade 26,2";7680;Thyborøn;Denmark;;;07-09-2020;30-08-2020;06-09-2020;COD;Gadus Morhua;0709202011902
-Strandby;Torsk;E;4;;FALSE;FALSE;1;0,00;16,00;16,00;37,50;600,00;;07-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;07-09-2020;;;COD;Gadus Morhua;070920209601
-Strandby;Torsk;A;3;;FALSE;FALSE;1;25,00;0,00;25,00;41,50;1037,50;;08-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;08-09-2020;;;COD;Gadus Morhua;080920208901
-Strandby;Torsk;E;2;;FALSE;FALSE;2;25,00;16,00;41,00;44,50;1824,50;;08-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;08-09-2020;;;COD;Gadus Morhua;080920208401
-Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;5;20,00;0,00;100,00;36,50;3650,00;27.4.A;08-09-2020;OTB;GG 150;"GG 150 ""Älvsborg""";;;;Denmark;;gg150alvsborg@hotmail.com;08-09-2020;01-09-2020;07-09-2020;COD;Gadus Morhua;0809202016403
-Hirtshals;Torsk;E;4;TRAWL;FALSE;FALSE;6;20,00;0,00;120,00;36,00;4320,00;27.3.AN;08-09-2020;OTB;S 43;"S 43 ""Nordstrand""";"Gitte Henning A/S
+";9990;Skagen;Denmark;;;01-09-2020;30-08-2020;31-08-2020;COD;Gadus Morhua;1,09202E+11
+Strandby;Torsk;E;4;;FALSE;FALSE;2;25;0;50;32,25;1612,5;01-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;01-09-2020;;;COD;Gadus Morhua;10920209502
+Hanstholm;Torsk;A;3;TRAWL;FALSE;TRUE;5;0;105;105;36,5;3832,5;02-09-2020;OTB;VA 19 S;"VA 19 S ""Tenor""";;;;Norway;;;02-09-2020;;;COD;Gadus Morhua;2,09202E+11
+Strandby;Torsk;A;3;;FALSE;FALSE;1;0;5,5;5,5;35,5;195,25;02-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;02-09-2020;;;COD;Gadus Morhua;20920207301
+Hanstholm;Torsk;A;4;TRAWL;FALSE;TRUE;5;0;92;92;29;2668;02-09-2020;OTB;VA 19 S;"VA 19 S ""Tenor""";;;;Norway;;;02-09-2020;;;COD;Gadus Morhua;2,09202E+11
+Hirtshals;Torsk;E;4;VOD;FALSE;FALSE;5;20;0;100;33;3300;02-09-2020;SDN;L 232;"L 232 ""Tove Kynde""";Sprogøvej 133;7680;Thyborøn;Denmark;;;02-09-2020;31-08-2020;01-09-2020;COD;Gadus Morhua;20920205702
+Hirtshals;Torsk;E;4;;FALSE;FALSE;5;20;0;100;34,25;3425;02-09-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;02-09-2020;;;COD;Gadus Morhua;20920207403
+Strandby;Torsk;E;4;;FALSE;FALSE;1;0;25;25;31,75;793,75;02-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;02-09-2020;;;COD;Gadus Morhua;20920209301
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0;20;20;30,5;610;02-09-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;02-09-2020;;;COD;Gadus Morhua;2,09202E+11
+Strandby;Torsk;A;2;;FALSE;FALSE;2;25;0;50;49;2450;03-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;03-09-2020;;;COD;Gadus Morhua;30920209802
+Strandby;Torsk;A;3;;FALSE;FALSE;5;25;0;125;40,25;5031,25;03-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;03-09-2020;;;COD;Gadus Morhua;30920209702
+Strandby;Torsk;A;4;;FALSE;FALSE;2;25;16;41;31,25;1281,25;03-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;03-09-2020;;;COD;Gadus Morhua;30920209601
+Strandby;Torsk;E;4;;FALSE;FALSE;1;25;21;21;32;672;03-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;03-09-2020;;;COD;Gadus Morhua;30920209202
+Strandby;Torsk;A;1;;FALSE;FALSE;1;0;8;8;36,5;292;04-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;04-09-2020;;;COD;Gadus Morhua;40920209201
+Hanstholm;Torsk;A;2;TRAWL;FALSE;TRUE;3;0;75;75;47;3525;04-09-2020;OTB;H 101 AV;"H 101 AV ""Tobis""";;;;Norway;;;04-09-2020;;;COD;Gadus Morhua;4,09202E+11
+Strandby;Torsk;A;2;;FALSE;FALSE;3;25;9;59;47,5;2802,5;04-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;04-09-2020;;;COD;Gadus Morhua;40920209101
+Strandby;Torsk;A;4;;FALSE;FALSE;1;0;30;30;27,5;825;04-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;04-09-2020;;;COD;Gadus Morhua;40920208901
+Strandby;Torsk;A;2;;FALSE;FALSE;2;25;30;55;47,5;2612,5;07-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;07-09-2020;;;COD;Gadus Morhua;7,09202E+11
+Strandby;Torsk;A;3;;FALSE;FALSE;2;25;0;50;37,75;1887,5;07-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;07-09-2020;;;COD;Gadus Morhua;7,09202E+11
+Strandby;Torsk;A;4;;FALSE;FALSE;2;25;23;48;36,75;1764;07-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;07-09-2020;;;COD;Gadus Morhua;7,09202E+11
+Hanstholm;Torsk;E;2;FLY;FALSE;TRUE;1;0;23;23;51;1173;07-09-2020;SSC;AG 7 LS;AG 7 LS “Astrid”;;;;Norway;;;07-09-2020;03-09-2020;06-09-2020;COD;Gadus Morhua;7,09202E+11
+Hanstholm;Torsk;E;2;FLY;FALSE;TRUE;3;24;0;72;55;3960;07-09-2020;SSC;VA 97 M;"VA 97 M ""Nordsö""";;;;Norway;;;07-09-2020;01-09-2020;06-09-2020;COD;Gadus Morhua;7,09202E+11
+Strandby;Torsk;E;2;;FALSE;FALSE;1;25;0;25;51,5;1287,5;07-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;07-09-2020;;;COD;Gadus Morhua;70920209802
+Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;5;19;0;95;33,25;3158,75;07-09-2020;OTB;HM 227;"HM 227 ""Myggenes""";"Lynge Fiskeri Aps. MC Revision
+Havnegade 26,2";7680;Thyborøn;Denmark;;;07-09-2020;30-08-2020;06-09-2020;COD;Gadus Morhua;7,09202E+11
+Strandby;Torsk;E;4;;FALSE;FALSE;1;0;16;16;37,5;600;07-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;07-09-2020;;;COD;Gadus Morhua;70920209601
+Strandby;Torsk;A;3;;FALSE;FALSE;1;25;0;25;41,5;1037,5;08-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;08-09-2020;;;COD;Gadus Morhua;80920208901
+Strandby;Torsk;E;2;;FALSE;FALSE;2;25;16;41;44,5;1824,5;08-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;08-09-2020;;;COD;Gadus Morhua;80920208401
+Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;5;20;0;100;36,5;3650;08-09-2020;OTB;GG 150;"GG 150 ""Älvsborg""";;;;Denmark;;gg150alvsborg@hotmail.com;08-09-2020;01-09-2020;07-09-2020;COD;Gadus Morhua;8,09202E+11
+Hirtshals;Torsk;E;4;TRAWL;FALSE;FALSE;6;20;0;120;36;4320;08-09-2020;OTB;S 43;"S 43 ""Nordstrand""";"Gitte Henning A/S
 Østerbyvej 44
-";9990;Skagen;Denmark;;;08-09-2020;05-09-2020;07-09-2020;COD;Gadus Morhua;0809202025302
-Hirtshals;Torsk;E;4;TRAWL;FALSE;FALSE;2;20,00;0,00;40,00;36,00;1440,00;27.3.AN;08-09-2020;OTB;S 43;"S 43 ""Nordstrand""";"Gitte Henning A/S
+";9990;Skagen;Denmark;;;08-09-2020;05-09-2020;07-09-2020;COD;Gadus Morhua;8,09202E+11
+Hirtshals;Torsk;E;4;TRAWL;FALSE;FALSE;2;20;0;40;36;1440;08-09-2020;OTB;S 43;"S 43 ""Nordstrand""";"Gitte Henning A/S
 Østerbyvej 44
-";9990;Skagen;Denmark;;;08-09-2020;05-09-2020;07-09-2020;COD;Gadus Morhua;0809202025305
-Hanstholm;Torsk;A;2;GARN;TRUE;TRUE;1;30,00;0,00;30,00;34,00;1020,00;27.2.A2;09-09-2020;GNS;VA 81 LS;VA 81 LS;;;;Norway;;;09-09-2020;04-09-2020;07-09-2020;COD;Gadus Morhua;0909202013001
-Hanstholm;Torsk;A;3;GARN;TRUE;TRUE;2;30,00;12,00;42,00;34,00;1428,00;27.2.A2;09-09-2020;GNS;VA 81 LS;VA 81 LS;;;;Norway;;;09-09-2020;04-09-2020;07-09-2020;COD;Gadus Morhua;0909202013101
-Hanstholm;Torsk;A;3;BOMTRAWL;FALSE;FALSE;1;25,00;0,00;25,00;38,75;968,75;27.4.B;09-09-2020;TBB;Z 333;"Z 333 ""Avatar""";;;;Belgium;;;09-09-2020;03-09-2020;08-09-2020;COD;Gadus Morhua;0909202011502
-Strandby;Torsk;A;3;;FALSE;FALSE;1;25,00;0,00;25,00;45,00;1125,00;;09-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;09-09-2020;;;COD;Gadus Morhua;090920208704
-Strandby;Torsk;A;3;;FALSE;FALSE;2;25,00;32,00;57,00;46,25;2636,25;;09-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;09-09-2020;;;COD;Gadus Morhua;090920208702
-Strandby;Torsk;A;4;;FALSE;FALSE;2;25,00;10,00;35,00;33,25;1163,75;;09-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;09-09-2020;;;COD;Gadus Morhua;090920208602
-Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;9;20,00;0,00;180,00;35,00;6300,00;27.3.AN;09-09-2020;OTB;RI 468;"RI 468  ""Juliane""";Stormgade 8, 1. sal;6960;Hvide Sande;Denmark;20264692 - 88917088;;09-09-2020;07-09-2020;08-09-2020;COD;Gadus Morhua;090920209203
-Strandby;Torsk;E;4;;FALSE;FALSE;2;25,00;33,00;58,00;36,00;2088,00;;09-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;09-09-2020;;;COD;Gadus Morhua;090920208201
-Hanstholm;Torsk;A;4;TRAWL;FALSE;TRUE;3;20,00;0,00;60,00;36,50;2190,00;27.4.A;10-09-2020;OTB;L 549;"L 549 ""Frida Amalie""";;;;Denmark;;;10-09-2020;03-09-2020;08-09-2020;COD;Gadus Morhua;1009202019204
-Hanstholm;Torsk;E;2;BOMTRAWL;FALSE;TRUE;3;30,00;0,00;90,00;56,00;5040,00;27.4.B;10-09-2020;TBB;L 510;"L 510 ""St. Antony""";;7730;Hanstholm;Denmark;;;10-09-2020;06-09-2020;09-09-2020;COD;Gadus Morhua;1009202014001
-Strandby;Torsk;E;2;;FALSE;FALSE;1;0,00;21,00;21,00;51,00;1071,00;;10-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;10-09-2020;;;COD;Gadus Morhua;100920205501
-Hanstholm;Torsk;E;4;BOMTRAWL;FALSE;TRUE;25;20,00;15,00;495,00;35,50;17572,50;27.4.B;10-09-2020;TBB;L 510;"L 510 ""St. Antony""";;7730;Hanstholm;Denmark;;;10-09-2020;06-09-2020;09-09-2020;COD;Gadus Morhua;1009202014201
-Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;12;20,00;0,00;240,00;36,50;8760,00;27.4.B;10-09-2020;OTB;NC 315;"NC 315 ""Viktoria""";;;;Denmark;;;10-09-2020;07-09-2020;09-09-2020;COD;Gadus Morhua;10092020172010
-Hanstholm;Torsk;E;2;TRAWL;FALSE;TRUE;2;25,00;0,00;50,00;55,00;2750,00;27.4.A;11-09-2020;OTB;HM 555;"HM 555 ""Kingfisher""";Havnegade 26;7680;Thyborøn;Denmark;21798197 S.A.;69918189 sat;11-09-2020;04-09-2020;10-09-2020;COD;Gadus Morhua;1109202010003
-Hanstholm;Torsk;E;2;TRAWL;FALSE;TRUE;1;25,00;0,00;25,00;60,00;1500,00;27.4.A;11-09-2020;OTB;HM 227;"HM 227 ""Myggenes""";"Lynge Fiskeri Aps. MC Revision
-Havnegade 26,2";7680;Thyborøn;Denmark;;;11-09-2020;08-09-2020;10-09-2020;COD;Gadus Morhua;1109202011502
-Hanstholm;Torsk;A;2;TRAWL;FALSE;TRUE;3;0,00;58,00;58,00;44,00;2552,00;27.4.A;14-09-2020;OTB;NC 308;"NC 308 ""J. Von Cölln""";Niedersachsenstrasse;D-27472;Cuxhaven;Germany;;amlingmanfred@gmail.com;14-09-2020;07-09-2020;12-09-2020;COD;Gadus Morhua;1409202017901
-Strandby;Torsk;A;2;;FALSE;FALSE;3;25,00;17,00;67,00;50,00;3350,00;;14-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;14-09-2020;;;COD;Gadus Morhua;140920206901
-Strandby;Torsk;E;1;;FALSE;FALSE;1;0,00;30,00;30,00;57,50;1725,00;;14-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;14-09-2020;;;COD;Gadus Morhua;140920206101
-Hanstholm;Torsk;E;2;GARN;TRUE;TRUE;1;25,00;0,00;25,00;52,50;1312,50;27.2.A2;14-09-2020;GNS;VA 81 LS;VA 81 LS;;;;Norway;;;14-09-2020;;;COD;Gadus Morhua;1409202018401
-Hanstholm;Torsk;E;2;TRAWL;FALSE;TRUE;2;0,00;34,00;34,00;58,00;1972,00;27.4.B;14-09-2020;OTB;GG 201;"GG 201 ""Bravik""";;;;Denmark;;;14-09-2020;11-09-2020;13-09-2020;COD;Gadus Morhua;1409202022201
-Strandby;Torsk;E;2;;FALSE;FALSE;1;0,00;14,00;14,00;50,00;700,00;;14-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;14-09-2020;;;COD;Gadus Morhua;140920206201
-Hanstholm;Torsk;E;4;GARN;FALSE;TRUE;4;25,00;13,00;88,00;35,00;3080,00;27.4.B;14-09-2020;GNS;VA 87 LS;Båly Fisk AS (VA 87 LS);;4521;Lindesnes;Norway;;;14-09-2020;09-09-2020;12-09-2020;COD;Gadus Morhua;1409202019101
-Hanstholm;Torsk;E;4;FLY;FALSE;TRUE;10;20,00;0,00;200,00;36,75;7350,00;27.4.A;14-09-2020;SSC;L 649;"L 649 ""Martine""";xvej 49;7680;Thyborøn;Denmark;;;14-09-2020;06-09-2020;13-09-2020;COD;Gadus Morhua;1409202020102
-Strandby;Torsk;E;4;;FALSE;FALSE;1;0,00;15,00;15,00;44,50;667,50;;14-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;14-09-2020;;;COD;Gadus Morhua;140920206401
-Strandby;Torsk;A;3;;FALSE;FALSE;3;25,00;12,00;62,00;45,50;2821,00;;15-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;15-09-2020;;;COD;Gadus Morhua;150920207101
-Hanstholm;Torsk;A;4;TRAWL;FALSE;TRUE;1;30,00;0,00;30,00;35,00;1050,00;27.4.A;15-09-2020;OTB;VA 72 K;"VA 72 K ""Sjøvik""";;;;Norway;;;15-09-2020;;;COD;Gadus Morhua;1509202012001
-Hanstholm;Torsk;A;4;TRAWL;FALSE;TRUE;5;20,00;0,00;100,00;38,25;3825,00;27.4.B;15-09-2020;OTB;RI 433;"RI 433 ""Emmalie""";Metheasvej 1, 1;6960;Hvide Sande;Denmark;;;15-09-2020;07-09-2020;14-09-2020;COD;Gadus Morhua;15092020140010
-Strandby;Torsk;A;4;;FALSE;FALSE;2;25,00;14,00;39,00;40,00;1560,00;;15-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;15-09-2020;;;COD;Gadus Morhua;150920207201
-Strandby;Torsk;E;2;;FALSE;FALSE;0;0,00;4,00;4,00;46,50;186,00;;15-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;15-09-2020;;;COD;Gadus Morhua;150920206801
-Strandby;Torsk;E;3;;FALSE;FALSE;1;25,00;0,00;25,00;45,00;1125,00;;15-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;15-09-2020;;;COD;Gadus Morhua;150920206602
-Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;3;20,00;0,00;60,00;39,00;2340,00;27.3.AN;15-09-2020;OTB;HM 289;"HM 289 ""Cyrano""";"Frederik Vendelbo Fiskeri ApS
+";9990;Skagen;Denmark;;;08-09-2020;05-09-2020;07-09-2020;COD;Gadus Morhua;8,09202E+11
+Hanstholm;Torsk;A;2;GARN;TRUE;TRUE;1;30;0;30;34;1020;09-09-2020;GNS;VA 81 LS;VA 81 LS;;;;Norway;;;09-09-2020;04-09-2020;07-09-2020;COD;Gadus Morhua;9,09202E+11
+Hanstholm;Torsk;A;3;GARN;TRUE;TRUE;2;30;12;42;34;1428;09-09-2020;GNS;VA 81 LS;VA 81 LS;;;;Norway;;;09-09-2020;04-09-2020;07-09-2020;COD;Gadus Morhua;9,09202E+11
+Hanstholm;Torsk;A;3;BOMTRAWL;FALSE;FALSE;1;25;0;25;38,75;968,75;09-09-2020;TBB;Z 333;"Z 333 ""Avatar""";;;;Belgium;;;09-09-2020;03-09-2020;08-09-2020;COD;Gadus Morhua;9,09202E+11
+Strandby;Torsk;A;3;;FALSE;FALSE;1;25;0;25;45;1125;09-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;09-09-2020;;;COD;Gadus Morhua;90920208704
+Strandby;Torsk;A;3;;FALSE;FALSE;2;25;32;57;46,25;2636,25;09-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;09-09-2020;;;COD;Gadus Morhua;90920208702
+Strandby;Torsk;A;4;;FALSE;FALSE;2;25;10;35;33,25;1163,75;09-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;09-09-2020;;;COD;Gadus Morhua;90920208602
+Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;9;20;0;180;35;6300;09-09-2020;OTB;RI 468;"RI 468  ""Juliane""";Stormgade 8, 1. sal;6960;Hvide Sande;Denmark;20264692 - 88917088;;09-09-2020;07-09-2020;08-09-2020;COD;Gadus Morhua;90920209203
+Strandby;Torsk;E;4;;FALSE;FALSE;2;25;33;58;36;2088;09-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;09-09-2020;;;COD;Gadus Morhua;90920208201
+Hanstholm;Torsk;A;4;TRAWL;FALSE;TRUE;3;20;0;60;36,5;2190;10-09-2020;OTB;L 549;"L 549 ""Frida Amalie""";;;;Denmark;;;10-09-2020;03-09-2020;08-09-2020;COD;Gadus Morhua;1,0092E+12
+Hanstholm;Torsk;E;2;BOMTRAWL;FALSE;TRUE;3;30;0;90;56;5040;10-09-2020;TBB;L 510;"L 510 ""St. Antony""";;7730;Hanstholm;Denmark;;;10-09-2020;06-09-2020;09-09-2020;COD;Gadus Morhua;1,0092E+12
+Strandby;Torsk;E;2;;FALSE;FALSE;1;0;21;21;51;1071;10-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;10-09-2020;;;COD;Gadus Morhua;1,0092E+11
+Hanstholm;Torsk;E;4;BOMTRAWL;FALSE;TRUE;25;20;15;495;35,5;17572,5;10-09-2020;TBB;L 510;"L 510 ""St. Antony""";;7730;Hanstholm;Denmark;;;10-09-2020;06-09-2020;09-09-2020;COD;Gadus Morhua;1,0092E+12
+Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;12;20;0;240;36,5;8760;10-09-2020;OTB;NC 315;"NC 315 ""Viktoria""";;;;Denmark;;;10-09-2020;07-09-2020;09-09-2020;COD;Gadus Morhua;1,0092E+13
+Hanstholm;Torsk;E;2;TRAWL;FALSE;TRUE;2;25;0;50;55;2750;11-09-2020;OTB;HM 555;"HM 555 ""Kingfisher""";Havnegade 26;7680;Thyborøn;Denmark;21798197 S.A.;69918189 sat;11-09-2020;04-09-2020;10-09-2020;COD;Gadus Morhua;1,1092E+12
+Hanstholm;Torsk;E;2;TRAWL;FALSE;TRUE;1;25;0;25;60;1500;11-09-2020;OTB;HM 227;"HM 227 ""Myggenes""";"Lynge Fiskeri Aps. MC Revision
+Havnegade 26,2";7680;Thyborøn;Denmark;;;11-09-2020;08-09-2020;10-09-2020;COD;Gadus Morhua;1,1092E+12
+Hanstholm;Torsk;A;2;TRAWL;FALSE;TRUE;3;0;58;58;44;2552;14-09-2020;OTB;NC 308;"NC 308 ""J. Von Cölln""";Niedersachsenstrasse;D-27472;Cuxhaven;Germany;;amlingmanfred@gmail.com;14-09-2020;07-09-2020;12-09-2020;COD;Gadus Morhua;1,4092E+12
+Strandby;Torsk;A;2;;FALSE;FALSE;3;25;17;67;50;3350;14-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;14-09-2020;;;COD;Gadus Morhua;1,4092E+11
+Strandby;Torsk;E;1;;FALSE;FALSE;1;0;30;30;57,5;1725;14-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;14-09-2020;;;COD;Gadus Morhua;1,4092E+11
+Hanstholm;Torsk;E;2;GARN;TRUE;TRUE;1;25;0;25;52,5;1312,5;14-09-2020;GNS;VA 81 LS;VA 81 LS;;;;Norway;;;14-09-2020;;;COD;Gadus Morhua;1,4092E+12
+Hanstholm;Torsk;E;2;TRAWL;FALSE;TRUE;2;0;34;34;58;1972;14-09-2020;OTB;GG 201;"GG 201 ""Bravik""";;;;Denmark;;;14-09-2020;11-09-2020;13-09-2020;COD;Gadus Morhua;1,4092E+12
+Strandby;Torsk;E;2;;FALSE;FALSE;1;0;14;14;50;700;14-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;14-09-2020;;;COD;Gadus Morhua;1,4092E+11
+Hanstholm;Torsk;E;4;GARN;FALSE;TRUE;4;25;13;88;35;3080;14-09-2020;GNS;VA 87 LS;Båly Fisk AS (VA 87 LS);;4521;Lindesnes;Norway;;;14-09-2020;09-09-2020;12-09-2020;COD;Gadus Morhua;1,4092E+12
+Hanstholm;Torsk;E;4;FLY;FALSE;TRUE;10;20;0;200;36,75;7350;14-09-2020;SSC;L 649;"L 649 ""Martine""";xvej 49;7680;Thyborøn;Denmark;;;14-09-2020;06-09-2020;13-09-2020;COD;Gadus Morhua;1,4092E+12
+Strandby;Torsk;E;4;;FALSE;FALSE;1;0;15;15;44,5;667,5;14-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;14-09-2020;;;COD;Gadus Morhua;1,4092E+11
+Strandby;Torsk;A;3;;FALSE;FALSE;3;25;12;62;45,5;2821;15-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;15-09-2020;;;COD;Gadus Morhua;1,5092E+11
+Hanstholm;Torsk;A;4;TRAWL;FALSE;TRUE;1;30;0;30;35;1050;15-09-2020;OTB;VA 72 K;"VA 72 K ""Sjøvik""";;;;Norway;;;15-09-2020;;;COD;Gadus Morhua;1,5092E+12
+Hanstholm;Torsk;A;4;TRAWL;FALSE;TRUE;5;20;0;100;38,25;3825;15-09-2020;OTB;RI 433;"RI 433 ""Emmalie""";Metheasvej 1, 1;6960;Hvide Sande;Denmark;;;15-09-2020;07-09-2020;14-09-2020;COD;Gadus Morhua;1,5092E+13
+Strandby;Torsk;A;4;;FALSE;FALSE;2;25;14;39;40;1560;15-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;15-09-2020;;;COD;Gadus Morhua;1,5092E+11
+Strandby;Torsk;E;2;;FALSE;FALSE;0;0;4;4;46,5;186;15-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;15-09-2020;;;COD;Gadus Morhua;1,5092E+11
+Strandby;Torsk;E;3;;FALSE;FALSE;1;25;0;25;45;1125;15-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;15-09-2020;;;COD;Gadus Morhua;1,5092E+11
+Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;3;20;0;60;39;2340;15-09-2020;OTB;HM 289;"HM 289 ""Cyrano""";"Frederik Vendelbo Fiskeri ApS
 Bornholms Forvaltning
-Liseruten 1";3730;Nexø;Denmark;;;15-09-2020;14-09-2020;14-09-2020;COD;Gadus Morhua;1509202014502
-Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;12;20,00;0,00;240,00;40,75;9780,00;27.4.B;15-09-2020;OTB;RI 433;"RI 433 ""Emmalie""";Metheasvej 1, 1;6960;Hvide Sande;Denmark;;;15-09-2020;07-09-2020;14-09-2020;COD;Gadus Morhua;1509202014004
-Strandby;Torsk;E;4;;FALSE;FALSE;1;0,00;10,00;10,00;39,50;395,00;;15-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;15-09-2020;;;COD;Gadus Morhua;150920206901
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;2;25,00;16,00;41,00;35,00;1435,00;27, 3A;15-09-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;15-09-2020;;;COD;Gadus Morhua;1509202020101
-Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;10;25,00;21,00;246,00;38,50;9471,00;27.4.A;16-09-2020;OTB;NC 333;"NC 333 ""Janne-Kristin""";Niedersachsenstrasse;D-27472;Cuxhaven;Germany;;;16-09-2020;09-09-2020;15-09-2020;COD;Gadus Morhua;1609202015901
-Strandby;Torsk;E;4;;FALSE;FALSE;1;0,00;21,00;21,00;40,50;850,50;;16-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;16-09-2020;;;COD;Gadus Morhua;160920209401
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;3;25,00;13,00;63,00;38,75;2441,25;27, 3A;16-09-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;16-09-2020;;;COD;Gadus Morhua;1609202020501
-Hanstholm;Torsk;A;2;FLY;FALSE;TRUE;5;0,00;122,00;122,00;49,50;6039,00;27.4.A;17-09-2020;SSC;L 654;"L 654 ""Pia Glanz""";Stormgade 8, 1.s.;6960;Hvide Sande;Denmark;21257167-John;;17-09-2020;11-09-2020;15-09-2020;COD;Gadus Morhua;1709202019402
-Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;2;25,00;30,00;55,00;55,50;3052,50;27, 3AN;17-09-2020;OTB;S 107;"S 107 ""Skagerak""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;;;17-09-2020;15-09-2020;16-09-2020;COD;Gadus Morhua;170920207101
-Skagen;Torsk;E;3;TRAWL;FALSE;FALSE;1;0,00;25,00;25,00;55,00;1375,00;27, 3AN;17-09-2020;OTB;S 107;"S 107 ""Skagerak""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;;;17-09-2020;15-09-2020;16-09-2020;COD;Gadus Morhua;170920207301
-Hanstholm;Torsk;E;2;GARN;FALSE;FALSE;3;25,00;0,00;75,00;48,00;3600,00;27.4.A;18-09-2020;GNS;R 69 K;R 69 K  (Samler);;;;Norway;;;18-09-2020;;;COD;Gadus Morhua;1809202023702
-Strandby;Torsk;E;2;;FALSE;FALSE;1;25,00;0,00;25,00;50,50;1262,50;;18-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;18-09-2020;;;COD;Gadus Morhua;180920206902
-Strandby;Torsk;E;4;;FALSE;FALSE;2;25,00;0,00;50,00;28,75;1437,50;;21-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;21-09-2020;;;COD;Gadus Morhua;210920207504
-Strandby;Torsk;E;4;;FALSE;FALSE;3;25,00;24,00;74,00;30,25;2238,50;;21-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;21-09-2020;;;COD;Gadus Morhua;210920207502
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;5;25,00;0,00;125,00;28,00;3500,00;27, 3A;21-09-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;21-09-2020;;;COD;Gadus Morhua;2109202020701
-Strandby;Torsk;E;4;;FALSE;FALSE;3;25,00;23,00;73,00;27,25;1989,25;;22-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;22-09-2020;;;COD;Gadus Morhua;220920207501
-Strandby;Torsk;A;2;;FALSE;FALSE;2;25,00;9,00;34,00;35,50;1207,00;;23-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;23-09-2020;;;COD;Gadus Morhua;230920209101
-Strandby;Torsk;A;3;;FALSE;FALSE;3;25,00;0,00;75,00;29,25;2193,75;;23-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;23-09-2020;;;COD;Gadus Morhua;230920209001
-Strandby;Torsk;E;4;;FALSE;FALSE;2;25,00;0,00;50,00;27,75;1387,50;;23-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;23-09-2020;;;COD;Gadus Morhua;230920208601
-Skagen;Torsk;E;4;GARN;FALSE;FALSE;1;0,00;5,00;5,00;25,50;127,50;27, 3A;23-09-2020;GNS;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;23-09-2020;;;COD;Gadus Morhua;2309202020801
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;2;25,00;11,00;36,00;26,50;954,00;27, 3A;23-09-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;23-09-2020;;;COD;Gadus Morhua;2309202020201
-Strandby;Torsk;A;2;;FALSE;FALSE;2;25,00;8,00;33,00;45,50;1501,50;;24-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;24-09-2020;;;COD;Gadus Morhua;240920209601
-Strandby;Torsk;A;3;;FALSE;FALSE;1;25,00;0,00;25,00;32,50;812,50;;24-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;24-09-2020;;;COD;Gadus Morhua;240920209802
-Hirtshals;Torsk;E;2;TRAWL;FALSE;FALSE;3;0,00;50,00;50,00;35,00;1750,00;27.3.AN;24-09-2020;OTB;S 43;"S 43 ""Nordstrand""";"Gitte Henning A/S
+Liseruten 1";3730;Nexø;Denmark;;;15-09-2020;14-09-2020;14-09-2020;COD;Gadus Morhua;1,5092E+12
+Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;12;20;0;240;40,75;9780;15-09-2020;OTB;RI 433;"RI 433 ""Emmalie""";Metheasvej 1, 1;6960;Hvide Sande;Denmark;;;15-09-2020;07-09-2020;14-09-2020;COD;Gadus Morhua;1,5092E+12
+Strandby;Torsk;E;4;;FALSE;FALSE;1;0;10;10;39,5;395;15-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;15-09-2020;;;COD;Gadus Morhua;1,5092E+11
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;2;25;16;41;35;1435;15-09-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;15-09-2020;;;COD;Gadus Morhua;1,5092E+12
+Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;10;25;21;246;38,5;9471;16-09-2020;OTB;NC 333;"NC 333 ""Janne-Kristin""";Niedersachsenstrasse;D-27472;Cuxhaven;Germany;;;16-09-2020;09-09-2020;15-09-2020;COD;Gadus Morhua;1,6092E+12
+Strandby;Torsk;E;4;;FALSE;FALSE;1;0;21;21;40,5;850,5;16-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;16-09-2020;;;COD;Gadus Morhua;1,6092E+11
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;3;25;13;63;38,75;2441,25;16-09-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;16-09-2020;;;COD;Gadus Morhua;1,6092E+12
+Hanstholm;Torsk;A;2;FLY;FALSE;TRUE;5;0;122;122;49,5;6039;17-09-2020;SSC;L 654;"L 654 ""Pia Glanz""";Stormgade 8, 1.s.;6960;Hvide Sande;Denmark;21257167-John;;17-09-2020;11-09-2020;15-09-2020;COD;Gadus Morhua;1,7092E+12
+Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;2;25;30;55;55,5;3052,5;17-09-2020;OTB;S 107;"S 107 ""Skagerak""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;;;17-09-2020;15-09-2020;16-09-2020;COD;Gadus Morhua;1,7092E+11
+Skagen;Torsk;E;3;TRAWL;FALSE;FALSE;1;0;25;25;55;1375;17-09-2020;OTB;S 107;"S 107 ""Skagerak""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;;;17-09-2020;15-09-2020;16-09-2020;COD;Gadus Morhua;1,7092E+11
+Hanstholm;Torsk;E;2;GARN;FALSE;FALSE;3;25;0;75;48;3600;18-09-2020;GNS;R 69 K;R 69 K  (Samler);;;;Norway;;;18-09-2020;;;COD;Gadus Morhua;1,8092E+12
+Strandby;Torsk;E;2;;FALSE;FALSE;1;25;0;25;50,5;1262,5;18-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;18-09-2020;;;COD;Gadus Morhua;1,8092E+11
+Strandby;Torsk;E;4;;FALSE;FALSE;2;25;0;50;28,75;1437,5;21-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;21-09-2020;;;COD;Gadus Morhua;2,1092E+11
+Strandby;Torsk;E;4;;FALSE;FALSE;3;25;24;74;30,25;2238,5;21-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;21-09-2020;;;COD;Gadus Morhua;2,1092E+11
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;5;25;0;125;28;3500;21-09-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;21-09-2020;;;COD;Gadus Morhua;2,1092E+12
+Strandby;Torsk;E;4;;FALSE;FALSE;3;25;23;73;27,25;1989,25;22-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;22-09-2020;;;COD;Gadus Morhua;2,2092E+11
+Strandby;Torsk;A;2;;FALSE;FALSE;2;25;9;34;35,5;1207;23-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;23-09-2020;;;COD;Gadus Morhua;2,3092E+11
+Strandby;Torsk;A;3;;FALSE;FALSE;3;25;0;75;29,25;2193,75;23-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;23-09-2020;;;COD;Gadus Morhua;2,3092E+11
+Strandby;Torsk;E;4;;FALSE;FALSE;2;25;0;50;27,75;1387,5;23-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;23-09-2020;;;COD;Gadus Morhua;2,3092E+11
+Skagen;Torsk;E;4;GARN;FALSE;FALSE;1;0;5;5;25,5;127,5;23-09-2020;GNS;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;23-09-2020;;;COD;Gadus Morhua;2,3092E+12
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;2;25;11;36;26,5;954;23-09-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;23-09-2020;;;COD;Gadus Morhua;2,3092E+12
+Strandby;Torsk;A;2;;FALSE;FALSE;2;25;8;33;45,5;1501,5;24-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;24-09-2020;;;COD;Gadus Morhua;2,4092E+11
+Strandby;Torsk;A;3;;FALSE;FALSE;1;25;0;25;32,5;812,5;24-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;24-09-2020;;;COD;Gadus Morhua;2,4092E+11
+Hirtshals;Torsk;E;2;TRAWL;FALSE;FALSE;3;0;50;50;35;1750;24-09-2020;OTB;S 43;"S 43 ""Nordstrand""";"Gitte Henning A/S
 Østerbyvej 44
-";9990;Skagen;Denmark;;;24-09-2020;21-09-2020;23-09-2020;COD;Gadus Morhua;2409202020102
-Hirtshals;Torsk;E;2;VOD;FALSE;FALSE;1;25,00;0,00;25,00;49,50;1237,50;27.3.AN;24-09-2020;SDN;L 40;"L 40 ""Thomas Billy""";Auktionsgade 30;7730;Hanstholm;Denmark;;;24-09-2020;21-09-2020;23-09-2020;COD;Gadus Morhua;2409202025002
-Strandby;Torsk;E;2;;FALSE;FALSE;2;25,00;23,00;48,00;50,00;2400,00;;24-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;24-09-2020;;;COD;Gadus Morhua;240920209401
-Strandby;Torsk;E;4;;FALSE;FALSE;5;25,00;0,00;125,00;26,25;3281,25;;24-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;24-09-2020;;;COD;Gadus Morhua;240920209201
-Strandby;Torsk;A;3;;FALSE;FALSE;2;25,00;17,00;42,00;37,50;1575,00;;28-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;28-09-2020;;;COD;Gadus Morhua;280920206802
-Strandby;Torsk;A;4;;FALSE;FALSE;2;25,00;24,00;49,00;37,50;1837,50;;28-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;28-09-2020;;;COD;Gadus Morhua;280920206901
-Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;5;20,00;0,00;100,00;27,50;2750,00;27.4.A;28-09-2020;OTB;HM 228;"HM 228 ""Pondus""";Bytorvet 34;7730;Hanstholm;Denmark;40791674;;28-09-2020;19-09-2020;27-09-2020;COD;Gadus Morhua;2809202017405
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;0;0,00;5,00;5,00;30,00;150,00;27, 3AN;28-09-2020;OTB;S 226;"S 226 "" Emmely Pilegaard""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;22821284;;28-09-2020;25-09-2020;25-09-2020;COD;Gadus Morhua;280920207101
-Strandby;Torsk;A;2;;FALSE;FALSE;1;0,00;20,00;20,00;40,50;810,00;;29-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;29-09-2020;;;COD;Gadus Morhua;290920206601
-Strandby;Torsk;E;2;;FALSE;FALSE;1;0,00;18,00;18,00;40,50;729,00;;29-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;29-09-2020;;;COD;Gadus Morhua;290920206501
-Strandby;Torsk;A;3;;FALSE;FALSE;1;25,00;0,00;25,00;37,50;937,50;;30-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;30-09-2020;;;COD;Gadus Morhua;3009202010403
-Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;1;0,00;23,00;23,00;41,00;943,00;27, 3A;30-09-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;30-09-2020;;;COD;Gadus Morhua;3009202020301
-Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;1;0,00;25,00;25,00;44,00;1100,00;27, 3AN;30-09-2020;OTB;S 107;"S 107 ""Skagerak""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;;;30-09-2020;28-09-2020;29-09-2020;COD;Gadus Morhua;3009202030701
-Strandby;Torsk;E;4;;FALSE;FALSE;3;25,00;11,00;61,00;28,50;1738,50;;30-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;30-09-2020;;;COD;Gadus Morhua;3009202010101
-Strandby;Torsk;A;2;;FALSE;FALSE;1;25,00;26,00;26,00;42,75;1111,50;;01-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;01-10-2020;;;COD;Gadus Morhua;011020209001
-Strandby;Torsk;E;3;;FALSE;FALSE;1;25,00;0,00;25,00;34,25;856,25;;01-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;01-10-2020;;;COD;Gadus Morhua;011020208503
-Strandby;Torsk;E;4;;FALSE;FALSE;2;25,00;16,00;41,00;26,75;1096,75;;01-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;01-10-2020;;;COD;Gadus Morhua;011020208401
-Strandby;Torsk;A;2;;FALSE;FALSE;2;25,00;0,00;50,00;38,50;1925,00;;02-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;02-10-2020;;;COD;Gadus Morhua;0210202010602
-Strandby;Torsk;A;3;;FALSE;FALSE;1;25,00;0,00;25,00;33,75;843,75;;02-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;02-10-2020;;;COD;Gadus Morhua;0210202010501
-Skagen;Torsk;A;4;TRAWL;FALSE;FALSE;0;0,00;6,00;6,00;24,50;147,00;27, 3AN;02-10-2020;OTB;S 226;"S 226 "" Emmely Pilegaard""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;22821284;;02-10-2020;30-09-2020;01-10-2020;COD;Gadus Morhua;0210202031401
-Strandby;Torsk;E;2;;FALSE;FALSE;2;25,00;15,00;40,00;45,50;1820,00;;02-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;02-10-2020;;;COD;Gadus Morhua;0210202010001
-Hanstholm;Torsk;E;4;GARN;FALSE;TRUE;5;20,00;19,00;99,00;27,25;2697,75;27.3.AN;02-10-2020;GNS;L 625;"L 625  ""Maritana""";Auktionsgade 30;7730;Hanstholm;Denmark;;;02-10-2020;29-09-2020;01-10-2020;COD;Gadus Morhua;0210202022201
-Strandby;Torsk;E;4;;FALSE;FALSE;2;25,00;0,00;50,00;28,25;1412,50;;02-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;02-10-2020;;;COD;Gadus Morhua;021020209801
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0,00;12,00;12,00;26,00;312,00;27, 3A;02-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;02-10-2020;;;COD;Gadus Morhua;0210202020501
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;4;25,00;16,00;91,00;27,00;2457,00;27, 3A;02-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;02-10-2020;;;COD;Gadus Morhua;0210202020101
-Hanstholm;Torsk;E;2;TRAWL;FALSE;TRUE;2;25,00;0,00;50,00;54,00;2700,00;27.4.B;05-10-2020;OTB;GG 150;"GG 150 ""Älvsborg""";;;;Denmark;;gg150alvsborg@hotmail.com;05-10-2020;28-09-2020;03-10-2020;COD;Gadus Morhua;0510202020302
-Strandby;Torsk;E;2;;FALSE;FALSE;1;0,00;26,00;26,00;43,50;1131,00;;05-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;05-10-2020;;;COD;Gadus Morhua;051020204501
-Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;5;20,00;0,00;100,00;30,25;3025,00;27.4.B;05-10-2020;OTB;GG 150;"GG 150 ""Älvsborg""";;;;Denmark;;gg150alvsborg@hotmail.com;05-10-2020;28-09-2020;03-10-2020;COD;Gadus Morhua;0510202020504
-Strandby;Torsk;E;4;;FALSE;FALSE;2;25,00;9,00;34,00;33,50;1139,00;;05-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;05-10-2020;;;COD;Gadus Morhua;051020204301
-Strandby;Torsk;A;2;;FALSE;FALSE;2;25,00;19,00;44,00;45,50;2002,00;;06-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;06-10-2020;;;COD;Gadus Morhua;061020208401
-Strandby;Torsk;A;3;;FALSE;FALSE;1;25,00;0,00;25,00;40,00;1000,00;;06-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;06-10-2020;;;COD;Gadus Morhua;061020208601
-Hanstholm;Torsk;E;2;FLY;TRUE;TRUE;2;25,00;0,00;50,00;47,00;2350,00;27.2.A2;06-10-2020;SSC;AG 7 LS;AG 7 LS “Astrid”;;;;Norway;;;06-10-2020;;;COD;Gadus Morhua;0610202032204
-Strandby;Torsk;E;2;;FALSE;FALSE;2;25,00;22,00;47,00;50,50;2373,50;;06-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;06-10-2020;;;COD;Gadus Morhua;061020207801
-Strandby;Torsk;E;3;;FALSE;FALSE;1;25,00;0,00;25,00;38,75;968,75;;06-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;06-10-2020;;;COD;Gadus Morhua;061020207905
-Strandby;Torsk;E;4;;FALSE;FALSE;2;25,00;0,00;50,00;31,50;1575,00;;06-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;06-10-2020;;;COD;Gadus Morhua;061020208002
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;4;25,00;0,00;100,00;31,25;3125,00;27, 3A;06-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;06-10-2020;;;COD;Gadus Morhua;061020202201
-Strandby;Torsk;A;2;;FALSE;FALSE;1;25,00;0,00;25,00;48,00;1200,00;;07-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;07-10-2020;;;COD;Gadus Morhua;071020209002
-Hirtshals;Torsk;A;4;;FALSE;FALSE;2;20,00;0,00;40,00;28,00;1120,00;27.3.AN;07-10-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;07-10-2020;;;COD;Gadus Morhua;071020206201
-Strandby;Torsk;A;4;;FALSE;FALSE;3;25,00;20,00;70,00;28,25;1977,50;;07-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;07-10-2020;;;COD;Gadus Morhua;071020208801
-Strandby;Torsk;E;2;;FALSE;FALSE;2;25,00;0,00;50,00;48,00;2400,00;;07-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;07-10-2020;;;COD;Gadus Morhua;071020208402
-Hanstholm;Torsk;E;4;;FALSE;FALSE;1;0,00;12,00;12,00;28,50;342,00;;07-10-2020;;SAMLER;Hanstholm Samlecentral A/S;Auktionsgade 30;7730;Hanstholm;Denmark;;;07-10-2020;;;COD;Gadus Morhua;0710202018901
-Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;6;20,00;0,00;120,00;30,00;3600,00;27.4.A;07-10-2020;OTB;NC 315;"NC 315 ""Viktoria""";;;;Denmark;;;07-10-2020;02-10-2020;06-10-2020;COD;Gadus Morhua;0710202016502
-Hirtshals;Torsk;E;4;;FALSE;FALSE;1;20,00;0,00;20,00;32,00;640,00;27.3.AN;07-10-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;07-10-2020;;;COD;Gadus Morhua;071020205405
-Hirtshals;Torsk;E;4;;FALSE;FALSE;1;20,00;12,00;12,00;32,50;390,00;27.3.AN;07-10-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;07-10-2020;;;COD;Gadus Morhua;071020205401
-Strandby;Torsk;E;4;;FALSE;FALSE;1;25,00;29,00;29,00;33,25;964,25;;07-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;07-10-2020;;;COD;Gadus Morhua;071020208201
-Strandby;Torsk;A;2;;FALSE;FALSE;3;25,00;20,00;70,00;44,50;3115,00;;08-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;08-10-2020;;;COD;Gadus Morhua;0810202010701
-Strandby;Torsk;A;3;;FALSE;FALSE;1;25,00;0,00;25,00;41,75;1043,75;;08-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;08-10-2020;;;COD;Gadus Morhua;0810202010604
-Strandby;Torsk;A;3;;FALSE;FALSE;1;25,00;0,00;25,00;43,25;1081,25;;08-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;08-10-2020;;;COD;Gadus Morhua;0810202010601
-Strandby;Torsk;A;4;;FALSE;FALSE;3;25,00;21,00;71,00;31,00;2201,00;;08-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;08-10-2020;;;COD;Gadus Morhua;0810202010501
-Strandby;Torsk;E;2;;FALSE;FALSE;2;25,00;19,00;44,00;54,50;2398,00;;08-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;08-10-2020;;;COD;Gadus Morhua;0810202010101
-Strandby;Torsk;E;3;;FALSE;FALSE;2;25,00;16,00;41,00;40,00;1640,00;;08-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;08-10-2020;;;COD;Gadus Morhua;0810202010004
-Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;8;20,00;0,00;160,00;31,00;4960,00;27.3.AN;08-10-2020;OTB;HM 127;"HM 127  ""Karen Nielsen""";Bytorvet;7730;Hanstholm;Denmark;004797603255;;08-10-2020;04-10-2020;07-10-2020;COD;Gadus Morhua;0810202017903
-Hanstholm;Torsk;E;4;;FALSE;FALSE;2;20,00;13,00;33,00;35,00;1155,00;;08-10-2020;;SAMLER;Hanstholm Samlecentral A/S;Auktionsgade 30;7730;Hanstholm;Denmark;;;08-10-2020;;;COD;Gadus Morhua;0810202021801
-Strandby;Torsk;E;4;;FALSE;FALSE;5;25,00;10,00;110,00;32,50;3575,00;;08-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;08-10-2020;;;COD;Gadus Morhua;081020209901
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;3;25,00;18,00;68,00;30,75;2091,00;27, 3A;08-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;08-10-2020;;;COD;Gadus Morhua;081020202501
-Strandby;Torsk;A;2;;FALSE;FALSE;1;0,00;9,00;9,00;44,00;396,00;;09-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;09-10-2020;;;COD;Gadus Morhua;091020209601
-Strandby;Torsk;A;3;;FALSE;FALSE;2;25,00;12,00;37,00;40,00;1480,00;;09-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;09-10-2020;;;COD;Gadus Morhua;091020209501
-Strandby;Torsk;E;2;;FALSE;FALSE;1;25,00;9,00;9,00;51,50;463,50;;09-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;09-10-2020;;;COD;Gadus Morhua;091020209002
-Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;1;0,00;9,00;9,00;42,50;382,50;27, 3AN;09-10-2020;OTB;S 226;"S 226 "" Emmely Pilegaard""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;22821284;;09-10-2020;06-10-2020;08-10-2020;COD;Gadus Morhua;0910202010101
-Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;1;0,00;10,00;10,00;45,00;450,00;27, 3AN;09-10-2020;OTB;S 486;S 486 Sajoni;;;;Denmark;;;09-10-2020;06-10-2020;08-10-2020;COD;Gadus Morhua;091020208101
-Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;1;25,00;19,00;19,00;45,50;864,50;27, 3A;09-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;09-10-2020;;;COD;Gadus Morhua;091020202001
-Strandby;Torsk;E;4;;FALSE;FALSE;2;25,00;12,00;37,00;33,50;1239,50;;09-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;09-10-2020;;;COD;Gadus Morhua;091020208802
-Strandby;Torsk;A;2;;FALSE;FALSE;4;25,00;19,00;94,00;39,75;3736,50;;12-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;12-10-2020;;;COD;Gadus Morhua;121020207201
-Strandby;Torsk;A;3;;FALSE;FALSE;2;25,00;15,00;40,00;36,75;1470,00;;12-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;12-10-2020;;;COD;Gadus Morhua;121020207403
-Hanstholm;Torsk;A;4;FLY;FALSE;TRUE;2;19,00;0,00;38,00;29,25;1111,50;27.4.A;12-10-2020;SSC;VA 97 M;"VA 97 M ""Nordsö""";;;;Norway;;;12-10-2020;08-10-2020;10-10-2020;COD;Gadus Morhua;1210202014502
-Strandby;Torsk;A;4;;FALSE;FALSE;1;25,00;0,00;25,00;32,25;806,25;;12-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;12-10-2020;;;COD;Gadus Morhua;121020207503
-Strandby;Torsk;A;4;;FALSE;FALSE;1;25,00;0,00;25,00;33,25;831,25;;12-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;12-10-2020;;;COD;Gadus Morhua;121020207502
-Strandby;Torsk;A;4;;FALSE;FALSE;2;25,00;0,00;50,00;34,25;1712,50;;12-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;12-10-2020;;;COD;Gadus Morhua;121020207501
-Strandby;Torsk;E;2;;FALSE;FALSE;1;25,00;15,00;15,00;44,00;660,00;;12-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;12-10-2020;;;COD;Gadus Morhua;121020206802
-Strandby;Torsk;E;2;;FALSE;FALSE;1;25,00;0,00;25,00;52,50;1312,50;;12-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;12-10-2020;;;COD;Gadus Morhua;121020206801
-Skagen;Torsk;E;2;GARN;FALSE;FALSE;0;0,00;4,00;4,00;46,50;186,00;27, 3A;12-10-2020;GNS;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;12-10-2020;;;COD;Gadus Morhua;121020202601
-Strandby;Torsk;E;3;;FALSE;FALSE;1;25,00;0,00;25,00;38,75;968,75;;12-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;12-10-2020;;;COD;Gadus Morhua;121020207001
-Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;5;20,00;14,00;94,00;29,50;2773,00;27.4.A;12-10-2020;OTB;HM 289;"HM 289 ""Cyrano""";"Frederik Vendelbo Fiskeri ApS
+";9990;Skagen;Denmark;;;24-09-2020;21-09-2020;23-09-2020;COD;Gadus Morhua;2,4092E+12
+Hirtshals;Torsk;E;2;VOD;FALSE;FALSE;1;25;0;25;49,5;1237,5;24-09-2020;SDN;L 40;"L 40 ""Thomas Billy""";Auktionsgade 30;7730;Hanstholm;Denmark;;;24-09-2020;21-09-2020;23-09-2020;COD;Gadus Morhua;2,4092E+12
+Strandby;Torsk;E;2;;FALSE;FALSE;2;25;23;48;50;2400;24-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;24-09-2020;;;COD;Gadus Morhua;2,4092E+11
+Strandby;Torsk;E;4;;FALSE;FALSE;5;25;0;125;26,25;3281,25;24-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;24-09-2020;;;COD;Gadus Morhua;2,4092E+11
+Strandby;Torsk;A;3;;FALSE;FALSE;2;25;17;42;37,5;1575;28-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;28-09-2020;;;COD;Gadus Morhua;2,8092E+11
+Strandby;Torsk;A;4;;FALSE;FALSE;2;25;24;49;37,5;1837,5;28-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;28-09-2020;;;COD;Gadus Morhua;2,8092E+11
+Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;5;20;0;100;27,5;2750;28-09-2020;OTB;HM 228;"HM 228 ""Pondus""";Bytorvet 34;7730;Hanstholm;Denmark;40791674;;28-09-2020;19-09-2020;27-09-2020;COD;Gadus Morhua;2,8092E+12
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;0;0;5;5;30;150;28-09-2020;OTB;S 226;"S 226 "" Emmely Pilegaard""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;22821284;;28-09-2020;25-09-2020;25-09-2020;COD;Gadus Morhua;2,8092E+11
+Strandby;Torsk;A;2;;FALSE;FALSE;1;0;20;20;40,5;810;29-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;29-09-2020;;;COD;Gadus Morhua;2,9092E+11
+Strandby;Torsk;E;2;;FALSE;FALSE;1;0;18;18;40,5;729;29-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;29-09-2020;;;COD;Gadus Morhua;2,9092E+11
+Strandby;Torsk;A;3;;FALSE;FALSE;1;25;0;25;37,5;937,5;30-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;30-09-2020;;;COD;Gadus Morhua;3,0092E+12
+Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;1;0;23;23;41;943;30-09-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;30-09-2020;;;COD;Gadus Morhua;3,0092E+12
+Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;1;0;25;25;44;1100;30-09-2020;OTB;S 107;"S 107 ""Skagerak""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;;;30-09-2020;28-09-2020;29-09-2020;COD;Gadus Morhua;3,0092E+12
+Strandby;Torsk;E;4;;FALSE;FALSE;3;25;11;61;28,5;1738,5;30-09-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;30-09-2020;;;COD;Gadus Morhua;3,0092E+12
+Strandby;Torsk;A;2;;FALSE;FALSE;1;25;26;26;42,75;1111,5;01-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;01-10-2020;;;COD;Gadus Morhua;11020209001
+Strandby;Torsk;E;3;;FALSE;FALSE;1;25;0;25;34,25;856,25;01-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;01-10-2020;;;COD;Gadus Morhua;11020208503
+Strandby;Torsk;E;4;;FALSE;FALSE;2;25;16;41;26,75;1096,75;01-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;01-10-2020;;;COD;Gadus Morhua;11020208401
+Strandby;Torsk;A;2;;FALSE;FALSE;2;25;0;50;38,5;1925;02-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;02-10-2020;;;COD;Gadus Morhua;2,10202E+11
+Strandby;Torsk;A;3;;FALSE;FALSE;1;25;0;25;33,75;843,75;02-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;02-10-2020;;;COD;Gadus Morhua;2,10202E+11
+Skagen;Torsk;A;4;TRAWL;FALSE;FALSE;0;0;6;6;24,5;147;02-10-2020;OTB;S 226;"S 226 "" Emmely Pilegaard""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;22821284;;02-10-2020;30-09-2020;01-10-2020;COD;Gadus Morhua;2,10202E+11
+Strandby;Torsk;E;2;;FALSE;FALSE;2;25;15;40;45,5;1820;02-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;02-10-2020;;;COD;Gadus Morhua;2,10202E+11
+Hanstholm;Torsk;E;4;GARN;FALSE;TRUE;5;20;19;99;27,25;2697,75;02-10-2020;GNS;L 625;"L 625  ""Maritana""";Auktionsgade 30;7730;Hanstholm;Denmark;;;02-10-2020;29-09-2020;01-10-2020;COD;Gadus Morhua;2,10202E+11
+Strandby;Torsk;E;4;;FALSE;FALSE;2;25;0;50;28,25;1412,5;02-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;02-10-2020;;;COD;Gadus Morhua;21020209801
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0;12;12;26;312;02-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;02-10-2020;;;COD;Gadus Morhua;2,10202E+11
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;4;25;16;91;27;2457;02-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;02-10-2020;;;COD;Gadus Morhua;2,10202E+11
+Hanstholm;Torsk;E;2;TRAWL;FALSE;TRUE;2;25;0;50;54;2700;05-10-2020;OTB;GG 150;"GG 150 ""Älvsborg""";;;;Denmark;;gg150alvsborg@hotmail.com;05-10-2020;28-09-2020;03-10-2020;COD;Gadus Morhua;5,10202E+11
+Strandby;Torsk;E;2;;FALSE;FALSE;1;0;26;26;43,5;1131;05-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;05-10-2020;;;COD;Gadus Morhua;51020204501
+Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;5;20;0;100;30,25;3025;05-10-2020;OTB;GG 150;"GG 150 ""Älvsborg""";;;;Denmark;;gg150alvsborg@hotmail.com;05-10-2020;28-09-2020;03-10-2020;COD;Gadus Morhua;5,10202E+11
+Strandby;Torsk;E;4;;FALSE;FALSE;2;25;9;34;33,5;1139;05-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;05-10-2020;;;COD;Gadus Morhua;51020204301
+Strandby;Torsk;A;2;;FALSE;FALSE;2;25;19;44;45,5;2002;06-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;06-10-2020;;;COD;Gadus Morhua;61020208401
+Strandby;Torsk;A;3;;FALSE;FALSE;1;25;0;25;40;1000;06-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;06-10-2020;;;COD;Gadus Morhua;61020208601
+Hanstholm;Torsk;E;2;FLY;TRUE;TRUE;2;25;0;50;47;2350;06-10-2020;SSC;AG 7 LS;AG 7 LS “Astrid”;;;;Norway;;;06-10-2020;;;COD;Gadus Morhua;6,10202E+11
+Strandby;Torsk;E;2;;FALSE;FALSE;2;25;22;47;50,5;2373,5;06-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;06-10-2020;;;COD;Gadus Morhua;61020207801
+Strandby;Torsk;E;3;;FALSE;FALSE;1;25;0;25;38,75;968,75;06-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;06-10-2020;;;COD;Gadus Morhua;61020207905
+Strandby;Torsk;E;4;;FALSE;FALSE;2;25;0;50;31,5;1575;06-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;06-10-2020;;;COD;Gadus Morhua;61020208002
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;4;25;0;100;31,25;3125;06-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;06-10-2020;;;COD;Gadus Morhua;61020202201
+Strandby;Torsk;A;2;;FALSE;FALSE;1;25;0;25;48;1200;07-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;07-10-2020;;;COD;Gadus Morhua;71020209002
+Hirtshals;Torsk;A;4;;FALSE;FALSE;2;20;0;40;28;1120;07-10-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;07-10-2020;;;COD;Gadus Morhua;71020206201
+Strandby;Torsk;A;4;;FALSE;FALSE;3;25;20;70;28,25;1977,5;07-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;07-10-2020;;;COD;Gadus Morhua;71020208801
+Strandby;Torsk;E;2;;FALSE;FALSE;2;25;0;50;48;2400;07-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;07-10-2020;;;COD;Gadus Morhua;71020208402
+Hanstholm;Torsk;E;4;;FALSE;FALSE;1;0;12;12;28,5;342;07-10-2020;;SAMLER;Hanstholm Samlecentral A/S;Auktionsgade 30;7730;Hanstholm;Denmark;;;07-10-2020;;;COD;Gadus Morhua;7,10202E+11
+Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;6;20;0;120;30;3600;07-10-2020;OTB;NC 315;"NC 315 ""Viktoria""";;;;Denmark;;;07-10-2020;02-10-2020;06-10-2020;COD;Gadus Morhua;7,10202E+11
+Hirtshals;Torsk;E;4;;FALSE;FALSE;1;20;0;20;32;640;07-10-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;07-10-2020;;;COD;Gadus Morhua;71020205405
+Hirtshals;Torsk;E;4;;FALSE;FALSE;1;20;12;12;32,5;390;07-10-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;07-10-2020;;;COD;Gadus Morhua;71020205401
+Strandby;Torsk;E;4;;FALSE;FALSE;1;25;29;29;33,25;964,25;07-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;07-10-2020;;;COD;Gadus Morhua;71020208201
+Strandby;Torsk;A;2;;FALSE;FALSE;3;25;20;70;44,5;3115;08-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;08-10-2020;;;COD;Gadus Morhua;8,10202E+11
+Strandby;Torsk;A;3;;FALSE;FALSE;1;25;0;25;41,75;1043,75;08-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;08-10-2020;;;COD;Gadus Morhua;8,10202E+11
+Strandby;Torsk;A;3;;FALSE;FALSE;1;25;0;25;43,25;1081,25;08-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;08-10-2020;;;COD;Gadus Morhua;8,10202E+11
+Strandby;Torsk;A;4;;FALSE;FALSE;3;25;21;71;31;2201;08-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;08-10-2020;;;COD;Gadus Morhua;8,10202E+11
+Strandby;Torsk;E;2;;FALSE;FALSE;2;25;19;44;54,5;2398;08-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;08-10-2020;;;COD;Gadus Morhua;8,10202E+11
+Strandby;Torsk;E;3;;FALSE;FALSE;2;25;16;41;40;1640;08-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;08-10-2020;;;COD;Gadus Morhua;8,10202E+11
+Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;8;20;0;160;31;4960;08-10-2020;OTB;HM 127;"HM 127  ""Karen Nielsen""";Bytorvet;7730;Hanstholm;Denmark;4797603255;;08-10-2020;04-10-2020;07-10-2020;COD;Gadus Morhua;8,10202E+11
+Hanstholm;Torsk;E;4;;FALSE;FALSE;2;20;13;33;35;1155;08-10-2020;;SAMLER;Hanstholm Samlecentral A/S;Auktionsgade 30;7730;Hanstholm;Denmark;;;08-10-2020;;;COD;Gadus Morhua;8,10202E+11
+Strandby;Torsk;E;4;;FALSE;FALSE;5;25;10;110;32,5;3575;08-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;08-10-2020;;;COD;Gadus Morhua;81020209901
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;3;25;18;68;30,75;2091;08-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;08-10-2020;;;COD;Gadus Morhua;81020202501
+Strandby;Torsk;A;2;;FALSE;FALSE;1;0;9;9;44;396;09-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;09-10-2020;;;COD;Gadus Morhua;91020209601
+Strandby;Torsk;A;3;;FALSE;FALSE;2;25;12;37;40;1480;09-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;09-10-2020;;;COD;Gadus Morhua;91020209501
+Strandby;Torsk;E;2;;FALSE;FALSE;1;25;9;9;51,5;463,5;09-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;09-10-2020;;;COD;Gadus Morhua;91020209002
+Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;1;0;9;9;42,5;382,5;09-10-2020;OTB;S 226;"S 226 "" Emmely Pilegaard""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;22821284;;09-10-2020;06-10-2020;08-10-2020;COD;Gadus Morhua;9,10202E+11
+Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;1;0;10;10;45;450;09-10-2020;OTB;S 486;S 486 Sajoni;;;;Denmark;;;09-10-2020;06-10-2020;08-10-2020;COD;Gadus Morhua;91020208101
+Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;1;25;19;19;45,5;864,5;09-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;09-10-2020;;;COD;Gadus Morhua;91020202001
+Strandby;Torsk;E;4;;FALSE;FALSE;2;25;12;37;33,5;1239,5;09-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;09-10-2020;;;COD;Gadus Morhua;91020208802
+Strandby;Torsk;A;2;;FALSE;FALSE;4;25;19;94;39,75;3736,5;12-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;12-10-2020;;;COD;Gadus Morhua;1,2102E+11
+Strandby;Torsk;A;3;;FALSE;FALSE;2;25;15;40;36,75;1470;12-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;12-10-2020;;;COD;Gadus Morhua;1,2102E+11
+Hanstholm;Torsk;A;4;FLY;FALSE;TRUE;2;19;0;38;29,25;1111,5;12-10-2020;SSC;VA 97 M;"VA 97 M ""Nordsö""";;;;Norway;;;12-10-2020;08-10-2020;10-10-2020;COD;Gadus Morhua;1,2102E+12
+Strandby;Torsk;A;4;;FALSE;FALSE;1;25;0;25;32,25;806,25;12-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;12-10-2020;;;COD;Gadus Morhua;1,2102E+11
+Strandby;Torsk;A;4;;FALSE;FALSE;1;25;0;25;33,25;831,25;12-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;12-10-2020;;;COD;Gadus Morhua;1,2102E+11
+Strandby;Torsk;A;4;;FALSE;FALSE;2;25;0;50;34,25;1712,5;12-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;12-10-2020;;;COD;Gadus Morhua;1,2102E+11
+Strandby;Torsk;E;2;;FALSE;FALSE;1;25;15;15;44;660;12-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;12-10-2020;;;COD;Gadus Morhua;1,2102E+11
+Strandby;Torsk;E;2;;FALSE;FALSE;1;25;0;25;52,5;1312,5;12-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;12-10-2020;;;COD;Gadus Morhua;1,2102E+11
+Skagen;Torsk;E;2;GARN;FALSE;FALSE;0;0;4;4;46,5;186;12-10-2020;GNS;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;12-10-2020;;;COD;Gadus Morhua;1,2102E+11
+Strandby;Torsk;E;3;;FALSE;FALSE;1;25;0;25;38,75;968,75;12-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;12-10-2020;;;COD;Gadus Morhua;1,2102E+11
+Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;5;20;14;94;29,5;2773;12-10-2020;OTB;HM 289;"HM 289 ""Cyrano""";"Frederik Vendelbo Fiskeri ApS
 Bornholms Forvaltning
-Liseruten 1";3730;Nexø;Denmark;;;12-10-2020;05-10-2020;12-10-2020;COD;Gadus Morhua;1210202046401
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;3;25,00;12,00;62,00;34,00;2108,00;27, 3A;12-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;12-10-2020;;;COD;Gadus Morhua;121020203001
-Strandby;Torsk;A;3;;FALSE;FALSE;1;0,00;27,00;27,00;38,50;1039,50;;13-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;13-10-2020;;;COD;Gadus Morhua;131020209501
-Hirtshals;Torsk;E;4;;FALSE;FALSE;4;20,00;0,00;80,00;32,00;2560,00;27.3.AN;13-10-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;13-10-2020;;;COD;Gadus Morhua;131020207405
-Skagen;Torsk;E;4;GARN;FALSE;FALSE;1;25,00;16,00;16,00;25,00;400,00;27, 3A;13-10-2020;GNS;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;13-10-2020;;;COD;Gadus Morhua;131020203101
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0,00;17,00;17,00;25,00;425,00;27, 3A;13-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;13-10-2020;;;COD;Gadus Morhua;131020203401
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;3;25,00;16,00;66,00;26,00;1716,00;27, 3A;13-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;13-10-2020;;;COD;Gadus Morhua;131020203801
-Hanstholm;Torsk;E;2;TRAWL;FALSE;TRUE;4;25,00;0,00;100,00;46,00;4600,00;27.4.B;14-10-2020;OTB;L 649;"L 649 ""Martine""";xvej 49;7680;Thyborøn;Denmark;;;14-10-2020;06-10-2020;13-10-2020;COD;Gadus Morhua;1410202016102
-Hirtshals;Torsk;E;2;TRAWL;FALSE;FALSE;1;25,00;0,00;25,00;50,50;1262,50;27.3.AN;14-10-2020;OTB;HM 127;"HM 127  ""Karen Nielsen""";Bytorvet;7730;Hanstholm;Denmark;004797603255;;14-10-2020;12-10-2020;13-10-2020;COD;Gadus Morhua;141020208002
-Hirtshals;Torsk;E;2;;FALSE;FALSE;2;25,00;0,00;50,00;51,75;2587,50;27.3.AN;14-10-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;14-10-2020;;;COD;Gadus Morhua;141020206102
-Strandby;Torsk;E;2;;FALSE;FALSE;1;0,00;13,00;13,00;46,50;604,50;;14-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;14-10-2020;;;COD;Gadus Morhua;141020208501
-Strandby;Torsk;E;3;;FALSE;FALSE;2;25,00;7,00;32,00;39,00;1248,00;;14-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;14-10-2020;;;COD;Gadus Morhua;141020208402
-Skagen;Torsk;E;4;;FALSE;FALSE;3;25,00;0,00;75,00;31,50;2362,50;27, 3A;14-10-2020;;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;14-10-2020;;;COD;Gadus Morhua;141020203401
-Strandby;Torsk;E;4;;FALSE;FALSE;7;25,00;15,00;165,00;31,00;5115,00;;15-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;15-10-2020;;;COD;Gadus Morhua;151020206901
-Strandby;Torsk;A;1;;FALSE;FALSE;1;0,00;8,00;8,00;34,50;276,00;;16-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;16-10-2020;;;COD;Gadus Morhua;161020207801
-Hanstholm;Torsk;A;4;;FALSE;FALSE;3;20,00;26,00;66,00;30,00;1980,00;;16-10-2020;;GRØN;Thorkild Grøn Samlecentral;Auktionsgade 23;7730;Hanstholm;Denmark;97961988;;16-10-2020;;;COD;Gadus Morhua;1610202018603
-Hanstholm;Torsk;A;4;TRAWL;FALSE;TRUE;3;25,00;0,00;75,00;34,50;2587,50;27.4.A;16-10-2020;OTB;HM 555;"HM 555 ""Kingfisher""";Havnegade 26;7680;Thyborøn;Denmark;21798197 S.A.;69918189 sat;16-10-2020;09-10-2020;15-10-2020;COD;Gadus Morhua;1610202014302
-Hirtshals;Torsk;A;4;;FALSE;FALSE;2;20,00;0,00;40,00;27,00;1080,00;27.3.AN;16-10-2020;;Mandal;Fiskelaget AS Mandal;;;;Norway;;;16-10-2020;;;COD;Gadus Morhua;161020202902
-Hirtshals;Torsk;A;4;;FALSE;FALSE;4;20,00;24,00;84,00;29,00;2436,00;27.3.AN;16-10-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;16-10-2020;;;COD;Gadus Morhua;161020205601
-Strandby;Torsk;E;2;;FALSE;FALSE;1;25,00;30,00;30,00;48,00;1440,00;;16-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;16-10-2020;;;COD;Gadus Morhua;161020207302
-Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;5;19,00;7,00;83,00;34,50;2863,50;27.4.A;16-10-2020;OTB;HM 227;"HM 227 ""Myggenes""";"Lynge Fiskeri Aps. MC Revision
-Havnegade 26,2";7680;Thyborøn;Denmark;;;16-10-2020;09-10-2020;15-10-2020;COD;Gadus Morhua;1610202014901
-Strandby;Torsk;E;4;;FALSE;FALSE;1;25,00;29,00;29,00;34,50;1000,50;;16-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;16-10-2020;;;COD;Gadus Morhua;161020207101
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0,00;16,00;16,00;28,00;448,00;27, 3AN;16-10-2020;OTB;S 226;"S 226 "" Emmely Pilegaard""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;22821284;;16-10-2020;13-10-2020;15-10-2020;COD;Gadus Morhua;161020208101
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;2;25,00;26,00;51,00;32,50;1657,50;27, 3A;16-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;16-10-2020;;;COD;Gadus Morhua;16102020601
-Strandby;Torsk;A;2;;FALSE;FALSE;4;25,00;23,00;98,00;42,75;4189,50;;19-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;19-10-2020;;;COD;Gadus Morhua;191020207601
-Strandby;Torsk;A;3;;FALSE;FALSE;2;25,00;27,00;52,00;33,50;1742,00;;19-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;19-10-2020;;;COD;Gadus Morhua;191020207502
-Hirtshals;Torsk;A;4;;FALSE;FALSE;5;20,00;14,00;94,00;21,00;1974,00;27.3.AN;19-10-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;19-10-2020;;;COD;Gadus Morhua;1910202011101
-Hanstholm;Torsk;E;2;TRAWL;FALSE;TRUE;4;25,00;0,00;100,00;46,00;4600,00;27.3.AN;19-10-2020;OTB;NC 315;"NC 315 ""Viktoria""";;;;Denmark;;;19-10-2020;15-10-2020;17-10-2020;COD;Gadus Morhua;1910202019803
-Strandby;Torsk;E;2;;FALSE;FALSE;2;25,00;34,00;59,00;50,00;2950,00;;19-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;19-10-2020;;;COD;Gadus Morhua;191020207001
-Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;1;25,00;0,00;25,00;46,00;1150,00;27, 3A;19-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;19-10-2020;;;COD;Gadus Morhua;191020202702
-Hanstholm;Torsk;E;4;FLY;FALSE;TRUE;6;20,00;7,00;107,00;21,00;2247,00;27.4.A;19-10-2020;SSC;L 549;"L 549 ""Frida Amalie""";;;;Denmark;;;19-10-2020;11-10-2020;17-10-2020;COD;Gadus Morhua;1910202061001
-Hanstholm;Torsk;E;4;FLY;FALSE;TRUE;5;20,00;0,00;100,00;22,00;2200,00;27.4.A;19-10-2020;SSC;L 654;"L 654 ""Pia Glanz""";Stormgade 8, 1.s.;6960;Hvide Sande;Denmark;21257167-John;;19-10-2020;13-10-2020;17-10-2020;COD;Gadus Morhua;1910202060402
-Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;10;20,00;0,00;200,00;25,50;5100,00;27.4.B;19-10-2020;OTB;GG 150;"GG 150 ""Älvsborg""";;;;Denmark;;gg150alvsborg@hotmail.com;19-10-2020;13-10-2020;17-10-2020;COD;Gadus Morhua;1910202020601
-Hirtshals;Torsk;E;4;;FALSE;FALSE;10;20,00;0,00;200,00;30,00;6000,00;27.3.AN;19-10-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;19-10-2020;;;COD;Gadus Morhua;1910202010305
-Hirtshals;Torsk;E;4;;FALSE;FALSE;5;20,00;0,00;100,00;31,00;3100,00;27.3.AN;19-10-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;19-10-2020;;;COD;Gadus Morhua;1910202010302
-Strandby;Torsk;E;4;;FALSE;FALSE;7;25,00;24,00;174,00;29,25;5089,50;;19-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;19-10-2020;;;COD;Gadus Morhua;191020206801
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;6;25,00;31,00;156,00;28,50;4446,00;27, 3A;19-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;19-10-2020;;;COD;Gadus Morhua;191020202901
-Hirtshals;Torsk;E;4;TRAWL;FALSE;FALSE;6;20,00;0,00;120,00;24,00;2880,00;27.3.AN;20-10-2020;OTB;S 43;"S 43 ""Nordstrand""";"Gitte Henning A/S
+Liseruten 1";3730;Nexø;Denmark;;;12-10-2020;05-10-2020;12-10-2020;COD;Gadus Morhua;1,2102E+12
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;3;25;12;62;34;2108;12-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;12-10-2020;;;COD;Gadus Morhua;1,2102E+11
+Strandby;Torsk;A;3;;FALSE;FALSE;1;0;27;27;38,5;1039,5;13-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;13-10-2020;;;COD;Gadus Morhua;1,3102E+11
+Hirtshals;Torsk;E;4;;FALSE;FALSE;4;20;0;80;32;2560;13-10-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;13-10-2020;;;COD;Gadus Morhua;1,3102E+11
+Skagen;Torsk;E;4;GARN;FALSE;FALSE;1;25;16;16;25;400;13-10-2020;GNS;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;13-10-2020;;;COD;Gadus Morhua;1,3102E+11
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0;17;17;25;425;13-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;13-10-2020;;;COD;Gadus Morhua;1,3102E+11
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;3;25;16;66;26;1716;13-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;13-10-2020;;;COD;Gadus Morhua;1,3102E+11
+Hanstholm;Torsk;E;2;TRAWL;FALSE;TRUE;4;25;0;100;46;4600;14-10-2020;OTB;L 649;"L 649 ""Martine""";xvej 49;7680;Thyborøn;Denmark;;;14-10-2020;06-10-2020;13-10-2020;COD;Gadus Morhua;1,4102E+12
+Hirtshals;Torsk;E;2;TRAWL;FALSE;FALSE;1;25;0;25;50,5;1262,5;14-10-2020;OTB;HM 127;"HM 127  ""Karen Nielsen""";Bytorvet;7730;Hanstholm;Denmark;4797603255;;14-10-2020;12-10-2020;13-10-2020;COD;Gadus Morhua;1,4102E+11
+Hirtshals;Torsk;E;2;;FALSE;FALSE;2;25;0;50;51,75;2587,5;14-10-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;14-10-2020;;;COD;Gadus Morhua;1,4102E+11
+Strandby;Torsk;E;2;;FALSE;FALSE;1;0;13;13;46,5;604,5;14-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;14-10-2020;;;COD;Gadus Morhua;1,4102E+11
+Strandby;Torsk;E;3;;FALSE;FALSE;2;25;7;32;39;1248;14-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;14-10-2020;;;COD;Gadus Morhua;1,4102E+11
+Skagen;Torsk;E;4;;FALSE;FALSE;3;25;0;75;31,5;2362,5;14-10-2020;;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;14-10-2020;;;COD;Gadus Morhua;1,4102E+11
+Strandby;Torsk;E;4;;FALSE;FALSE;7;25;15;165;31;5115;15-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;15-10-2020;;;COD;Gadus Morhua;1,5102E+11
+Strandby;Torsk;A;1;;FALSE;FALSE;1;0;8;8;34,5;276;16-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;16-10-2020;;;COD;Gadus Morhua;1,6102E+11
+Hanstholm;Torsk;A;4;;FALSE;FALSE;3;20;26;66;30;1980;16-10-2020;;GRØN;Thorkild Grøn Samlecentral;Auktionsgade 23;7730;Hanstholm;Denmark;97961988;;16-10-2020;;;COD;Gadus Morhua;1,6102E+12
+Hanstholm;Torsk;A;4;TRAWL;FALSE;TRUE;3;25;0;75;34,5;2587,5;16-10-2020;OTB;HM 555;"HM 555 ""Kingfisher""";Havnegade 26;7680;Thyborøn;Denmark;21798197 S.A.;69918189 sat;16-10-2020;09-10-2020;15-10-2020;COD;Gadus Morhua;1,6102E+12
+Hirtshals;Torsk;A;4;;FALSE;FALSE;2;20;0;40;27;1080;16-10-2020;;Mandal;Fiskelaget AS Mandal;;;;Norway;;;16-10-2020;;;COD;Gadus Morhua;1,6102E+11
+Hirtshals;Torsk;A;4;;FALSE;FALSE;4;20;24;84;29;2436;16-10-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;16-10-2020;;;COD;Gadus Morhua;1,6102E+11
+Strandby;Torsk;E;2;;FALSE;FALSE;1;25;30;30;48;1440;16-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;16-10-2020;;;COD;Gadus Morhua;1,6102E+11
+Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;5;19;7;83;34,5;2863,5;16-10-2020;OTB;HM 227;"HM 227 ""Myggenes""";"Lynge Fiskeri Aps. MC Revision
+Havnegade 26,2";7680;Thyborøn;Denmark;;;16-10-2020;09-10-2020;15-10-2020;COD;Gadus Morhua;1,6102E+12
+Strandby;Torsk;E;4;;FALSE;FALSE;1;25;29;29;34,5;1000,5;16-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;16-10-2020;;;COD;Gadus Morhua;1,6102E+11
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0;16;16;28;448;16-10-2020;OTB;S 226;"S 226 "" Emmely Pilegaard""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;22821284;;16-10-2020;13-10-2020;15-10-2020;COD;Gadus Morhua;1,6102E+11
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;2;25;26;51;32,5;1657,5;16-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;16-10-2020;;;COD;Gadus Morhua;16102020601
+Strandby;Torsk;A;2;;FALSE;FALSE;4;25;23;98;42,75;4189,5;19-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;19-10-2020;;;COD;Gadus Morhua;1,9102E+11
+Strandby;Torsk;A;3;;FALSE;FALSE;2;25;27;52;33,5;1742;19-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;19-10-2020;;;COD;Gadus Morhua;1,9102E+11
+Hirtshals;Torsk;A;4;;FALSE;FALSE;5;20;14;94;21;1974;19-10-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;19-10-2020;;;COD;Gadus Morhua;1,9102E+12
+Hanstholm;Torsk;E;2;TRAWL;FALSE;TRUE;4;25;0;100;46;4600;19-10-2020;OTB;NC 315;"NC 315 ""Viktoria""";;;;Denmark;;;19-10-2020;15-10-2020;17-10-2020;COD;Gadus Morhua;1,9102E+12
+Strandby;Torsk;E;2;;FALSE;FALSE;2;25;34;59;50;2950;19-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;19-10-2020;;;COD;Gadus Morhua;1,9102E+11
+Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;1;25;0;25;46;1150;19-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;19-10-2020;;;COD;Gadus Morhua;1,9102E+11
+Hanstholm;Torsk;E;4;FLY;FALSE;TRUE;6;20;7;107;21;2247;19-10-2020;SSC;L 549;"L 549 ""Frida Amalie""";;;;Denmark;;;19-10-2020;11-10-2020;17-10-2020;COD;Gadus Morhua;1,9102E+12
+Hanstholm;Torsk;E;4;FLY;FALSE;TRUE;5;20;0;100;22;2200;19-10-2020;SSC;L 654;"L 654 ""Pia Glanz""";Stormgade 8, 1.s.;6960;Hvide Sande;Denmark;21257167-John;;19-10-2020;13-10-2020;17-10-2020;COD;Gadus Morhua;1,9102E+12
+Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;10;20;0;200;25,5;5100;19-10-2020;OTB;GG 150;"GG 150 ""Älvsborg""";;;;Denmark;;gg150alvsborg@hotmail.com;19-10-2020;13-10-2020;17-10-2020;COD;Gadus Morhua;1,9102E+12
+Hirtshals;Torsk;E;4;;FALSE;FALSE;10;20;0;200;30;6000;19-10-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;19-10-2020;;;COD;Gadus Morhua;1,9102E+12
+Hirtshals;Torsk;E;4;;FALSE;FALSE;5;20;0;100;31;3100;19-10-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;19-10-2020;;;COD;Gadus Morhua;1,9102E+12
+Strandby;Torsk;E;4;;FALSE;FALSE;7;25;24;174;29,25;5089,5;19-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;19-10-2020;;;COD;Gadus Morhua;1,9102E+11
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;6;25;31;156;28,5;4446;19-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;19-10-2020;;;COD;Gadus Morhua;1,9102E+11
+Hirtshals;Torsk;E;4;TRAWL;FALSE;FALSE;6;20;0;120;24;2880;20-10-2020;OTB;S 43;"S 43 ""Nordstrand""";"Gitte Henning A/S
 Østerbyvej 44
-";9990;Skagen;Denmark;;;20-10-2020;16-10-2020;19-10-2020;COD;Gadus Morhua;2010202010402
-Hirtshals;Torsk;E;4;;FALSE;FALSE;4;20,00;0,00;80,00;29,00;2320,00;27.3.AN;20-10-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;20-10-2020;;;COD;Gadus Morhua;2010202016702
-Strandby;Torsk;E;4;;FALSE;FALSE;6;25,00;22,00;147,00;28,00;4116,00;;20-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;20-10-2020;;;COD;Gadus Morhua;201020207901
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;6;25,00;0,00;150,00;26,00;3900,00;27, 3A;20-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;20-10-2020;;;COD;Gadus Morhua;201020204302
-Strandby;Torsk;A;3;;FALSE;FALSE;1;25,00;18,00;18,00;27,25;490,50;;21-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;21-10-2020;;;COD;Gadus Morhua;211020207903
-Strandby;Torsk;A;3;;FALSE;FALSE;1;25,00;0,00;25,00;28,25;706,25;;21-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;21-10-2020;;;COD;Gadus Morhua;211020207901
-Strandby;Torsk;A;4;;FALSE;FALSE;3;25,00;23,00;73,00;28,25;2062,25;;21-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;21-10-2020;;;COD;Gadus Morhua;211020207801
-Strandby;Torsk;E;4;;FALSE;FALSE;2;25,00;29,00;54,00;32,75;1768,50;;21-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;21-10-2020;;;COD;Gadus Morhua;211020207501
-Strandby;Torsk;A;2;;FALSE;FALSE;3;25,00;28,00;78,00;32,00;2496,00;;22-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;22-10-2020;;;COD;Gadus Morhua;2210202010001
-Strandby;Torsk;E;2;;FALSE;FALSE;1;25,00;0,00;25,00;40,00;1000,00;;22-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;22-10-2020;;;COD;Gadus Morhua;221020209303
-Strandby;Torsk;E;2;;FALSE;FALSE;1;25,00;21,00;21,00;43,75;918,75;;22-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;22-10-2020;;;COD;Gadus Morhua;221020209301
-Strandby;Torsk;E;4;;FALSE;FALSE;2;25,00;22,00;47,00;29,25;1374,75;;22-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;22-10-2020;;;COD;Gadus Morhua;221020209101
-Strandby;Torsk;E;2;;FALSE;FALSE;2;25,00;12,00;37,00;45,00;1665,00;;23-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;23-10-2020;;;COD;Gadus Morhua;231020205901
-Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;2;25,00;11,00;36,00;34,00;1224,00;27, 3AN;23-10-2020;OTB;S 107;"S 107 ""Skagerak""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;;;23-10-2020;20-10-2020;22-10-2020;COD;Gadus Morhua;231020208701
-Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;1;0,00;22,00;22,00;41,25;907,50;27, 3A;23-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;23-10-2020;;;COD;Gadus Morhua;231020201201
-Skagen;Torsk;E;3;TRAWL;FALSE;FALSE;2;25,00;2,50;27,50;29,50;811,25;27, 3AN;23-10-2020;OTB;S 486;S 486 Sajoni;;;;Denmark;;;23-10-2020;20-10-2020;22-10-2020;COD;Gadus Morhua;231020208001
-Hirtshals;Torsk;E;4;;FALSE;FALSE;6;20,00;9,00;109,00;28,00;3052,00;27.3.AN;23-10-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;23-10-2020;;;COD;Gadus Morhua;231020203201
-Strandby;Torsk;E;4;;FALSE;FALSE;1;25,00;26,00;26,00;30,50;793,00;;23-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;23-10-2020;;;COD;Gadus Morhua;231020205701
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0,00;14,00;14,00;23,00;322,00;27, 3AN;23-10-2020;OTB;S 107;"S 107 ""Skagerak""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;;;23-10-2020;20-10-2020;22-10-2020;COD;Gadus Morhua;231020208601
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;2;25,00;32,00;57,00;23,50;1339,50;27, 3A;23-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;23-10-2020;;;COD;Gadus Morhua;231020201401
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0,00;6,00;6,00;24,00;144,00;27, 3AN;23-10-2020;OTB;S 486;S 486 Sajoni;;;;Denmark;;;23-10-2020;20-10-2020;22-10-2020;COD;Gadus Morhua;231020208101
-Strandby;Torsk;A;3;;FALSE;FALSE;1;17,50;0,00;17,50;35,50;621,25;;26-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;26-10-2020;;;COD;Gadus Morhua;261020204701
-Strandby;Torsk;E;4;;FALSE;FALSE;2;25,00;0,00;50,00;28,50;1425,00;;26-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;26-10-2020;;;COD;Gadus Morhua;261020204602
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0,00;10,00;10,00;25,25;252,50;27, 3AN;26-10-2020;OTB;S 226;"S 226 "" Emmely Pilegaard""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;22821284;;26-10-2020;23-10-2020;25-10-2020;COD;Gadus Morhua;2610202030401
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;3;25,00;19,00;69,00;25,50;1759,50;27, 3A;26-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;26-10-2020;;;COD;Gadus Morhua;2610202020201
-Strandby;Torsk;A;2;;FALSE;FALSE;2;25,00;10,00;35,00;39,00;1365,00;;28-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;28-10-2020;;;COD;Gadus Morhua;281020206501
-Strandby;Torsk;A;3;;FALSE;FALSE;1;25,00;15,00;15,00;40,50;607,50;;28-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;28-10-2020;;;COD;Gadus Morhua;281020206403
-Strandby;Torsk;E;2;;FALSE;FALSE;1;25,00;0,00;25,00;46,50;1162,50;;28-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;28-10-2020;;;COD;Gadus Morhua;281020205901
-Strandby;Torsk;E;3;;FALSE;FALSE;2;25,00;24,00;49,00;40,00;1960,00;;28-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;28-10-2020;;;COD;Gadus Morhua;281020205801
-Strandby;Torsk;E;4;;FALSE;FALSE;2;25,00;31,00;56,00;35,00;1960,00;;28-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;28-10-2020;;;COD;Gadus Morhua;281020205701
-Strandby;Torsk;A;2;;FALSE;FALSE;1;0,00;15,00;15,00;47,50;712,50;;29-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;29-10-2020;;;COD;Gadus Morhua;291020206401
-Strandby;Torsk;E;2;;FALSE;FALSE;1;25,00;21,00;21,00;53,00;1113,00;;29-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;29-10-2020;;;COD;Gadus Morhua;291020205801
-Strandby;Torsk;E;4;;FALSE;FALSE;2;25,00;0,00;50,00;31,00;1550,00;;29-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;29-10-2020;;;COD;Gadus Morhua;291020205601
-Strandby;Torsk;E;2;;FALSE;FALSE;1;25,00;0,00;25,00;54,00;1350,00;;30-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;30-10-2020;;;COD;Gadus Morhua;301020207401
-Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;1;25,00;0,00;25,00;46,00;1150,00;27, 3A;30-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;30-10-2020;;;COD;Gadus Morhua;301020205001
-Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;1;0,00;15,00;15,00;47,00;705,00;27, 3A;30-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;30-10-2020;;;COD;Gadus Morhua;301020205501
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0,00;14,00;14,00;29,50;413,00;27, 3A;30-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;30-10-2020;;;COD;Gadus Morhua;301020205201
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;5;25,00;17,00;117,00;32,50;3802,50;27, 3AN;30-10-2020;OTB;S 226;"S 226 "" Emmely Pilegaard""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;22821284;;30-10-2020;29-10-2020;29-10-2020;COD;Gadus Morhua;3010202011301
-Strandby;Torsk;A;2;;FALSE;FALSE;3;25,00;0,00;75,00;43,75;3281,25;;02-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;02-11-2020;;;COD;Gadus Morhua;0211202012201
-Strandby;Torsk;A;3;;FALSE;FALSE;2;25,00;0,00;50,00;40,25;2012,50;;02-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;02-11-2020;;;COD;Gadus Morhua;0211202012101
-Strandby;Torsk;A;4;;FALSE;FALSE;17;25,00;28,00;428,00;29,00;12412,00;;02-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;02-11-2020;;;COD;Gadus Morhua;0211202012001
-Strandby;Torsk;E;2;;FALSE;FALSE;2;25,00;0,00;50,00;44,25;2212,50;;02-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;02-11-2020;;;COD;Gadus Morhua;021120209503
-Strandby;Torsk;E;4;;FALSE;FALSE;2;25,00;0,00;50,00;32,50;1625,00;;02-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;02-11-2020;;;COD;Gadus Morhua;021120209803
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;3;25,00;30,00;80,00;30,50;2440,00;27, 3A;02-11-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;02-11-2020;;;COD;Gadus Morhua;021120205201
-Strandby;Torsk;A;4;;FALSE;FALSE;2;25,00;0,00;50,00;27,25;1362,50;;03-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;03-11-2020;;;COD;Gadus Morhua;031120205701
-Strandby;Torsk;E;4;;FALSE;FALSE;2;25,00;0,00;50,00;32,50;1625,00;;03-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;03-11-2020;;;COD;Gadus Morhua;031120205301
-Strandby;Torsk;A;4;;FALSE;FALSE;0;0,00;6,00;6,00;34,00;204,00;;04-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;04-11-2020;;;COD;Gadus Morhua;041120205701
-Strandby;Torsk;A;2;;FALSE;FALSE;1;0,00;10,00;10,00;50,00;500,00;;05-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;05-11-2020;;;COD;Gadus Morhua;051120206801
-Strandby;Torsk;A;3;;FALSE;FALSE;1;0,00;20,00;20,00;43,50;870,00;;05-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;05-11-2020;;;COD;Gadus Morhua;051120206701
-Strandby;Torsk;E;2;;FALSE;FALSE;1;25,00;22,00;22,00;55,50;1221,00;;05-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;05-11-2020;;;COD;Gadus Morhua;051120206201
-Strandby;Torsk;E;3;;FALSE;FALSE;4;25,00;0,00;100,00;47,50;4750,00;;05-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;05-11-2020;;;COD;Gadus Morhua;051120206101
-Strandby;Torsk;E;4;;FALSE;FALSE;3;25,00;15,00;65,00;38,50;2502,50;;05-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;05-11-2020;;;COD;Gadus Morhua;051120206002
-Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;1;0,00;9,00;9,00;48,00;432,00;27, 3A;06-11-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;06-11-2020;;;COD;Gadus Morhua;06112020201
-Skagen;Torsk;E;3;TRAWL;FALSE;FALSE;2;25,00;31,00;56,00;49,00;2744,00;27, 3A;06-11-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;06-11-2020;;;COD;Gadus Morhua;06112020301
-Hanstholm;Torsk;E;4;FLY;TRUE;TRUE;10;19,00;0,00;190,00;31,00;5890,00;27.1.B;06-11-2020;SSC;AG 7 LS;AG 7 LS “Astrid”;;;;Norway;;;06-11-2020;30-10-2020;03-11-2020;COD;Gadus Morhua;06112020171012
-Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;5;20,00;0,00;100,00;34,50;3450,00;27.4.A;06-11-2020;OTB;HM 228;"HM 228 ""Pondus""";Bytorvet 34;7730;Hanstholm;Denmark;40791674;;06-11-2020;03-11-2020;05-11-2020;COD;Gadus Morhua;0611202016606
-Hanstholm;Torsk;E;4;FLY;TRUE;TRUE;2;19,00;0,00;38,00;35,25;1339,50;27.1.B;06-11-2020;SSC;AG 7 LS;AG 7 LS “Astrid”;;;;Norway;;;06-11-2020;30-10-2020;03-11-2020;COD;Gadus Morhua;0611202017104
-Hanstholm;Torsk;E;4;;FALSE;FALSE;5;20,00;18,00;98,00;36,75;3601,50;;06-11-2020;;SAMLER;Hanstholm Samlecentral A/S;Auktionsgade 30;7730;Hanstholm;Denmark;;;06-11-2020;;;COD;Gadus Morhua;0611202015103
-Strandby;Torsk;A;1;;FALSE;FALSE;1;25,00;7,00;7,00;42,50;297,50;;09-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;09-11-2020;;;COD;Gadus Morhua;091120209201
-Strandby;Torsk;A;2;;FALSE;FALSE;2;25,00;19,00;44,00;53,00;2332,00;;09-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;09-11-2020;;;COD;Gadus Morhua;091120209102
-Strandby;Torsk;A;3;;FALSE;FALSE;1;25,00;0,00;25,00;40,50;1012,50;;09-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;09-11-2020;;;COD;Gadus Morhua;091120209002
-Hanstholm;Torsk;A;4;FLY;FALSE;TRUE;3;20,00;0,00;60,00;30,00;1800,00;27.4.A;09-11-2020;SSC;L 757;"L 757  ""Aaltje Postma""";Havnegade 20;7680;Thyborøn;Denmark;40174335 Tamme Bolt;;09-11-2020;02-11-2020;08-11-2020;COD;Gadus Morhua;0911202027804
-Hirtshals;Torsk;A;4;;FALSE;FALSE;9;20,00;6,00;166,00;30,50;5063,00;27.3.AN;09-11-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;09-11-2020;;;COD;Gadus Morhua;091120207601
-Strandby;Torsk;E;2;;FALSE;FALSE;1;0,00;32,00;32,00;56,50;1808,00;;09-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;09-11-2020;;;COD;Gadus Morhua;091120208501
-Strandby;Torsk;E;3;;FALSE;FALSE;1;25,00;32,00;32,00;43,00;1376,00;;09-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;09-11-2020;;;COD;Gadus Morhua;091120208401
-Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;10;25,00;17,00;242,00;30,75;7441,50;27.4.A;09-11-2020;OTB;NC 302;"NC 302  ""Iris""";Niedersachsenstrasse;27472;Cuxhaven;Germany;;;09-11-2020;04-11-2020;08-11-2020;COD;Gadus Morhua;0911202021401
-Hirtshals;Torsk;E;4;;FALSE;FALSE;2;20,00;0,00;40,00;30,00;1200,00;27.3.AN;09-11-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;09-11-2020;;;COD;Gadus Morhua;091120207301
-Hirtshals;Torsk;E;4;TRAWL;FALSE;FALSE;2;20,00;0,00;40,00;32,00;1280,00;27.3.AN;09-11-2020;OTB;HG 281;HG 281 Elin;;9850;Hirtshals;Denmark;;;09-11-2020;05-11-2020;08-11-2020;COD;Gadus Morhua;091120204602
-Hirtshals;Torsk;E;4;;FALSE;FALSE;2;20,00;0,00;40,00;32,75;1310,00;27.3.AN;09-11-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;09-11-2020;;;COD;Gadus Morhua;091120206306
-Strandby;Torsk;E;4;;FALSE;FALSE;3;25,00;0,00;75,00;34,75;2606,25;;09-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;09-11-2020;;;COD;Gadus Morhua;091120208301
-Skagen;Torsk;E;4;GARN;FALSE;FALSE;0;0,00;5,00;5,00;30,00;150,00;27, 3A;09-11-2020;GNS;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;09-11-2020;;;COD;Gadus Morhua;091120204101
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;4;25,00;33,00;108,00;33,25;3591,00;27, 3A;09-11-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;09-11-2020;;;COD;Gadus Morhua;091120204601
-Strandby;Torsk;E;2;;FALSE;FALSE;1;0,00;21,00;21,00;45,50;955,50;;10-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;10-11-2020;;;COD;Gadus Morhua;101120208901
-Skagen;Torsk;E;2;GARN;FALSE;FALSE;2;25,00;32,00;57,00;47,25;2693,25;27, 3A;10-11-2020;GNS;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;10-11-2020;;;COD;Gadus Morhua;101120202101
-Hirtshals;Torsk;E;4;;FALSE;FALSE;25;20,00;0,00;500,00;31,75;15875,00;27.3.AN;10-11-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;10-11-2020;;;COD;Gadus Morhua;1011202020303
-Strandby;Torsk;E;4;;FALSE;FALSE;1;25,00;0,00;25,00;34,00;850,00;;10-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;10-11-2020;;;COD;Gadus Morhua;101120208702
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;4;25,00;14,00;89,00;32,25;2870,25;27, 3A;10-11-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;10-11-2020;;;COD;Gadus Morhua;101120202801
-Skagen;Torsk;E;4;GARN;FALSE;FALSE;1;0,00;28,00;28,00;32,50;910,00;27, 3A;10-11-2020;GNS;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;10-11-2020;;;COD;Gadus Morhua;101120202301
-Strandby;Torsk;E;3;;FALSE;FALSE;2;25,00;6,00;31,00;32,50;1007,50;;11-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;11-11-2020;;;COD;Gadus Morhua;111120208701
-Hanstholm;Torsk;E;4;;FALSE;FALSE;2;20,00;0,00;40,00;28,00;1120,00;;11-11-2020;;SAMLER;Hanstholm Samlecentral A/S;Auktionsgade 30;7730;Hanstholm;Denmark;;;11-11-2020;;;COD;Gadus Morhua;1111202013601
-Strandby;Torsk;E;4;;FALSE;FALSE;4;25,00;14,00;89,00;27,25;2425,25;;11-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;11-11-2020;;;COD;Gadus Morhua;111120208802
-Skagen;Torsk;E;4;;FALSE;FALSE;1;0,00;25,00;25,00;25,00;625,00;27, 3AN;11-11-2020;;S 226;"S 226 "" Emmely Pilegaard""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;22821284;;11-11-2020;;;COD;Gadus Morhua;1111202012901
-Skagen;Torsk;E;4;GARN;FALSE;FALSE;1;0,00;5,00;5,00;30,00;150,00;27, 3A;11-11-2020;GNS;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;11-11-2020;10-11-2020;10-11-2020;COD;Gadus Morhua;111120203301
-Skagen;Torsk;E;4;;FALSE;FALSE;2;20,00;16,00;36,00;30,25;1089,00;27, 3AN;11-11-2020;;S 486;S 486 Sajoni;;;;Denmark;;;11-11-2020;;;COD;Gadus Morhua;1111202012801
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;2;25,00;0,00;50,00;30,50;1525,00;27, 3A;11-11-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;11-11-2020;10-11-2020;10-11-2020;COD;Gadus Morhua;111120203701
-Skagen;Torsk;E;5;TRAWL;FALSE;FALSE;1;0,00;0,00;0,00;25,00;0,00;27, 3AN;11-11-2020;OTB;S 226;"S 226 "" Emmely Pilegaard""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;22821284;;11-11-2020;08-11-2020;10-11-2020;COD;Gadus Morhua;1111202011002
-Skagen;Torsk;E;5;TRAWL;FALSE;FALSE;2;0,00;0,00;0,00;30,25;0,00;27, 3AN;11-11-2020;OTB;S 226;"S 226 "" Emmely Pilegaard""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;22821284;;11-11-2020;08-11-2020;10-11-2020;COD;Gadus Morhua;1111202011003
-Strandby;Torsk;E;2;;FALSE;FALSE;2;25,00;10,00;35,00;47,00;1645,00;;12-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;12-11-2020;;;COD;Gadus Morhua;121120206801
-Skagen;Torsk;E;2;GARN;FALSE;FALSE;1;0,00;30,00;30,00;44,50;1335,00;27, 3A;12-11-2020;GNS;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;12-11-2020;;;COD;Gadus Morhua;121120203401
-Strandby;Torsk;E;3;;FALSE;FALSE;1;25,00;17,00;17,00;35,00;595,00;;12-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;12-11-2020;;;COD;Gadus Morhua;121120206702
-Hirtshals;Torsk;E;4;;FALSE;FALSE;8;20,00;21,00;161,00;28,00;4508,00;27.3.AN;12-11-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;12-11-2020;;;COD;Gadus Morhua;1211202020301
-Strandby;Torsk;E;4;;FALSE;FALSE;3;25,00;8,00;58,00;28,00;1624,00;;12-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;12-11-2020;;;COD;Gadus Morhua;121120206602
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0,00;29,00;29,00;24,00;696,00;27, 3A;12-11-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;12-11-2020;;;COD;Gadus Morhua;121120204001
-Skagen;Torsk;E;4;GARN;FALSE;FALSE;1;0,00;18,00;18,00;25,00;450,00;27, 3A;12-11-2020;GNS;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;12-11-2020;;;COD;Gadus Morhua;121120203601
-Strandby;Torsk;A;2;;FALSE;FALSE;2;25,00;19,00;44,00;45,50;2002,00;;13-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;13-11-2020;;;COD;Gadus Morhua;1311202010201
-Strandby;Torsk;A;3;;FALSE;FALSE;1;25,00;0,00;25,00;31,50;787,50;;13-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;13-11-2020;;;COD;Gadus Morhua;1311202010101
-Strandby;Torsk;E;2;;FALSE;FALSE;2;25,00;16,00;41,00;48,50;1988,50;;13-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;13-11-2020;;;COD;Gadus Morhua;131120209601
-Strandby;Torsk;E;3;;FALSE;FALSE;1;25,00;32,00;32,00;34,75;1112,00;;13-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;13-11-2020;;;COD;Gadus Morhua;131120209501
-Hirtshals;Torsk;A;2;;FALSE;FALSE;1;25,00;0,00;25,00;42,50;1062,50;27.3.AN;16-11-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;16-11-2020;;;COD;Gadus Morhua;1611202011102
-Strandby;Torsk;A;3;;FALSE;FALSE;3;25,00;23,00;73,00;37,00;2701,00;;16-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;16-11-2020;;;COD;Gadus Morhua;161120207402
-Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;1;25,00;0,00;25,00;41,50;1037,50;27, 3A;16-11-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;16-11-2020;;;COD;Gadus Morhua;161120204502
-Skagen;Torsk;E;2;GARN;FALSE;FALSE;1;0,00;18,00;18,00;47,00;846,00;27, 3A;16-11-2020;GNS;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;16-11-2020;;;COD;Gadus Morhua;161120204101
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;2;20,00;6,00;26,00;31,50;819,00;27, 3AN;16-11-2020;OTB;S 486;S 486 Sajoni;;;;Denmark;;;16-11-2020;14-11-2020;15-11-2020;COD;Gadus Morhua;1611202010401
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;4;25,00;17,00;92,00;34,00;3128,00;27, 3A;16-11-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;16-11-2020;;;COD;Gadus Morhua;161120204702
-Hanstholm;Torsk;A;2;TRAWL;FALSE;TRUE;2;25,00;0,00;50,00;30,00;1500,00;27.4.A;17-11-2020;OTB;H 247 AV;H 247 AV  Enterprice;;;;Norway;;;17-11-2020;;;COD;Gadus Morhua;1711202016001
-Hirtshals;Torsk;A;2;;FALSE;FALSE;2;25,00;0,00;50,00;42,00;2100,00;27.3.AN;17-11-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;17-11-2020;;;COD;Gadus Morhua;1711202011001
-Hirtshals;Torsk;A;4;;FALSE;FALSE;4;20,00;0,00;80,00;34,00;2720,00;27.3.AN;17-11-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;17-11-2020;;;COD;Gadus Morhua;1711202011202
-Hirtshals;Torsk;A;4;;FALSE;FALSE;1;20,00;12,00;12,00;35,00;420,00;27.3.AN;17-11-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;17-11-2020;;;COD;Gadus Morhua;1711202011201
-Strandby;Torsk;B;9;;FALSE;FALSE;0;0,00;3,50;3,50;15,00;52,50;;17-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;17-11-2020;;;COD;Gadus Morhua;171120206901
-Hanstholm;Torsk;E;1;FLY;FALSE;TRUE;2;0,00;39,00;39,00;35,00;1365,00;27.4.A;17-11-2020;SSC;VA 97 M;"VA 97 M ""Nordsö""";;;;Norway;;;17-11-2020;;;COD;Gadus Morhua;1711202018001
-Hirtshals;Torsk;E;2;;FALSE;FALSE;1;25,00;23,00;23,00;61,00;1403,00;27.3.AN;17-11-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;17-11-2020;;;COD;Gadus Morhua;1711202010101
-Hirtshals;Torsk;E;4;;FALSE;FALSE;1;20,00;0,00;20,00;38,00;760,00;27.3.AN;17-11-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;17-11-2020;;;COD;Gadus Morhua;1711202010302
-Hirtshals;Torsk;E;4;;FALSE;FALSE;2;20,00;16,00;36,00;40,00;1440,00;27.3.AN;17-11-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;17-11-2020;;;COD;Gadus Morhua;1711202010301
-Strandby;Torsk;E;4;;FALSE;FALSE;4;25,00;24,00;99,00;36,75;3638,25;;17-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;17-11-2020;;;COD;Gadus Morhua;171120205301
-Hanstholm;Torsk;A;2;TRAWL;FALSE;TRUE;1;0,00;26,00;26,00;37,50;975,00;27.4.A;18-11-2020;OTB;H 101 AV;"H 101 AV ""Tobis""";;;;Norway;;;18-11-2020;;;COD;Gadus Morhua;1811202013201
-Hanstholm;Torsk;A;2;VOD;FALSE;TRUE;3;0,00;78,00;78,00;40,00;3120,00;27.4.A;18-11-2020;SDN;VA 2 S;VA 2 S  (Samler);;;;Norway;;carl@aamodtfiskeri.no;18-11-2020;;;COD;Gadus Morhua;1811202012501
-Hanstholm;Torsk;A;4;VOD;FALSE;TRUE;1;0,00;16,00;16,00;20,00;320,00;27.4.A;18-11-2020;SDN;VA 2 S;VA 2 S  (Samler);;;;Norway;;carl@aamodtfiskeri.no;18-11-2020;;;COD;Gadus Morhua;1811202012701
-Strandby;Torsk;E;2;;FALSE;FALSE;1;0,00;21,00;21,00;51,00;1071,00;;18-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;18-11-2020;;;COD;Gadus Morhua;181120205101
-Strandby;Torsk;A;2;;FALSE;FALSE;3;25,00;0,00;75,00;39,50;2962,50;;19-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;19-11-2020;;;COD;Gadus Morhua;191120206801
-Strandby;Torsk;A;3;;FALSE;FALSE;2;25,00;27,00;52,00;32,25;1677,00;;19-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;19-11-2020;;;COD;Gadus Morhua;191120206902
-Strandby;Torsk;A;4;;FALSE;FALSE;2;25,00;0,00;50,00;32,00;1600,00;;19-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;19-11-2020;;;COD;Gadus Morhua;191120207002
-Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;1;0,00;22,00;22,00;43,00;946,00;27, 3AN;19-11-2020;OTB;S 158;"S 158  ""Saron""";Sct. Laurentii Vej 32;9990;Skagen;Denmark;;;19-11-2020;17-11-2020;18-11-2020;COD;Gadus Morhua;1911202020801
-Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;3;25,00;0,00;75,00;43,25;3243,75;27, 3AN;19-11-2020;OTB;S 107;"S 107 ""Skagerak""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;;;19-11-2020;18-11-2020;19-11-2020;COD;Gadus Morhua;1911202013001
-Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;2;25,00;0,00;50,00;44,50;2225,00;27, 3A;19-11-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;19-11-2020;;;COD;Gadus Morhua;19112020201
-Strandby;Torsk;E;4;;FALSE;FALSE;3;25,00;0,00;75,00;33,75;2531,25;;19-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;19-11-2020;;;COD;Gadus Morhua;191120207702
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0,00;25,00;25,00;29,00;725,00;27, 3AN;19-11-2020;OTB;S 107;"S 107 ""Skagerak""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;;;19-11-2020;18-11-2020;19-11-2020;COD;Gadus Morhua;1911202013101
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;3;25,00;16,00;66,00;29,50;1947,00;27, 3AN;19-11-2020;OTB;S 226;"S 226 "" Emmely Pilegaard""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;22821284;;19-11-2020;17-11-2020;19-11-2020;COD;Gadus Morhua;1911202010101
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0,00;17,00;17,00;33,00;561,00;27, 3A;19-11-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;19-11-2020;;;COD;Gadus Morhua;19112020401
-Strandby;Torsk;A;2;;FALSE;FALSE;1;0,00;32,00;32,00;39,00;1248,00;;20-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;20-11-2020;;;COD;Gadus Morhua;201120206801
-Strandby;Torsk;A;3;;FALSE;FALSE;2;25,00;23,00;48,00;28,25;1356,00;;20-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;20-11-2020;;;COD;Gadus Morhua;201120206701
-Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;5;20,00;0,00;100,00;30,50;3050,00;27.4.A;20-11-2020;OTB;L 654;"L 654 ""Pia Glanz""";Stormgade 8, 1.s.;6960;Hvide Sande;Denmark;21257167-John;;20-11-2020;14-11-2020;19-11-2020;COD;Gadus Morhua;201120207504
-Strandby;Torsk;E;4;;FALSE;FALSE;3;25,00;0,00;75,00;32,50;2437,50;;20-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;20-11-2020;;;COD;Gadus Morhua;201120206102
-Skagen;Torsk;A;2;TRAWL;FALSE;FALSE;1;22,00;0,00;22,00;48,50;1067,00;27, 3AN;23-11-2020;OTB;S 158;"S 158  ""Saron""";Sct. Laurentii Vej 32;9990;Skagen;Denmark;;;23-11-2020;20-11-2020;21-11-2020;COD;Gadus Morhua;2311202040501
-Strandby;Torsk;A;3;;FALSE;FALSE;1;25,00;12,00;12,00;36,50;438,00;;23-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;23-11-2020;;;COD;Gadus Morhua;231120204702
-Hanstholm;Torsk;A;4;TRAWL;FALSE;TRUE;5;19,00;0,00;95,00;31,25;2968,75;27.4.A;23-11-2020;OTB;HM 227;"HM 227 ""Myggenes""";"Lynge Fiskeri Aps. MC Revision
-Havnegade 26,2";7680;Thyborøn;Denmark;;;23-11-2020;17-11-2020;22-11-2020;COD;Gadus Morhua;2311202011005
-Strandby;Torsk;A;4;;FALSE;FALSE;3;25,00;9,00;59,00;30,25;1784,75;;23-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;23-11-2020;;;COD;Gadus Morhua;231120204601
-Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;1;0,00;19,00;19,00;41,00;779,00;27, 3AN;23-11-2020;OTB;S 107;"S 107 ""Skagerak""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;;;23-11-2020;20-11-2020;21-11-2020;COD;Gadus Morhua;2311202030801
-Strandby;Torsk;E;4;;FALSE;FALSE;3;25,00;0,00;75,00;37,50;2812,50;;23-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;23-11-2020;;;COD;Gadus Morhua;231120204302
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0,00;17,00;17,00;27,50;467,50;27, 3AN;23-11-2020;OTB;S 107;"S 107 ""Skagerak""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;;;23-11-2020;20-11-2020;21-11-2020;COD;Gadus Morhua;2311202031001
-Strandby;Torsk;B;9;;FALSE;FALSE;0;0,00;3,00;3,00;9,00;27,00;;25-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;25-11-2020;;;COD;Gadus Morhua;251120203401
-Skagen;Torsk;E;3;TRAWL;FALSE;FALSE;1;0,00;25,00;25,00;55,00;1375,00;27, 3AN;25-11-2020;OTB;S 486;S 486 Sajoni;;;;Denmark;;;25-11-2020;23-11-2020;24-11-2020;COD;Gadus Morhua;2511202031801
-Strandby;Torsk;E;4;;FALSE;FALSE;6;25,00;32,00;157,00;38,25;6005,25;;25-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;25-11-2020;;;COD;Gadus Morhua;251120203101
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;2;25,00;21,00;46,00;38,50;1771,00;27, 3AN;25-11-2020;OTB;S 226;"S 226 "" Emmely Pilegaard""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;22821284;;25-11-2020;23-11-2020;24-11-2020;COD;Gadus Morhua;2511202034101
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0,00;19,00;19,00;40,00;760,00;27, 3AN;25-11-2020;OTB;S 107;"S 107 ""Skagerak""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;;;25-11-2020;23-11-2020;24-11-2020;COD;Gadus Morhua;2511202031301
-Strandby;Torsk;E;2;;FALSE;FALSE;2;25,00;0,00;50,00;61,00;3050,00;;26-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;26-11-2020;;;COD;Gadus Morhua;261120206202
-Strandby;Torsk;E;4;;FALSE;FALSE;2;25,00;0,00;50,00;44,00;2200,00;;26-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;26-11-2020;;;COD;Gadus Morhua;261120206301
-Strandby;Torsk;A;2;;FALSE;FALSE;1;0,00;17,00;17,00;47,00;799,00;;27-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;27-11-2020;;;COD;Gadus Morhua;271120208001
-Hanstholm;Torsk;E;2;TRAWL;FALSE;TRUE;3;25,00;9,00;59,00;54,00;3186,00;27.3.AN;27-11-2020;OTB;S 430;"S 430 ""Well-Bank""";Sankt. Laurentiivej 39;9990;Skagen;Denmark;;;27-11-2020;25-11-2020;26-11-2020;COD;Gadus Morhua;2711202015001
-Strandby;Torsk;E;4;;FALSE;FALSE;4;25,00;0,00;100,00;35,50;3550,00;;27-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;27-11-2020;;;COD;Gadus Morhua;271120207801
-Strandby;Torsk;A;2;;FALSE;FALSE;4;25,00;32,00;107,00;30,25;3236,75;;30-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;30-11-2020;;;COD;Gadus Morhua;301120207901
-Strandby;Torsk;A;4;;FALSE;FALSE;2;25,00;0,00;50,00;22,75;1137,50;;30-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;30-11-2020;;;COD;Gadus Morhua;301120208101
-Strandby;Torsk;E;2;;FALSE;FALSE;2;25,00;0,00;50,00;35,00;1750,00;;30-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;30-11-2020;;;COD;Gadus Morhua;301120207403
-Skagen;Torsk;E;2;GARN;FALSE;FALSE;2;25,00;0,00;50,00;36,00;1800,00;27, 3A;30-11-2020;GNS;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;30-11-2020;;;COD;Gadus Morhua;301120206801
-Strandby;Torsk;E;3;;FALSE;FALSE;3;25,00;0,00;75,00;28,75;2156,25;;30-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;30-11-2020;;;COD;Gadus Morhua;301120207502
-Strandby;Torsk;E;4;;FALSE;FALSE;2;25,00;12,00;37,00;24,25;897,25;;30-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;30-11-2020;;;COD;Gadus Morhua;3011202016701
-Strandby;Torsk;E;4;;FALSE;FALSE;3;25,00;0,00;75,00;25,25;1893,75;;30-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;30-11-2020;;;COD;Gadus Morhua;301120207601
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0,00;25,00;25,00;24,25;606,25;27, 3AN;30-11-2020;OTB;S 107;"S 107 ""Skagerak""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;;;30-11-2020;27-11-2020;29-11-2020;COD;Gadus Morhua;3011202016301
-Skagen;Torsk;E;4;GARN;FALSE;FALSE;2;25,00;29,00;54,00;25,25;1363,50;27, 3A;30-11-2020;GNS;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;30-11-2020;;;COD;Gadus Morhua;301120207001
-Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;1;25,00;0,00;25,00;40,00;1000,00;27, 3A;02-12-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;02-12-2020;;;COD;Gadus Morhua;021220202601
-Strandby;Torsk;E;3;;FALSE;FALSE;1;0,00;18,00;18,00;32,50;585,00;;02-12-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;02-12-2020;;;COD;Gadus Morhua;021220206201
-Skagen;Torsk;E;3;GARN;FALSE;FALSE;0;0,00;6,00;6,00;25,00;150,00;27, 3A;02-12-2020;GNS;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;02-12-2020;;;COD;Gadus Morhua;021220202401
-Hirtshals;Torsk;E;4;;FALSE;FALSE;8;20,00;0,00;160,00;28,00;4480,00;27.3.AN;02-12-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;02-12-2020;;;COD;Gadus Morhua;021220205203
-Strandby;Torsk;E;4;;FALSE;FALSE;1;25,00;0,00;25,00;31,50;787,50;;02-12-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;02-12-2020;;;COD;Gadus Morhua;021220206102
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0,00;25,00;25,00;22,50;562,50;27, 3AN;02-12-2020;OTB;S 226;"S 226 "" Emmely Pilegaard""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;22821284;;02-12-2020;30-11-2020;01-12-2020;COD;Gadus Morhua;0212202010801
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0,00;25,00;25,00;23,00;575,00;27, 3AN;02-12-2020;OTB;S 107;"S 107 ""Skagerak""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;;;02-12-2020;30-11-2020;01-12-2020;COD;Gadus Morhua;021220209801
-Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;2;25,00;0,00;50,00;24,00;1200,00;27, 3A;02-12-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;02-12-2020;;;COD;Gadus Morhua;021220202801
-Skagen;Torsk;E;4;GARN;FALSE;FALSE;0;0,00;4,00;4,00;25,00;100,00;27, 3A;02-12-2020;GNS;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;02-12-2020;;;COD;Gadus Morhua;021220202501
+";9990;Skagen;Denmark;;;20-10-2020;16-10-2020;19-10-2020;COD;Gadus Morhua;2,0102E+12
+Hirtshals;Torsk;E;4;;FALSE;FALSE;4;20;0;80;29;2320;20-10-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;20-10-2020;;;COD;Gadus Morhua;2,0102E+12
+Strandby;Torsk;E;4;;FALSE;FALSE;6;25;22;147;28;4116;20-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;20-10-2020;;;COD;Gadus Morhua;2,0102E+11
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;6;25;0;150;26;3900;20-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;20-10-2020;;;COD;Gadus Morhua;2,0102E+11
+Strandby;Torsk;A;3;;FALSE;FALSE;1;25;18;18;27,25;490,5;21-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;21-10-2020;;;COD;Gadus Morhua;2,1102E+11
+Strandby;Torsk;A;3;;FALSE;FALSE;1;25;0;25;28,25;706,25;21-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;21-10-2020;;;COD;Gadus Morhua;2,1102E+11
+Strandby;Torsk;A;4;;FALSE;FALSE;3;25;23;73;28,25;2062,25;21-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;21-10-2020;;;COD;Gadus Morhua;2,1102E+11
+Strandby;Torsk;E;4;;FALSE;FALSE;2;25;29;54;32,75;1768,5;21-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;21-10-2020;;;COD;Gadus Morhua;2,1102E+11
+Strandby;Torsk;A;2;;FALSE;FALSE;3;25;28;78;32;2496;22-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;22-10-2020;;;COD;Gadus Morhua;2,2102E+12
+Strandby;Torsk;E;2;;FALSE;FALSE;1;25;0;25;40;1000;22-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;22-10-2020;;;COD;Gadus Morhua;2,2102E+11
+Strandby;Torsk;E;2;;FALSE;FALSE;1;25;21;21;43,75;918,75;22-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;22-10-2020;;;COD;Gadus Morhua;2,2102E+11
+Strandby;Torsk;E;4;;FALSE;FALSE;2;25;22;47;29,25;1374,75;22-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;22-10-2020;;;COD;Gadus Morhua;2,2102E+11
+Strandby;Torsk;E;2;;FALSE;FALSE;2;25;12;37;45;1665;23-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;23-10-2020;;;COD;Gadus Morhua;2,3102E+11
+Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;2;25;11;36;34;1224;23-10-2020;OTB;S 107;"S 107 ""Skagerak""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;;;23-10-2020;20-10-2020;22-10-2020;COD;Gadus Morhua;2,3102E+11
+Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;1;0;22;22;41,25;907,5;23-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;23-10-2020;;;COD;Gadus Morhua;2,3102E+11
+Skagen;Torsk;E;3;TRAWL;FALSE;FALSE;2;25;2,5;27,5;29,5;811,25;23-10-2020;OTB;S 486;S 486 Sajoni;;;;Denmark;;;23-10-2020;20-10-2020;22-10-2020;COD;Gadus Morhua;2,3102E+11
+Hirtshals;Torsk;E;4;;FALSE;FALSE;6;20;9;109;28;3052;23-10-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;23-10-2020;;;COD;Gadus Morhua;2,3102E+11
+Strandby;Torsk;E;4;;FALSE;FALSE;1;25;26;26;30,5;793;23-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;23-10-2020;;;COD;Gadus Morhua;2,3102E+11
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0;14;14;23;322;23-10-2020;OTB;S 107;"S 107 ""Skagerak""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;;;23-10-2020;20-10-2020;22-10-2020;COD;Gadus Morhua;2,3102E+11
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;2;25;32;57;23,5;1339,5;23-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;23-10-2020;;;COD;Gadus Morhua;2,3102E+11
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0;6;6;24;144;23-10-2020;OTB;S 486;S 486 Sajoni;;;;Denmark;;;23-10-2020;20-10-2020;22-10-2020;COD;Gadus Morhua;2,3102E+11
+Strandby;Torsk;A;3;;FALSE;FALSE;1;17,5;0;17,5;35,5;621,25;26-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;26-10-2020;;;COD;Gadus Morhua;2,6102E+11
+Strandby;Torsk;E;4;;FALSE;FALSE;2;25;0;50;28,5;1425;26-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;26-10-2020;;;COD;Gadus Morhua;2,6102E+11
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0;10;10;25,25;252,5;26-10-2020;OTB;S 226;"S 226 "" Emmely Pilegaard""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;22821284;;26-10-2020;23-10-2020;25-10-2020;COD;Gadus Morhua;2,6102E+12
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;3;25;19;69;25,5;1759,5;26-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;26-10-2020;;;COD;Gadus Morhua;2,6102E+12
+Strandby;Torsk;A;2;;FALSE;FALSE;2;25;10;35;39;1365;28-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;28-10-2020;;;COD;Gadus Morhua;2,8102E+11
+Strandby;Torsk;A;3;;FALSE;FALSE;1;25;15;15;40,5;607,5;28-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;28-10-2020;;;COD;Gadus Morhua;2,8102E+11
+Strandby;Torsk;E;2;;FALSE;FALSE;1;25;0;25;46,5;1162,5;28-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;28-10-2020;;;COD;Gadus Morhua;2,8102E+11
+Strandby;Torsk;E;3;;FALSE;FALSE;2;25;24;49;40;1960;28-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;28-10-2020;;;COD;Gadus Morhua;2,8102E+11
+Strandby;Torsk;E;4;;FALSE;FALSE;2;25;31;56;35;1960;28-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;28-10-2020;;;COD;Gadus Morhua;2,8102E+11
+Strandby;Torsk;A;2;;FALSE;FALSE;1;0;15;15;47,5;712,5;29-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;29-10-2020;;;COD;Gadus Morhua;2,9102E+11
+Strandby;Torsk;E;2;;FALSE;FALSE;1;25;21;21;53;1113;29-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;29-10-2020;;;COD;Gadus Morhua;2,9102E+11
+Strandby;Torsk;E;4;;FALSE;FALSE;2;25;0;50;31;1550;29-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;29-10-2020;;;COD;Gadus Morhua;2,9102E+11
+Strandby;Torsk;E;2;;FALSE;FALSE;1;25;0;25;54;1350;30-10-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;30-10-2020;;;COD;Gadus Morhua;3,0102E+11
+Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;1;25;0;25;46;1150;30-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;30-10-2020;;;COD;Gadus Morhua;3,0102E+11
+Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;1;0;15;15;47;705;30-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;30-10-2020;;;COD;Gadus Morhua;3,0102E+11
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0;14;14;29,5;413;30-10-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;30-10-2020;;;COD;Gadus Morhua;3,0102E+11
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;5;25;17;117;32,5;3802,5;30-10-2020;OTB;S 226;"S 226 "" Emmely Pilegaard""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;22821284;;30-10-2020;29-10-2020;29-10-2020;COD;Gadus Morhua;3,0102E+12
+Strandby;Torsk;A;2;;FALSE;FALSE;3;25;0;75;43,75;3281,25;02-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;02-11-2020;;;COD;Gadus Morhua;2,11202E+11
+Strandby;Torsk;A;3;;FALSE;FALSE;2;25;0;50;40,25;2012,5;02-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;02-11-2020;;;COD;Gadus Morhua;2,11202E+11
+Strandby;Torsk;A;4;;FALSE;FALSE;17;25;28;428;29;12412;02-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;02-11-2020;;;COD;Gadus Morhua;2,11202E+11
+Strandby;Torsk;E;2;;FALSE;FALSE;2;25;0;50;44,25;2212,5;02-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;02-11-2020;;;COD;Gadus Morhua;21120209503
+Strandby;Torsk;E;4;;FALSE;FALSE;2;25;0;50;32,5;1625;02-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;02-11-2020;;;COD;Gadus Morhua;21120209803
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;3;25;30;80;30,5;2440;02-11-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;02-11-2020;;;COD;Gadus Morhua;21120205201
+Strandby;Torsk;A;4;;FALSE;FALSE;2;25;0;50;27,25;1362,5;03-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;03-11-2020;;;COD;Gadus Morhua;31120205701
+Strandby;Torsk;E;4;;FALSE;FALSE;2;25;0;50;32,5;1625;03-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;03-11-2020;;;COD;Gadus Morhua;31120205301
+Strandby;Torsk;A;4;;FALSE;FALSE;0;0;6;6;34;204;04-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;04-11-2020;;;COD;Gadus Morhua;41120205701
+Strandby;Torsk;A;2;;FALSE;FALSE;1;0;10;10;50;500;05-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;05-11-2020;;;COD;Gadus Morhua;51120206801
+Strandby;Torsk;A;3;;FALSE;FALSE;1;0;20;20;43,5;870;05-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;05-11-2020;;;COD;Gadus Morhua;51120206701
+Strandby;Torsk;E;2;;FALSE;FALSE;1;25;22;22;55,5;1221;05-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;05-11-2020;;;COD;Gadus Morhua;51120206201
+Strandby;Torsk;E;3;;FALSE;FALSE;4;25;0;100;47,5;4750;05-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;05-11-2020;;;COD;Gadus Morhua;51120206101
+Strandby;Torsk;E;4;;FALSE;FALSE;3;25;15;65;38,5;2502,5;05-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;05-11-2020;;;COD;Gadus Morhua;51120206002
+Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;1;0;9;9;48;432;06-11-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;06-11-2020;;;COD;Gadus Morhua;6112020201
+Skagen;Torsk;E;3;TRAWL;FALSE;FALSE;2;25;31;56;49;2744;06-11-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;06-11-2020;;;COD;Gadus Morhua;6112020301
+Hanstholm;Torsk;E;4;FLY;TRUE;TRUE;10;19;0;190;31;5890;06-11-2020;SSC;AG 7 LS;AG 7 LS “Astrid”;;;;Norway;;;06-11-2020;30-10-2020;03-11-2020;COD;Gadus Morhua;6,11202E+12
+Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;5;20;0;100;34,5;3450;06-11-2020;OTB;HM 228;"HM 228 ""Pondus""";Bytorvet 34;7730;Hanstholm;Denmark;40791674;;06-11-2020;03-11-2020;05-11-2020;COD;Gadus Morhua;6,11202E+11
+Hanstholm;Torsk;E;4;FLY;TRUE;TRUE;2;19;0;38;35,25;1339,5;06-11-2020;SSC;AG 7 LS;AG 7 LS “Astrid”;;;;Norway;;;06-11-2020;30-10-2020;03-11-2020;COD;Gadus Morhua;6,11202E+11
+Hanstholm;Torsk;E;4;;FALSE;FALSE;5;20;18;98;36,75;3601,5;06-11-2020;;SAMLER;Hanstholm Samlecentral A/S;Auktionsgade 30;7730;Hanstholm;Denmark;;;06-11-2020;;;COD;Gadus Morhua;6,11202E+11
+Strandby;Torsk;A;1;;FALSE;FALSE;1;25;7;7;42,5;297,5;09-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;09-11-2020;;;COD;Gadus Morhua;91120209201
+Strandby;Torsk;A;2;;FALSE;FALSE;2;25;19;44;53;2332;09-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;09-11-2020;;;COD;Gadus Morhua;91120209102
+Strandby;Torsk;A;3;;FALSE;FALSE;1;25;0;25;40,5;1012,5;09-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;09-11-2020;;;COD;Gadus Morhua;91120209002
+Hanstholm;Torsk;A;4;FLY;FALSE;TRUE;3;20;0;60;30;1800;09-11-2020;SSC;L 757;"L 757  ""Aaltje Postma""";Havnegade 20;7680;Thyborøn;Denmark;40174335 Tamme Bolt;;09-11-2020;02-11-2020;08-11-2020;COD;Gadus Morhua;9,11202E+11
+Hirtshals;Torsk;A;4;;FALSE;FALSE;9;20;6;166;30,5;5063;09-11-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;09-11-2020;;;COD;Gadus Morhua;91120207601
+Strandby;Torsk;E;2;;FALSE;FALSE;1;0;32;32;56,5;1808;09-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;09-11-2020;;;COD;Gadus Morhua;91120208501
+Strandby;Torsk;E;3;;FALSE;FALSE;1;25;32;32;43;1376;09-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;09-11-2020;;;COD;Gadus Morhua;91120208401
+Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;10;25;17;242;30,75;7441,5;09-11-2020;OTB;NC 302;"NC 302  ""Iris""";Niedersachsenstrasse;27472;Cuxhaven;Germany;;;09-11-2020;04-11-2020;08-11-2020;COD;Gadus Morhua;9,11202E+11
+Hirtshals;Torsk;E;4;;FALSE;FALSE;2;20;0;40;30;1200;09-11-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;09-11-2020;;;COD;Gadus Morhua;91120207301
+Hirtshals;Torsk;E;4;TRAWL;FALSE;FALSE;2;20;0;40;32;1280;09-11-2020;OTB;HG 281;HG 281 Elin;;9850;Hirtshals;Denmark;;;09-11-2020;05-11-2020;08-11-2020;COD;Gadus Morhua;91120204602
+Hirtshals;Torsk;E;4;;FALSE;FALSE;2;20;0;40;32,75;1310;09-11-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;09-11-2020;;;COD;Gadus Morhua;91120206306
+Strandby;Torsk;E;4;;FALSE;FALSE;3;25;0;75;34,75;2606,25;09-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;09-11-2020;;;COD;Gadus Morhua;91120208301
+Skagen;Torsk;E;4;GARN;FALSE;FALSE;0;0;5;5;30;150;09-11-2020;GNS;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;09-11-2020;;;COD;Gadus Morhua;91120204101
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;4;25;33;108;33,25;3591;09-11-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;09-11-2020;;;COD;Gadus Morhua;91120204601
+Strandby;Torsk;E;2;;FALSE;FALSE;1;0;21;21;45,5;955,5;10-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;10-11-2020;;;COD;Gadus Morhua;1,0112E+11
+Skagen;Torsk;E;2;GARN;FALSE;FALSE;2;25;32;57;47,25;2693,25;10-11-2020;GNS;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;10-11-2020;;;COD;Gadus Morhua;1,0112E+11
+Hirtshals;Torsk;E;4;;FALSE;FALSE;25;20;0;500;31,75;15875;10-11-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;10-11-2020;;;COD;Gadus Morhua;1,0112E+12
+Strandby;Torsk;E;4;;FALSE;FALSE;1;25;0;25;34;850;10-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;10-11-2020;;;COD;Gadus Morhua;1,0112E+11
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;4;25;14;89;32,25;2870,25;10-11-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;10-11-2020;;;COD;Gadus Morhua;1,0112E+11
+Skagen;Torsk;E;4;GARN;FALSE;FALSE;1;0;28;28;32,5;910;10-11-2020;GNS;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;10-11-2020;;;COD;Gadus Morhua;1,0112E+11
+Strandby;Torsk;E;3;;FALSE;FALSE;2;25;6;31;32,5;1007,5;11-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;11-11-2020;;;COD;Gadus Morhua;1,1112E+11
+Hanstholm;Torsk;E;4;;FALSE;FALSE;2;20;0;40;28;1120;11-11-2020;;SAMLER;Hanstholm Samlecentral A/S;Auktionsgade 30;7730;Hanstholm;Denmark;;;11-11-2020;;;COD;Gadus Morhua;1,1112E+12
+Strandby;Torsk;E;4;;FALSE;FALSE;4;25;14;89;27,25;2425,25;11-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;11-11-2020;;;COD;Gadus Morhua;1,1112E+11
+Skagen;Torsk;E;4;;FALSE;FALSE;1;0;25;25;25;625;11-11-2020;;S 226;"S 226 "" Emmely Pilegaard""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;22821284;;11-11-2020;;;COD;Gadus Morhua;1,1112E+12
+Skagen;Torsk;E;4;GARN;FALSE;FALSE;1;0;5;5;30;150;11-11-2020;GNS;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;11-11-2020;10-11-2020;10-11-2020;COD;Gadus Morhua;1,1112E+11
+Skagen;Torsk;E;4;;FALSE;FALSE;2;20;16;36;30,25;1089;11-11-2020;;S 486;S 486 Sajoni;;;;Denmark;;;11-11-2020;;;COD;Gadus Morhua;1,1112E+12
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;2;25;0;50;30,5;1525;11-11-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;11-11-2020;10-11-2020;10-11-2020;COD;Gadus Morhua;1,1112E+11
+Skagen;Torsk;E;5;TRAWL;FALSE;FALSE;1;0;0;0;25;0;11-11-2020;OTB;S 226;"S 226 "" Emmely Pilegaard""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;22821284;;11-11-2020;08-11-2020;10-11-2020;COD;Gadus Morhua;1,1112E+12
+Skagen;Torsk;E;5;TRAWL;FALSE;FALSE;2;0;0;0;30,25;0;11-11-2020;OTB;S 226;"S 226 "" Emmely Pilegaard""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;22821284;;11-11-2020;08-11-2020;10-11-2020;COD;Gadus Morhua;1,1112E+12
+Strandby;Torsk;E;2;;FALSE;FALSE;2;25;10;35;47;1645;12-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;12-11-2020;;;COD;Gadus Morhua;1,2112E+11
+Skagen;Torsk;E;2;GARN;FALSE;FALSE;1;0;30;30;44,5;1335;12-11-2020;GNS;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;12-11-2020;;;COD;Gadus Morhua;1,2112E+11
+Strandby;Torsk;E;3;;FALSE;FALSE;1;25;17;17;35;595;12-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;12-11-2020;;;COD;Gadus Morhua;1,2112E+11
+Hirtshals;Torsk;E;4;;FALSE;FALSE;8;20;21;161;28;4508;12-11-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;12-11-2020;;;COD;Gadus Morhua;1,2112E+12
+Strandby;Torsk;E;4;;FALSE;FALSE;3;25;8;58;28;1624;12-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;12-11-2020;;;COD;Gadus Morhua;1,2112E+11
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0;29;29;24;696;12-11-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;12-11-2020;;;COD;Gadus Morhua;1,2112E+11
+Skagen;Torsk;E;4;GARN;FALSE;FALSE;1;0;18;18;25;450;12-11-2020;GNS;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;12-11-2020;;;COD;Gadus Morhua;1,2112E+11
+Strandby;Torsk;A;2;;FALSE;FALSE;2;25;19;44;45,5;2002;13-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;13-11-2020;;;COD;Gadus Morhua;1,3112E+12
+Strandby;Torsk;A;3;;FALSE;FALSE;1;25;0;25;31,5;787,5;13-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;13-11-2020;;;COD;Gadus Morhua;1,3112E+12
+Strandby;Torsk;E;2;;FALSE;FALSE;2;25;16;41;48,5;1988,5;13-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;13-11-2020;;;COD;Gadus Morhua;1,3112E+11
+Strandby;Torsk;E;3;;FALSE;FALSE;1;25;32;32;34,75;1112;13-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;13-11-2020;;;COD;Gadus Morhua;1,3112E+11
+Hirtshals;Torsk;A;2;;FALSE;FALSE;1;25;0;25;42,5;1062,5;16-11-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;16-11-2020;;;COD;Gadus Morhua;1,6112E+12
+Strandby;Torsk;A;3;;FALSE;FALSE;3;25;23;73;37;2701;16-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;16-11-2020;;;COD;Gadus Morhua;1,6112E+11
+Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;1;25;0;25;41,5;1037,5;16-11-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;16-11-2020;;;COD;Gadus Morhua;1,6112E+11
+Skagen;Torsk;E;2;GARN;FALSE;FALSE;1;0;18;18;47;846;16-11-2020;GNS;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;16-11-2020;;;COD;Gadus Morhua;1,6112E+11
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;2;20;6;26;31,5;819;16-11-2020;OTB;S 486;S 486 Sajoni;;;;Denmark;;;16-11-2020;14-11-2020;15-11-2020;COD;Gadus Morhua;1,6112E+12
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;4;25;17;92;34;3128;16-11-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;16-11-2020;;;COD;Gadus Morhua;1,6112E+11
+Hanstholm;Torsk;A;2;TRAWL;FALSE;TRUE;2;25;0;50;30;1500;17-11-2020;OTB;H 247 AV;H 247 AV  Enterprice;;;;Norway;;;17-11-2020;;;COD;Gadus Morhua;1,7112E+12
+Hirtshals;Torsk;A;2;;FALSE;FALSE;2;25;0;50;42;2100;17-11-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;17-11-2020;;;COD;Gadus Morhua;1,7112E+12
+Hirtshals;Torsk;A;4;;FALSE;FALSE;4;20;0;80;34;2720;17-11-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;17-11-2020;;;COD;Gadus Morhua;1,7112E+12
+Hirtshals;Torsk;A;4;;FALSE;FALSE;1;20;12;12;35;420;17-11-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;17-11-2020;;;COD;Gadus Morhua;1,7112E+12
+Strandby;Torsk;B;9;;FALSE;FALSE;0;0;3,5;3,5;15;52,5;17-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;17-11-2020;;;COD;Gadus Morhua;1,7112E+11
+Hanstholm;Torsk;E;1;FLY;FALSE;TRUE;2;0;39;39;35;1365;17-11-2020;SSC;VA 97 M;"VA 97 M ""Nordsö""";;;;Norway;;;17-11-2020;;;COD;Gadus Morhua;1,7112E+12
+Hirtshals;Torsk;E;2;;FALSE;FALSE;1;25;23;23;61;1403;17-11-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;17-11-2020;;;COD;Gadus Morhua;1,7112E+12
+Hirtshals;Torsk;E;4;;FALSE;FALSE;1;20;0;20;38;760;17-11-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;17-11-2020;;;COD;Gadus Morhua;1,7112E+12
+Hirtshals;Torsk;E;4;;FALSE;FALSE;2;20;16;36;40;1440;17-11-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;17-11-2020;;;COD;Gadus Morhua;1,7112E+12
+Strandby;Torsk;E;4;;FALSE;FALSE;4;25;24;99;36,75;3638,25;17-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;17-11-2020;;;COD;Gadus Morhua;1,7112E+11
+Hanstholm;Torsk;A;2;TRAWL;FALSE;TRUE;1;0;26;26;37,5;975;18-11-2020;OTB;H 101 AV;"H 101 AV ""Tobis""";;;;Norway;;;18-11-2020;;;COD;Gadus Morhua;1,8112E+12
+Hanstholm;Torsk;A;2;VOD;FALSE;TRUE;3;0;78;78;40;3120;18-11-2020;SDN;VA 2 S;VA 2 S  (Samler);;;;Norway;;carl@aamodtfiskeri.no;18-11-2020;;;COD;Gadus Morhua;1,8112E+12
+Hanstholm;Torsk;A;4;VOD;FALSE;TRUE;1;0;16;16;20;320;18-11-2020;SDN;VA 2 S;VA 2 S  (Samler);;;;Norway;;carl@aamodtfiskeri.no;18-11-2020;;;COD;Gadus Morhua;1,8112E+12
+Strandby;Torsk;E;2;;FALSE;FALSE;1;0;21;21;51;1071;18-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;18-11-2020;;;COD;Gadus Morhua;1,8112E+11
+Strandby;Torsk;A;2;;FALSE;FALSE;3;25;0;75;39,5;2962,5;19-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;19-11-2020;;;COD;Gadus Morhua;1,9112E+11
+Strandby;Torsk;A;3;;FALSE;FALSE;2;25;27;52;32,25;1677;19-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;19-11-2020;;;COD;Gadus Morhua;1,9112E+11
+Strandby;Torsk;A;4;;FALSE;FALSE;2;25;0;50;32;1600;19-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;19-11-2020;;;COD;Gadus Morhua;1,9112E+11
+Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;1;0;22;22;43;946;19-11-2020;OTB;S 158;"S 158  ""Saron""";Sct. Laurentii Vej 32;9990;Skagen;Denmark;;;19-11-2020;17-11-2020;18-11-2020;COD;Gadus Morhua;1,9112E+12
+Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;3;25;0;75;43,25;3243,75;19-11-2020;OTB;S 107;"S 107 ""Skagerak""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;;;19-11-2020;18-11-2020;19-11-2020;COD;Gadus Morhua;1,9112E+12
+Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;2;25;0;50;44,5;2225;19-11-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;19-11-2020;;;COD;Gadus Morhua;19112020201
+Strandby;Torsk;E;4;;FALSE;FALSE;3;25;0;75;33,75;2531,25;19-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;19-11-2020;;;COD;Gadus Morhua;1,9112E+11
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0;25;25;29;725;19-11-2020;OTB;S 107;"S 107 ""Skagerak""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;;;19-11-2020;18-11-2020;19-11-2020;COD;Gadus Morhua;1,9112E+12
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;3;25;16;66;29,5;1947;19-11-2020;OTB;S 226;"S 226 "" Emmely Pilegaard""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;22821284;;19-11-2020;17-11-2020;19-11-2020;COD;Gadus Morhua;1,9112E+12
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0;17;17;33;561;19-11-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;19-11-2020;;;COD;Gadus Morhua;19112020401
+Strandby;Torsk;A;2;;FALSE;FALSE;1;0;32;32;39;1248;20-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;20-11-2020;;;COD;Gadus Morhua;2,0112E+11
+Strandby;Torsk;A;3;;FALSE;FALSE;2;25;23;48;28,25;1356;20-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;20-11-2020;;;COD;Gadus Morhua;2,0112E+11
+Hanstholm;Torsk;E;4;TRAWL;FALSE;TRUE;5;20;0;100;30,5;3050;20-11-2020;OTB;L 654;"L 654 ""Pia Glanz""";Stormgade 8, 1.s.;6960;Hvide Sande;Denmark;21257167-John;;20-11-2020;14-11-2020;19-11-2020;COD;Gadus Morhua;2,0112E+11
+Strandby;Torsk;E;4;;FALSE;FALSE;3;25;0;75;32,5;2437,5;20-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;20-11-2020;;;COD;Gadus Morhua;2,0112E+11
+Skagen;Torsk;A;2;TRAWL;FALSE;FALSE;1;22;0;22;48,5;1067;23-11-2020;OTB;S 158;"S 158  ""Saron""";Sct. Laurentii Vej 32;9990;Skagen;Denmark;;;23-11-2020;20-11-2020;21-11-2020;COD;Gadus Morhua;2,3112E+12
+Strandby;Torsk;A;3;;FALSE;FALSE;1;25;12;12;36,5;438;23-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;23-11-2020;;;COD;Gadus Morhua;2,3112E+11
+Hanstholm;Torsk;A;4;TRAWL;FALSE;TRUE;5;19;0;95;31,25;2968,75;23-11-2020;OTB;HM 227;"HM 227 ""Myggenes""";"Lynge Fiskeri Aps. MC Revision
+Havnegade 26,2";7680;Thyborøn;Denmark;;;23-11-2020;17-11-2020;22-11-2020;COD;Gadus Morhua;2,3112E+12
+Strandby;Torsk;A;4;;FALSE;FALSE;3;25;9;59;30,25;1784,75;23-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;23-11-2020;;;COD;Gadus Morhua;2,3112E+11
+Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;1;0;19;19;41;779;23-11-2020;OTB;S 107;"S 107 ""Skagerak""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;;;23-11-2020;20-11-2020;21-11-2020;COD;Gadus Morhua;2,3112E+12
+Strandby;Torsk;E;4;;FALSE;FALSE;3;25;0;75;37,5;2812,5;23-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;23-11-2020;;;COD;Gadus Morhua;2,3112E+11
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0;17;17;27,5;467,5;23-11-2020;OTB;S 107;"S 107 ""Skagerak""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;;;23-11-2020;20-11-2020;21-11-2020;COD;Gadus Morhua;2,3112E+12
+Strandby;Torsk;B;9;;FALSE;FALSE;0;0;3;3;9;27;25-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;25-11-2020;;;COD;Gadus Morhua;2,5112E+11
+Skagen;Torsk;E;3;TRAWL;FALSE;FALSE;1;0;25;25;55;1375;25-11-2020;OTB;S 486;S 486 Sajoni;;;;Denmark;;;25-11-2020;23-11-2020;24-11-2020;COD;Gadus Morhua;2,5112E+12
+Strandby;Torsk;E;4;;FALSE;FALSE;6;25;32;157;38,25;6005,25;25-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;25-11-2020;;;COD;Gadus Morhua;2,5112E+11
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;2;25;21;46;38,5;1771;25-11-2020;OTB;S 226;"S 226 "" Emmely Pilegaard""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;22821284;;25-11-2020;23-11-2020;24-11-2020;COD;Gadus Morhua;2,5112E+12
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0;19;19;40;760;25-11-2020;OTB;S 107;"S 107 ""Skagerak""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;;;25-11-2020;23-11-2020;24-11-2020;COD;Gadus Morhua;2,5112E+12
+Strandby;Torsk;E;2;;FALSE;FALSE;2;25;0;50;61;3050;26-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;26-11-2020;;;COD;Gadus Morhua;2,6112E+11
+Strandby;Torsk;E;4;;FALSE;FALSE;2;25;0;50;44;2200;26-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;26-11-2020;;;COD;Gadus Morhua;2,6112E+11
+Strandby;Torsk;A;2;;FALSE;FALSE;1;0;17;17;47;799;27-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;27-11-2020;;;COD;Gadus Morhua;2,7112E+11
+Hanstholm;Torsk;E;2;TRAWL;FALSE;TRUE;3;25;9;59;54;3186;27-11-2020;OTB;S 430;"S 430 ""Well-Bank""";Sankt. Laurentiivej 39;9990;Skagen;Denmark;;;27-11-2020;25-11-2020;26-11-2020;COD;Gadus Morhua;2,7112E+12
+Strandby;Torsk;E;4;;FALSE;FALSE;4;25;0;100;35,5;3550;27-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;27-11-2020;;;COD;Gadus Morhua;2,7112E+11
+Strandby;Torsk;A;2;;FALSE;FALSE;4;25;32;107;30,25;3236,75;30-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;30-11-2020;;;COD;Gadus Morhua;3,0112E+11
+Strandby;Torsk;A;4;;FALSE;FALSE;2;25;0;50;22,75;1137,5;30-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;30-11-2020;;;COD;Gadus Morhua;3,0112E+11
+Strandby;Torsk;E;2;;FALSE;FALSE;2;25;0;50;35;1750;30-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;30-11-2020;;;COD;Gadus Morhua;3,0112E+11
+Skagen;Torsk;E;2;GARN;FALSE;FALSE;2;25;0;50;36;1800;30-11-2020;GNS;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;30-11-2020;;;COD;Gadus Morhua;3,0112E+11
+Strandby;Torsk;E;3;;FALSE;FALSE;3;25;0;75;28,75;2156,25;30-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;30-11-2020;;;COD;Gadus Morhua;3,0112E+11
+Strandby;Torsk;E;4;;FALSE;FALSE;2;25;12;37;24,25;897,25;30-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;30-11-2020;;;COD;Gadus Morhua;3,0112E+12
+Strandby;Torsk;E;4;;FALSE;FALSE;3;25;0;75;25,25;1893,75;30-11-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;30-11-2020;;;COD;Gadus Morhua;3,0112E+11
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0;25;25;24,25;606,25;30-11-2020;OTB;S 107;"S 107 ""Skagerak""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;;;30-11-2020;27-11-2020;29-11-2020;COD;Gadus Morhua;3,0112E+12
+Skagen;Torsk;E;4;GARN;FALSE;FALSE;2;25;29;54;25,25;1363,5;30-11-2020;GNS;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;30-11-2020;;;COD;Gadus Morhua;3,0112E+11
+Skagen;Torsk;E;2;TRAWL;FALSE;FALSE;1;25;0;25;40;1000;02-12-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;02-12-2020;;;COD;Gadus Morhua;21220202601
+Strandby;Torsk;E;3;;FALSE;FALSE;1;0;18;18;32,5;585;02-12-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;02-12-2020;;;COD;Gadus Morhua;21220206201
+Skagen;Torsk;E;3;GARN;FALSE;FALSE;0;0;6;6;25;150;02-12-2020;GNS;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;02-12-2020;;;COD;Gadus Morhua;21220202401
+Hirtshals;Torsk;E;4;;FALSE;FALSE;8;20;0;160;28;4480;02-12-2020;;FFHI;F. F. Hirtshals;J. Fibigersgade 16;9850;Hirtshals;Denmark;98941437;;02-12-2020;;;COD;Gadus Morhua;21220205203
+Strandby;Torsk;E;4;;FALSE;FALSE;1;25;0;25;31,5;787,5;02-12-2020;;FS;Fiskernes Samlecentral;Auktionskaj 7 1. tv;9970;Strandby;Denmark;;;02-12-2020;;;COD;Gadus Morhua;21220206102
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0;25;25;22,5;562,5;02-12-2020;OTB;S 226;"S 226 "" Emmely Pilegaard""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;22821284;;02-12-2020;30-11-2020;01-12-2020;COD;Gadus Morhua;2,12202E+11
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;1;0;25;25;23;575;02-12-2020;OTB;S 107;"S 107 ""Skagerak""";Sct. Laurentii Vej 39;9990;Skagen;Denmark;;;02-12-2020;30-11-2020;01-12-2020;COD;Gadus Morhua;21220209801
+Skagen;Torsk;E;4;TRAWL;FALSE;FALSE;2;25;0;50;24;1200;02-12-2020;OTB;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;02-12-2020;;;COD;Gadus Morhua;21220202801
+Skagen;Torsk;E;4;GARN;FALSE;FALSE;0;0;4;4;25;100;02-12-2020;GNS;8542;Skagen Samlecentral;Auktionsvej;9990;Skagen;Denmark;;;02-12-2020;;;COD;Gadus Morhua;21220202501
