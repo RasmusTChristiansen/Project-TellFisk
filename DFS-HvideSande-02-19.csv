@@ -1,0 +1,758 @@
+                   Art  Sort         Kg.  Gnms. pris         Max        dato  \
+0         Blæksprutter   9.0   2.136 kg.   17,58 Kr.   22,40 Kr.  02-11-2020   
+1               Brosme   9.0      91 kg.   19,08 Kr.   20,50 Kr.  02-11-2020   
+2              Fjæsing   9.0      80 kg.    9,04 Kr.   20,80 Kr.  02-11-2020   
+3           Glashvarre   9.0      69 kg.   31,52 Kr.   38,40 Kr.  02-11-2020   
+4        Grå knurhaner   9.0      52 kg.    2,21 Kr.    2,50 Kr.  02-11-2020   
+5               Havkat   1.0      40 kg.   47,34 Kr.   49,50 Kr.  02-11-2020   
+6               Havkat   2.0     177 kg.   44,20 Kr.   48,10 Kr.  02-11-2020   
+7               Havkat   3.0      29 kg.   16,16 Kr.   18,20 Kr.  02-11-2020   
+8             Havtaske   1.0     644 kg.   24,85 Kr.   32,90 Kr.  02-11-2020   
+9             Havtaske   2.0   1.146 kg.   32,26 Kr.   34,30 Kr.  02-11-2020   
+10            Havtaske   3.0   1.936 kg.   36,37 Kr.   37,79 Kr.  02-11-2020   
+11            Havtaske   4.0   1.159 kg.   33,03 Kr.   34,59 Kr.  02-11-2020   
+12            Havtaske   5.0     142 kg.   19,12 Kr.   20,58 Kr.  02-11-2020   
+13        Havtaske u/h   1.0      12 kg.   68,60 Kr.   73,20 Kr.  02-11-2020   
+14        Havtaske u/h   2.0      50 kg.   77,47 Kr.   84,00 Kr.  02-11-2020   
+15        Havtaske u/h   3.0     136 kg.   79,81 Kr.   87,40 Kr.  02-11-2020   
+16        Havtaske u/h   4.0     165 kg.   79,61 Kr.   81,10 Kr.  02-11-2020   
+17        Havtaske u/h   5.0      67 kg.   51,80 Kr.   53,10 Kr.  02-11-2020   
+18        Helleflynder   1.0      96 kg.   75,73 Kr.   85,80 Kr.  02-11-2020   
+19        Helleflynder   2.0      12 kg.   79,93 Kr.   80,00 Kr.  02-11-2020   
+20        Helleflynder   3.0      20 kg.   74,35 Kr.   74,90 Kr.  02-11-2020   
+21        Helleflynder   4.0      21 kg.   70,46 Kr.   72,60 Kr.  02-11-2020   
+22        Helleflynder   5.0      22 kg.   44,88 Kr.   61,20 Kr.  02-11-2020   
+23            Hvilling   1.0     170 kg.   17,35 Kr.   17,88 Kr.  02-11-2020   
+24            Hvilling   2.0     203 kg.   11,35 Kr.   13,52 Kr.  02-11-2020   
+25            Hvilling   3.0      30 kg.    8,33 Kr.    8,54 Kr.  02-11-2020   
+26               Ising   1.0     278 kg.   15,02 Kr.   15,87 Kr.  02-11-2020   
+27               Ising   2.0     497 kg.   11,12 Kr.   11,69 Kr.  02-11-2020   
+28           Knurhaner   1.0       7 kg.   24,10 Kr.   24,10 Kr.  02-11-2020   
+29           Knurhaner   2.0      51 kg.    9,60 Kr.   11,40 Kr.  02-11-2020   
+30           Knurhaner   3.0      61 kg.    2,63 Kr.    2,70 Kr.  02-11-2020   
+31           Knurhaner   9.0       6 kg.   18,00 Kr.   18,00 Kr.  02-11-2020   
+32          Krabbeklør   1.0      83 kg.   83,81 Kr.   88,30 Kr.  02-11-2020   
+33          Krabbeklør   2.0     145 kg.   40,76 Kr.   47,20 Kr.  02-11-2020   
+34          Krabbeklør   3.0      51 kg.    5,86 Kr.    6,50 Kr.  02-11-2020   
+35              Kuller   1.0     761 kg.   22,81 Kr.   28,55 Kr.  02-11-2020   
+36              Kuller   2.0   1.465 kg.   17,28 Kr.   20,91 Kr.  02-11-2020   
+37              Kuller   3.0     697 kg.    7,91 Kr.   10,50 Kr.  02-11-2020   
+38              Kuller   4.0     123 kg.    2,65 Kr.    2,68 Kr.  02-11-2020   
+39             Kulmule   0.0     600 kg.   63,87 Kr.   68,56 Kr.  02-11-2020   
+40             Kulmule   1.0   1.299 kg.   43,60 Kr.   46,75 Kr.  02-11-2020   
+41             Kulmule   2.0   9.363 kg.   25,67 Kr.   30,95 Kr.  02-11-2020   
+42             Kulmule   3.0   4.885 kg.   12,91 Kr.   18,46 Kr.  02-11-2020   
+43             Kulmule   4.0     257 kg.    7,47 Kr.    7,83 Kr.  02-11-2020   
+44             Kulmule   9.0      72 kg.    5,05 Kr.    5,98 Kr.  02-11-2020   
+45        Kulmule Rogn   5.0      13 kg.   23,50 Kr.   23,50 Kr.  02-11-2020   
+46               Kulso   9.0       2 kg.   60,00 Kr.   70,00 Kr.  02-11-2020   
+47              Langer   1.0     306 kg.   20,86 Kr.   23,86 Kr.  02-11-2020   
+48              Langer   2.0     237 kg.   20,06 Kr.   24,75 Kr.  02-11-2020   
+49              Langer   3.0     727 kg.   12,15 Kr.   17,09 Kr.  02-11-2020   
+50              Langer   9.0      12 kg.    4,30 Kr.    4,30 Kr.  02-11-2020   
+51              Lyssej   1.0       5 kg.   24,50 Kr.   24,50 Kr.  02-11-2020   
+52              Lyssej   2.0     252 kg.   31,91 Kr.   36,86 Kr.  02-11-2020   
+53              Lyssej   3.0     777 kg.   24,82 Kr.   28,48 Kr.  02-11-2020   
+54              Lyssej   4.0     231 kg.   14,47 Kr.   16,90 Kr.  02-11-2020   
+55              Lyssej   9.0      19 kg.   11,35 Kr.   12,30 Kr.  02-11-2020   
+56              Makrel   9.0      21 kg.   15,40 Kr.   15,40 Kr.  02-11-2020   
+57             Mørksej   1.0     208 kg.   15,97 Kr.   17,11 Kr.  02-11-2020   
+58             Mørksej   2.0     583 kg.   14,57 Kr.   17,55 Kr.  02-11-2020   
+59             Mørksej   3.0   2.210 kg.   13,55 Kr.   14,96 Kr.  02-11-2020   
+60             Mørksej   4.0   6.438 kg.   10,09 Kr.   11,30 Kr.  02-11-2020   
+61             Pighvar   0.0      42 kg.  156,53 Kr.  175,00 Kr.  02-11-2020   
+62             Pighvar   1.0      65 kg.  137,00 Kr.  150,00 Kr.  02-11-2020   
+63             Pighvar   2.0      62 kg.  112,80 Kr.  117,90 Kr.  02-11-2020   
+64             Pighvar   3.0     190 kg.   88,10 Kr.   90,80 Kr.  02-11-2020   
+65             Pighvar   4.0     130 kg.   47,71 Kr.   52,60 Kr.  02-11-2020   
+66             Pighvar   9.0      22 kg.   12,99 Kr.   18,30 Kr.  02-11-2020   
+67       Rokker/skader   9.0     101 kg.    6,70 Kr.    6,70 Kr.  02-11-2020   
+68           Rød mulle   9.0       9 kg.   37,40 Kr.   37,40 Kr.  02-11-2020   
+69          Rødspætter   1.0   2.332 kg.   26,66 Kr.   31,48 Kr.  02-11-2020   
+70          Rødspætter   2.0   3.414 kg.   28,91 Kr.   32,53 Kr.  02-11-2020   
+71          Rødspætter   3.0   5.533 kg.   19,65 Kr.   22,60 Kr.  02-11-2020   
+72          Rødspætter   4.0   8.850 kg.   14,45 Kr.   14,79 Kr.  02-11-2020   
+73          Rødspætter   9.0      13 kg.   12,72 Kr.   13,00 Kr.  02-11-2020   
+74           Rødtunger   1.0     144 kg.   60,96 Kr.   70,30 Kr.  02-11-2020   
+75           Rødtunger   2.0   1.281 kg.   41,77 Kr.   51,00 Kr.  02-11-2020   
+76           Rødtunger   3.0   2.675 kg.   23,17 Kr.   25,73 Kr.  02-11-2020   
+77           Rødtunger   9.0      25 kg.   28,18 Kr.   35,80 Kr.  02-11-2020   
+78   Sankt Peters fisk   9.0      18 kg.   35,07 Kr.   48,00 Kr.  02-11-2020   
+79           Skærising   1.0     212 kg.   31,44 Kr.   41,10 Kr.  02-11-2020   
+80           Skærising   2.0     611 kg.   22,18 Kr.   28,40 Kr.  02-11-2020   
+81           Skærising   3.0     161 kg.    7,56 Kr.   10,17 Kr.  02-11-2020   
+82           Skærising   9.0       8 kg.   13,00 Kr.   13,00 Kr.  02-11-2020   
+83            Slethvar   0.0      50 kg.   68,23 Kr.   72,60 Kr.  02-11-2020   
+84            Slethvar   1.0     161 kg.   55,80 Kr.   64,70 Kr.  02-11-2020   
+85            Slethvar   2.0     188 kg.   32,00 Kr.   44,40 Kr.  02-11-2020   
+86    Småplettet rokke   9.0     485 kg.    9,45 Kr.   10,40 Kr.  02-11-2020   
+87   Storplettet Rokke   9.0      57 kg.    8,64 Kr.   10,30 Kr.  02-11-2020   
+88        Taskekrabber   9.0     113 kg.    1,76 Kr.    1,76 Kr.  02-11-2020   
+89               Torsk   0.0     506 kg.   44,82 Kr.   47,42 Kr.  02-11-2020   
+90               Torsk   1.0   1.188 kg.   45,88 Kr.   50,86 Kr.  02-11-2020   
+91               Torsk   2.0   3.167 kg.   44,56 Kr.   51,13 Kr.  02-11-2020   
+92               Torsk   3.0   4.203 kg.   38,03 Kr.   41,52 Kr.  02-11-2020   
+93               Torsk   4.0  10.131 kg.   26,20 Kr.   34,73 Kr.  02-11-2020   
+94               Torsk   5.0   4.594 kg.   18,53 Kr.   24,19 Kr.  02-11-2020   
+95              Tunger   1.0     122 kg.  107,01 Kr.  115,30 Kr.  02-11-2020   
+96              Tunger   2.0      99 kg.   87,04 Kr.   90,30 Kr.  02-11-2020   
+97              Tunger   3.0      64 kg.   67,14 Kr.   75,00 Kr.  02-11-2020   
+98              Tunger   4.0      48 kg.   42,95 Kr.   50,00 Kr.  02-11-2020   
+99              Tunger   5.0      33 kg.   32,28 Kr.   35,90 Kr.  02-11-2020   
+100              Total   NaN  92.554 kg.         NaN         NaN  02-11-2020   
+
+      auktion  
+0    Thyborøn  
+1    Thyborøn  
+2    Thyborøn  
+3    Thyborøn  
+4    Thyborøn  
+5    Thyborøn  
+6    Thyborøn  
+7    Thyborøn  
+8    Thyborøn  
+9    Thyborøn  
+10   Thyborøn  
+11   Thyborøn  
+12   Thyborøn  
+13   Thyborøn  
+14   Thyborøn  
+15   Thyborøn  
+16   Thyborøn  
+17   Thyborøn  
+18   Thyborøn  
+19   Thyborøn  
+20   Thyborøn  
+21   Thyborøn  
+22   Thyborøn  
+23   Thyborøn  
+24   Thyborøn  
+25   Thyborøn  
+26   Thyborøn  
+27   Thyborøn  
+28   Thyborøn  
+29   Thyborøn  
+30   Thyborøn  
+31   Thyborøn  
+32   Thyborøn  
+33   Thyborøn  
+34   Thyborøn  
+35   Thyborøn  
+36   Thyborøn  
+37   Thyborøn  
+38   Thyborøn  
+39   Thyborøn  
+40   Thyborøn  
+41   Thyborøn  
+42   Thyborøn  
+43   Thyborøn  
+44   Thyborøn  
+45   Thyborøn  
+46   Thyborøn  
+47   Thyborøn  
+48   Thyborøn  
+49   Thyborøn  
+50   Thyborøn  
+51   Thyborøn  
+52   Thyborøn  
+53   Thyborøn  
+54   Thyborøn  
+55   Thyborøn  
+56   Thyborøn  
+57   Thyborøn  
+58   Thyborøn  
+59   Thyborøn  
+60   Thyborøn  
+61   Thyborøn  
+62   Thyborøn  
+63   Thyborøn  
+64   Thyborøn  
+65   Thyborøn  
+66   Thyborøn  
+67   Thyborøn  
+68   Thyborøn  
+69   Thyborøn  
+70   Thyborøn  
+71   Thyborøn  
+72   Thyborøn  
+73   Thyborøn  
+74   Thyborøn  
+75   Thyborøn  
+76   Thyborøn  
+77   Thyborøn  
+78   Thyborøn  
+79   Thyborøn  
+80   Thyborøn  
+81   Thyborøn  
+82   Thyborøn  
+83   Thyborøn  
+84   Thyborøn  
+85   Thyborøn  
+86   Thyborøn  
+87   Thyborøn  
+88   Thyborøn  
+89   Thyborøn  
+90   Thyborøn  
+91   Thyborøn  
+92   Thyborøn  
+93   Thyborøn  
+94   Thyborøn  
+95   Thyborøn  
+96   Thyborøn  
+97   Thyborøn  
+98   Thyborøn  
+99   Thyborøn  
+100  Thyborøn  
+                  Art  Sort         Kg.  Gnms. pris         Max        dato  \
+0          Alm hummer   1.0      20 kg.  135,25 Kr.  153,10 Kr.  03-11-2020   
+1          Alm hummer   2.0      18 kg.  183,82 Kr.  188,40 Kr.  03-11-2020   
+2          Alm hummer   9.0       4 kg.   89,65 Kr.  118,60 Kr.  03-11-2020   
+3        Blæksprutter   9.0   1.020 kg.   14,39 Kr.   22,64 Kr.  03-11-2020   
+4              Brosme   9.0       3 kg.    2,51 Kr.    2,51 Kr.  03-11-2020   
+5             Fjæsing   9.0      19 kg.   18,40 Kr.   18,40 Kr.  03-11-2020   
+6       Grå knurhaner   9.0      40 kg.    2,10 Kr.    2,10 Kr.  03-11-2020   
+7              Havkat   2.0     115 kg.   42,47 Kr.   44,50 Kr.  03-11-2020   
+8              Havkat   3.0      29 kg.   16,62 Kr.   18,60 Kr.  03-11-2020   
+9            Havtaske   1.0      33 kg.   27,68 Kr.   31,83 Kr.  03-11-2020   
+10           Havtaske   2.0     256 kg.   33,74 Kr.   34,26 Kr.  03-11-2020   
+11           Havtaske   3.0     756 kg.   40,51 Kr.   42,00 Kr.  03-11-2020   
+12           Havtaske   4.0     660 kg.   39,62 Kr.   41,00 Kr.  03-11-2020   
+13           Havtaske   5.0     186 kg.   18,83 Kr.   20,25 Kr.  03-11-2020   
+14              Havål   0.0       3 kg.   50,00 Kr.   50,00 Kr.  03-11-2020   
+15       Helleflynder   1.0      13 kg.   75,00 Kr.   75,00 Kr.  03-11-2020   
+16       Helleflynder   4.0      12 kg.   71,00 Kr.   71,00 Kr.  03-11-2020   
+17       Helleflynder   5.0       2 kg.   60,80 Kr.   60,80 Kr.  03-11-2020   
+18           Hvilling   2.0      43 kg.   14,02 Kr.   14,07 Kr.  03-11-2020   
+19           Hvilling   3.0       9 kg.    8,72 Kr.    8,72 Kr.  03-11-2020   
+20              Ising   1.0     219 kg.   16,22 Kr.   16,97 Kr.  03-11-2020   
+21              Ising   2.0     119 kg.    8,69 Kr.    8,88 Kr.  03-11-2020   
+22          Knurhaner   2.0      10 kg.   15,40 Kr.   15,40 Kr.  03-11-2020   
+23          Knurhaner   3.0      20 kg.    3,10 Kr.    3,10 Kr.  03-11-2020   
+24         Krabbeklør   1.0      24 kg.   85,50 Kr.   91,00 Kr.  03-11-2020   
+25         Krabbeklør   2.0      47 kg.   39,09 Kr.   39,70 Kr.  03-11-2020   
+26             Kuller   1.0      33 kg.   22,38 Kr.   22,72 Kr.  03-11-2020   
+27             Kuller   2.0      65 kg.   16,10 Kr.   16,32 Kr.  03-11-2020   
+28             Kuller   3.0     354 kg.    8,34 Kr.    9,40 Kr.  03-11-2020   
+29             Kuller   4.0      44 kg.    3,11 Kr.    3,12 Kr.  03-11-2020   
+30            Kulmule   0.0      19 kg.   32,30 Kr.   32,30 Kr.  03-11-2020   
+31            Kulmule   1.0       6 kg.   24,59 Kr.   24,59 Kr.  03-11-2020   
+32            Kulmule   2.0      16 kg.   21,22 Kr.   24,72 Kr.  03-11-2020   
+33            Kulmule   3.0      48 kg.    7,68 Kr.   11,76 Kr.  03-11-2020   
+34            Kulmule   4.0       6 kg.    3,76 Kr.    3,76 Kr.  03-11-2020   
+35            Kulmule   9.0      12 kg.    5,77 Kr.    5,77 Kr.  03-11-2020   
+36             Langer   1.0      48 kg.   23,72 Kr.   23,72 Kr.  03-11-2020   
+37             Langer   2.0      15 kg.   17,62 Kr.   18,05 Kr.  03-11-2020   
+38             Langer   3.0     117 kg.   12,69 Kr.   14,08 Kr.  03-11-2020   
+39             Lyssej   2.0      17 kg.   24,46 Kr.   24,58 Kr.  03-11-2020   
+40             Lyssej   3.0     244 kg.   23,93 Kr.   24,92 Kr.  03-11-2020   
+41             Lyssej   4.0     101 kg.   19,06 Kr.   20,06 Kr.  03-11-2020   
+42             Makrel   9.0      95 kg.   16,24 Kr.   16,24 Kr.  03-11-2020   
+43            Mørksej   1.0       9 kg.   15,59 Kr.   15,59 Kr.  03-11-2020   
+44            Mørksej   2.0      27 kg.   16,00 Kr.   16,00 Kr.  03-11-2020   
+45            Mørksej   3.0      60 kg.   15,83 Kr.   15,83 Kr.  03-11-2020   
+46            Mørksej   4.0      95 kg.   10,30 Kr.   10,53 Kr.  03-11-2020   
+47         Pighaj u/r   2.0     194 kg.    7,80 Kr.    8,71 Kr.  03-11-2020   
+48            Pighvar   0.0      51 kg.  137,66 Kr.  160,00 Kr.  03-11-2020   
+49            Pighvar   1.0      66 kg.  118,71 Kr.  134,30 Kr.  03-11-2020   
+50            Pighvar   2.0      33 kg.  109,50 Kr.  113,60 Kr.  03-11-2020   
+51            Pighvar   3.0     122 kg.   83,77 Kr.   92,20 Kr.  03-11-2020   
+52            Pighvar   4.0      84 kg.   46,77 Kr.   51,90 Kr.  03-11-2020   
+53            Pighvar   9.0      19 kg.   26,59 Kr.   28,30 Kr.  03-11-2020   
+54          Rød mulle   9.0       6 kg.   34,80 Kr.   34,80 Kr.  03-11-2020   
+55             Rødhaj   9.0      30 kg.   13,10 Kr.   13,10 Kr.  03-11-2020   
+56         Rødspætter   1.0   1.799 kg.   28,14 Kr.   29,22 Kr.  03-11-2020   
+57         Rødspætter   2.0   2.413 kg.   29,86 Kr.   31,87 Kr.  03-11-2020   
+58         Rødspætter   3.0   3.019 kg.   19,98 Kr.   23,08 Kr.  03-11-2020   
+59         Rødspætter   4.0   4.077 kg.   14,69 Kr.   16,90 Kr.  03-11-2020   
+60          Rødtunger   1.0     146 kg.   69,00 Kr.   73,50 Kr.  03-11-2020   
+61          Rødtunger   2.0   1.080 kg.   45,30 Kr.   52,08 Kr.  03-11-2020   
+62          Rødtunger   3.0   1.867 kg.   23,51 Kr.   25,45 Kr.  03-11-2020   
+63          Skærising   1.0      11 kg.   37,90 Kr.   37,90 Kr.  03-11-2020   
+64          Skærising   2.0      51 kg.   27,80 Kr.   27,80 Kr.  03-11-2020   
+65          Skærising   3.0      10 kg.    6,10 Kr.    6,10 Kr.  03-11-2020   
+66           Slethvar   0.0      30 kg.   73,24 Kr.   84,20 Kr.  03-11-2020   
+67           Slethvar   1.0      85 kg.   51,39 Kr.   52,00 Kr.  03-11-2020   
+68           Slethvar   2.0      59 kg.   31,08 Kr.   39,00 Kr.  03-11-2020   
+69   Småplettet rokke   9.0      67 kg.   11,88 Kr.   12,62 Kr.  03-11-2020   
+70  Storplettet Rokke   9.0      33 kg.   12,00 Kr.   12,00 Kr.  03-11-2020   
+71              Torsk   0.0      20 kg.   45,67 Kr.   45,67 Kr.  03-11-2020   
+72              Torsk   1.0      61 kg.   48,15 Kr.   48,98 Kr.  03-11-2020   
+73              Torsk   2.0     298 kg.   46,54 Kr.   47,20 Kr.  03-11-2020   
+74              Torsk   3.0     575 kg.   40,00 Kr.   41,00 Kr.  03-11-2020   
+75              Torsk   4.0   2.105 kg.   27,84 Kr.   30,92 Kr.  03-11-2020   
+76              Torsk   5.0   1.681 kg.   16,11 Kr.   19,01 Kr.  03-11-2020   
+77             Tunger   1.0      35 kg.  107,76 Kr.  113,20 Kr.  03-11-2020   
+78             Tunger   2.0      42 kg.   95,38 Kr.   99,00 Kr.  03-11-2020   
+79             Tunger   3.0      22 kg.   71,50 Kr.   71,50 Kr.  03-11-2020   
+80             Tunger   4.0      15 kg.   50,40 Kr.   50,40 Kr.  03-11-2020   
+81             Tunger   5.0      10 kg.   32,80 Kr.   32,80 Kr.  03-11-2020   
+82              Total   NaN  25.327 kg.         NaN         NaN  03-11-2020   
+
+     auktion  
+0   Thyborøn  
+1   Thyborøn  
+2   Thyborøn  
+3   Thyborøn  
+4   Thyborøn  
+5   Thyborøn  
+6   Thyborøn  
+7   Thyborøn  
+8   Thyborøn  
+9   Thyborøn  
+10  Thyborøn  
+11  Thyborøn  
+12  Thyborøn  
+13  Thyborøn  
+14  Thyborøn  
+15  Thyborøn  
+16  Thyborøn  
+17  Thyborøn  
+18  Thyborøn  
+19  Thyborøn  
+20  Thyborøn  
+21  Thyborøn  
+22  Thyborøn  
+23  Thyborøn  
+24  Thyborøn  
+25  Thyborøn  
+26  Thyborøn  
+27  Thyborøn  
+28  Thyborøn  
+29  Thyborøn  
+30  Thyborøn  
+31  Thyborøn  
+32  Thyborøn  
+33  Thyborøn  
+34  Thyborøn  
+35  Thyborøn  
+36  Thyborøn  
+37  Thyborøn  
+38  Thyborøn  
+39  Thyborøn  
+40  Thyborøn  
+41  Thyborøn  
+42  Thyborøn  
+43  Thyborøn  
+44  Thyborøn  
+45  Thyborøn  
+46  Thyborøn  
+47  Thyborøn  
+48  Thyborøn  
+49  Thyborøn  
+50  Thyborøn  
+51  Thyborøn  
+52  Thyborøn  
+53  Thyborøn  
+54  Thyborøn  
+55  Thyborøn  
+56  Thyborøn  
+57  Thyborøn  
+58  Thyborøn  
+59  Thyborøn  
+60  Thyborøn  
+61  Thyborøn  
+62  Thyborøn  
+63  Thyborøn  
+64  Thyborøn  
+65  Thyborøn  
+66  Thyborøn  
+67  Thyborøn  
+68  Thyborøn  
+69  Thyborøn  
+70  Thyborøn  
+71  Thyborøn  
+72  Thyborøn  
+73  Thyborøn  
+74  Thyborøn  
+75  Thyborøn  
+76  Thyborøn  
+77  Thyborøn  
+78  Thyborøn  
+79  Thyborøn  
+80  Thyborøn  
+81  Thyborøn  
+82  Thyborøn  
+                      Art  Sort         Kg.  Gnms. pris         Max  \
+0   Blæksprutte Ottearmet   4.0      32 kg.   17,86 Kr.   17,86 Kr.   
+1            Blæksprutter   9.0     671 kg.   15,97 Kr.   24,44 Kr.   
+2                 Fjæsing   9.0      22 kg.   15,50 Kr.   15,50 Kr.   
+3                  Havkat   2.0     217 kg.   46,07 Kr.   48,91 Kr.   
+4                  Havkat   3.0      30 kg.   21,10 Kr.   21,10 Kr.   
+5                Havtaske   1.0      70 kg.   32,49 Kr.   33,36 Kr.   
+6                Havtaske   2.0     212 kg.   33,31 Kr.   35,06 Kr.   
+7                Havtaske   3.0     422 kg.   38,29 Kr.   41,08 Kr.   
+8                Havtaske   4.0     441 kg.   36,70 Kr.   36,83 Kr.   
+9                Havtaske   5.0     184 kg.   17,99 Kr.   18,51 Kr.   
+10           Helleflynder   1.0      10 kg.   66,50 Kr.   67,60 Kr.   
+11           Helleflynder   2.0      26 kg.   66,50 Kr.   67,30 Kr.   
+12           Helleflynder   3.0      29 kg.   62,31 Kr.   66,10 Kr.   
+13           Helleflynder   4.0      53 kg.   59,37 Kr.   64,70 Kr.   
+14           Helleflynder   5.0      66 kg.   51,80 Kr.   56,40 Kr.   
+15               Hvilling   2.0      64 kg.   11,89 Kr.   11,89 Kr.   
+16               Hvilling   3.0      68 kg.    9,45 Kr.    9,45 Kr.   
+17                  Ising   1.0      74 kg.   16,02 Kr.   16,02 Kr.   
+18                  Ising   2.0     145 kg.   10,24 Kr.   10,24 Kr.   
+19              Knurhaner   1.0      15 kg.   30,00 Kr.   30,00 Kr.   
+20              Knurhaner   2.0      45 kg.   12,23 Kr.   14,50 Kr.   
+21              Knurhaner   3.0      72 kg.    3,63 Kr.    4,60 Kr.   
+22              Knurhaner   4.0       7 kg.    1,10 Kr.    1,10 Kr.   
+23             Krabbeklør   1.0      28 kg.   69,90 Kr.   69,90 Kr.   
+24             Krabbeklør   2.0      44 kg.   38,30 Kr.   38,30 Kr.   
+25                 Kuller   1.0       4 kg.   21,80 Kr.   21,80 Kr.   
+26                 Kuller   2.0     214 kg.   15,19 Kr.   15,46 Kr.   
+27                 Kuller   3.0      51 kg.   10,23 Kr.   10,50 Kr.   
+28                 Kuller   4.0      13 kg.    6,73 Kr.    6,73 Kr.   
+29                Kulmule   2.0       4 kg.   19,69 Kr.   19,69 Kr.   
+30                Kulmule   3.0      20 kg.    9,83 Kr.    9,83 Kr.   
+31                Kulmule   4.0      55 kg.    5,03 Kr.    5,28 Kr.   
+32                 Langer   2.0      38 kg.   20,35 Kr.   21,03 Kr.   
+33                 Langer   3.0      88 kg.   15,95 Kr.   16,55 Kr.   
+34                 Lyssej   2.0      50 kg.   27,65 Kr.   29,32 Kr.   
+35                 Lyssej   3.0      95 kg.   25,68 Kr.   25,86 Kr.   
+36                 Lyssej   4.0      41 kg.   20,80 Kr.   20,80 Kr.   
+37                 Lyssej   9.0      11 kg.   19,00 Kr.   19,00 Kr.   
+38                Mørksej   4.0      16 kg.    9,85 Kr.    9,85 Kr.   
+39                Pighvar   0.0      32 kg.  120,70 Kr.  120,70 Kr.   
+40                Pighvar   1.0      85 kg.  113,98 Kr.  134,90 Kr.   
+41                Pighvar   2.0      74 kg.  100,61 Kr.  111,70 Kr.   
+42                Pighvar   3.0     122 kg.   77,45 Kr.   81,70 Kr.   
+43                Pighvar   4.0      42 kg.   52,30 Kr.   52,30 Kr.   
+44                Pighvar   9.0      27 kg.   31,28 Kr.   32,00 Kr.   
+45              Rød mulle   9.0       7 kg.   35,80 Kr.   35,80 Kr.   
+46                 Rødhaj   9.0     111 kg.    6,71 Kr.   11,37 Kr.   
+47             Rødspætter   1.0   1.728 kg.   28,52 Kr.   29,79 Kr.   
+48             Rødspætter   2.0   2.489 kg.   30,52 Kr.   34,41 Kr.   
+49             Rødspætter   3.0   2.762 kg.   20,93 Kr.   28,49 Kr.   
+50             Rødspætter   4.0   4.510 kg.   14,38 Kr.   14,82 Kr.   
+51              Rødtunger   1.0     593 kg.   57,46 Kr.   60,24 Kr.   
+52              Rødtunger   2.0   1.295 kg.   40,86 Kr.   48,74 Kr.   
+53              Rødtunger   3.0   1.187 kg.   23,64 Kr.   24,39 Kr.   
+54      Sankt Peters fisk   9.0       3 kg.   35,00 Kr.   35,00 Kr.   
+55              Skægtorsk   6.0       8 kg.  107,50 Kr.  107,50 Kr.   
+56              Skærising   2.0      60 kg.   18,45 Kr.   18,80 Kr.   
+57               Slethvar   0.0      37 kg.   69,20 Kr.   69,20 Kr.   
+58               Slethvar   1.0     103 kg.   47,51 Kr.   52,60 Kr.   
+59               Slethvar   2.0     144 kg.   28,16 Kr.   36,60 Kr.   
+60               Slethvar   9.0       7 kg.   27,20 Kr.   27,20 Kr.   
+61       Småplettet rokke   9.0     354 kg.   15,47 Kr.   16,75 Kr.   
+62      Storplettet Rokke   9.0      69 kg.   14,20 Kr.   14,20 Kr.   
+63           Taskekrabber   9.0     326 kg.    5,02 Kr.    7,87 Kr.   
+64                  Torsk   0.0     125 kg.   47,55 Kr.   47,55 Kr.   
+65                  Torsk   1.0     351 kg.   48,42 Kr.   48,52 Kr.   
+66                  Torsk   2.0     797 kg.   47,23 Kr.   48,69 Kr.   
+67                  Torsk   3.0     891 kg.   42,10 Kr.   42,52 Kr.   
+68                  Torsk   4.0   1.975 kg.   29,18 Kr.   34,65 Kr.   
+69                  Torsk   5.0   1.758 kg.   17,76 Kr.   18,10 Kr.   
+70                 Tunger   1.0      61 kg.  115,10 Kr.  115,10 Kr.   
+71                 Tunger   2.0      76 kg.   93,72 Kr.   94,10 Kr.   
+72                 Tunger   3.0      48 kg.   56,88 Kr.   58,50 Kr.   
+73                 Tunger   4.0      47 kg.   53,40 Kr.   53,40 Kr.   
+74                 Tunger   5.0      64 kg.   39,99 Kr.   40,00 Kr.   
+75                  Total   NaN  26.115 kg.         NaN         NaN   
+
+          dato   auktion  
+0   04-11-2020  Thyborøn  
+1   04-11-2020  Thyborøn  
+2   04-11-2020  Thyborøn  
+3   04-11-2020  Thyborøn  
+4   04-11-2020  Thyborøn  
+5   04-11-2020  Thyborøn  
+6   04-11-2020  Thyborøn  
+7   04-11-2020  Thyborøn  
+8   04-11-2020  Thyborøn  
+9   04-11-2020  Thyborøn  
+10  04-11-2020  Thyborøn  
+11  04-11-2020  Thyborøn  
+12  04-11-2020  Thyborøn  
+13  04-11-2020  Thyborøn  
+14  04-11-2020  Thyborøn  
+15  04-11-2020  Thyborøn  
+16  04-11-2020  Thyborøn  
+17  04-11-2020  Thyborøn  
+18  04-11-2020  Thyborøn  
+19  04-11-2020  Thyborøn  
+20  04-11-2020  Thyborøn  
+21  04-11-2020  Thyborøn  
+22  04-11-2020  Thyborøn  
+23  04-11-2020  Thyborøn  
+24  04-11-2020  Thyborøn  
+25  04-11-2020  Thyborøn  
+26  04-11-2020  Thyborøn  
+27  04-11-2020  Thyborøn  
+28  04-11-2020  Thyborøn  
+29  04-11-2020  Thyborøn  
+30  04-11-2020  Thyborøn  
+31  04-11-2020  Thyborøn  
+32  04-11-2020  Thyborøn  
+33  04-11-2020  Thyborøn  
+34  04-11-2020  Thyborøn  
+35  04-11-2020  Thyborøn  
+36  04-11-2020  Thyborøn  
+37  04-11-2020  Thyborøn  
+38  04-11-2020  Thyborøn  
+39  04-11-2020  Thyborøn  
+40  04-11-2020  Thyborøn  
+41  04-11-2020  Thyborøn  
+42  04-11-2020  Thyborøn  
+43  04-11-2020  Thyborøn  
+44  04-11-2020  Thyborøn  
+45  04-11-2020  Thyborøn  
+46  04-11-2020  Thyborøn  
+47  04-11-2020  Thyborøn  
+48  04-11-2020  Thyborøn  
+49  04-11-2020  Thyborøn  
+50  04-11-2020  Thyborøn  
+51  04-11-2020  Thyborøn  
+52  04-11-2020  Thyborøn  
+53  04-11-2020  Thyborøn  
+54  04-11-2020  Thyborøn  
+55  04-11-2020  Thyborøn  
+56  04-11-2020  Thyborøn  
+57  04-11-2020  Thyborøn  
+58  04-11-2020  Thyborøn  
+59  04-11-2020  Thyborøn  
+60  04-11-2020  Thyborøn  
+61  04-11-2020  Thyborøn  
+62  04-11-2020  Thyborøn  
+63  04-11-2020  Thyborøn  
+64  04-11-2020  Thyborøn  
+65  04-11-2020  Thyborøn  
+66  04-11-2020  Thyborøn  
+67  04-11-2020  Thyborøn  
+68  04-11-2020  Thyborøn  
+69  04-11-2020  Thyborøn  
+70  04-11-2020  Thyborøn  
+71  04-11-2020  Thyborøn  
+72  04-11-2020  Thyborøn  
+73  04-11-2020  Thyborøn  
+74  04-11-2020  Thyborøn  
+75  04-11-2020  Thyborøn  
+                      Art  Sort         Kg.  Gnms. pris         Max  \
+0              Alm hummer   1.0       2 kg.  134,40 Kr.  134,40 Kr.   
+1              Alm hummer   2.0       6 kg.  179,60 Kr.  179,60 Kr.   
+2              Alm hummer   9.0      12 kg.   46,62 Kr.  128,70 Kr.   
+3   Blæksprutte Ottearmet   4.0      34 kg.   24,84 Kr.   28,50 Kr.   
+4            Blæksprutter   9.0     578 kg.   17,82 Kr.   20,70 Kr.   
+5                 Fjæsing   9.0      53 kg.   24,60 Kr.   30,70 Kr.   
+6           Grå knurhaner   9.0      15 kg.    2,10 Kr.    2,10 Kr.   
+7                 Havbars   9.0       3 kg.   37,70 Kr.   37,70 Kr.   
+8                  Havkat   2.0      60 kg.   49,80 Kr.   49,80 Kr.   
+9                  Havkat   3.0      55 kg.    8,07 Kr.    8,20 Kr.   
+10                 Havkat   9.0      15 kg.   48,50 Kr.   48,50 Kr.   
+11               Havtaske   1.0     125 kg.   34,69 Kr.   34,80 Kr.   
+12               Havtaske   2.0     159 kg.   41,20 Kr.   41,20 Kr.   
+13               Havtaske   3.0     383 kg.   45,79 Kr.   48,08 Kr.   
+14               Havtaske   4.0     500 kg.   40,45 Kr.   40,74 Kr.   
+15               Havtaske   5.0     199 kg.   20,27 Kr.   20,27 Kr.   
+16               Havtaske   9.0      52 kg.   33,73 Kr.   33,73 Kr.   
+17           Havtaske u/h   2.0       9 kg.   85,90 Kr.   85,90 Kr.   
+18           Havtaske u/h   3.0      19 kg.   87,40 Kr.   87,40 Kr.   
+19           Havtaske u/h   4.0      25 kg.   85,70 Kr.   85,70 Kr.   
+20           Havtaske u/h   5.0      15 kg.   49,40 Kr.   49,40 Kr.   
+21           Helleflynder   2.0       8 kg.   79,90 Kr.   79,90 Kr.   
+22               Hvilling   2.0      24 kg.   10,45 Kr.   10,50 Kr.   
+23               Hvilling   9.0     276 kg.   15,07 Kr.   16,26 Kr.   
+24                  Ising   1.0     447 kg.   16,69 Kr.   18,79 Kr.   
+25                  Ising   2.0     659 kg.   12,31 Kr.   12,78 Kr.   
+26              Knurhaner   2.0      41 kg.    6,33 Kr.   11,80 Kr.   
+27              Knurhaner   3.0      75 kg.    2,63 Kr.    3,31 Kr.   
+28              Knurhaner   4.0       4 kg.    1,18 Kr.    1,18 Kr.   
+29             Krabbeklør   1.0      46 kg.   80,37 Kr.   84,40 Kr.   
+30             Krabbeklør   2.0      69 kg.   29,68 Kr.   35,90 Kr.   
+31             Krabbeklør   3.0       2 kg.    1,00 Kr.    1,00 Kr.   
+32                 Kuller   1.0     706 kg.   25,40 Kr.   30,67 Kr.   
+33                 Kuller   2.0   1.205 kg.   15,61 Kr.   18,49 Kr.   
+34                 Kuller   3.0     566 kg.    9,46 Kr.   12,80 Kr.   
+35                 Kuller   4.0     153 kg.    3,41 Kr.    5,39 Kr.   
+36                Kulmule   0.0     235 kg.   70,41 Kr.   74,41 Kr.   
+37                Kulmule   1.0     319 kg.   48,06 Kr.   55,29 Kr.   
+38                Kulmule   2.0   1.103 kg.   34,95 Kr.   37,57 Kr.   
+39                Kulmule   3.0     561 kg.   21,39 Kr.   24,83 Kr.   
+40                Kulmule   4.0       5 kg.    8,80 Kr.    8,80 Kr.   
+41                Kulmule   9.0      12 kg.   13,95 Kr.   13,95 Kr.   
+42                 Langer   1.0      80 kg.   22,49 Kr.   22,49 Kr.   
+43                 Langer   2.0      88 kg.   23,99 Kr.   25,35 Kr.   
+44                 Langer   3.0     482 kg.   17,22 Kr.   18,07 Kr.   
+45                 Lyssej   2.0     882 kg.   32,63 Kr.   39,76 Kr.   
+46                 Lyssej   3.0   2.200 kg.   32,46 Kr.   33,81 Kr.   
+47                 Lyssej   4.0     264 kg.   23,30 Kr.   24,67 Kr.   
+48                 Lyssej   9.0      20 kg.   19,90 Kr.   19,90 Kr.   
+49                Mørksej   1.0      46 kg.   20,40 Kr.   20,40 Kr.   
+50                Mørksej   2.0     210 kg.   19,61 Kr.   20,85 Kr.   
+51                Mørksej   3.0   1.015 kg.   18,76 Kr.   19,04 Kr.   
+52                Mørksej   4.0   9.349 kg.   14,21 Kr.   14,26 Kr.   
+53                Pighvar   0.0       5 kg.  109,90 Kr.  109,90 Kr.   
+54                Pighvar   1.0      18 kg.  102,35 Kr.  113,60 Kr.   
+55                Pighvar   2.0      14 kg.   93,41 Kr.   95,70 Kr.   
+56                Pighvar   3.0      56 kg.   78,12 Kr.   87,30 Kr.   
+57                Pighvar   4.0     114 kg.   45,87 Kr.   60,70 Kr.   
+58                Pighvar   9.0      39 kg.   19,55 Kr.   32,40 Kr.   
+59                 Rødhaj   9.0       3 kg.   26,70 Kr.   26,70 Kr.   
+60             Rødspætter   1.0     908 kg.   29,19 Kr.   33,35 Kr.   
+61             Rødspætter   2.0   2.189 kg.   26,67 Kr.   32,60 Kr.   
+62             Rødspætter   3.0   4.238 kg.   18,64 Kr.   20,84 Kr.   
+63             Rødspætter   4.0   8.236 kg.   14,50 Kr.   14,76 Kr.   
+64              Rødtunger   1.0      70 kg.   64,16 Kr.   65,30 Kr.   
+65              Rødtunger   2.0     917 kg.   48,62 Kr.   52,40 Kr.   
+66              Rødtunger   3.0   1.665 kg.   26,44 Kr.   26,58 Kr.   
+67              Rødtunger   9.0      20 kg.   36,80 Kr.   36,80 Kr.   
+68      Sankt Peters fisk   9.0       8 kg.   25,00 Kr.   25,00 Kr.   
+69               Slethvar   0.0      45 kg.   63,90 Kr.   74,50 Kr.   
+70               Slethvar   1.0     148 kg.   57,45 Kr.   60,70 Kr.   
+71               Slethvar   2.0     243 kg.   32,05 Kr.   38,90 Kr.   
+72       Småplettet rokke   9.0     111 kg.   11,95 Kr.   12,00 Kr.   
+73      Storplettet Rokke   9.0      33 kg.   10,39 Kr.   13,00 Kr.   
+74                  Torsk   0.0     230 kg.   54,46 Kr.   56,24 Kr.   
+75                  Torsk   1.0     438 kg.   57,34 Kr.   58,49 Kr.   
+76                  Torsk   2.0   1.550 kg.   57,61 Kr.   60,04 Kr.   
+77                  Torsk   3.0   2.429 kg.   49,93 Kr.   50,79 Kr.   
+78                  Torsk   4.0   4.298 kg.   32,59 Kr.   44,24 Kr.   
+79                  Torsk   5.0   4.776 kg.   20,51 Kr.   28,19 Kr.   
+80                  Torsk   9.0      19 kg.   23,78 Kr.   23,78 Kr.   
+81                 Tunger   1.0     115 kg.  118,04 Kr.  127,30 Kr.   
+82                 Tunger   2.0     106 kg.   91,34 Kr.   91,60 Kr.   
+83                 Tunger   3.0     126 kg.   81,08 Kr.   81,90 Kr.   
+84                 Tunger   4.0      94 kg.   52,67 Kr.   52,70 Kr.   
+85                 Tunger   5.0      92 kg.   34,70 Kr.   34,70 Kr.   
+86                  Total   NaN  56.824 kg.         NaN         NaN   
+
+          dato   auktion  
+0   05-11-2020  Thyborøn  
+1   05-11-2020  Thyborøn  
+2   05-11-2020  Thyborøn  
+3   05-11-2020  Thyborøn  
+4   05-11-2020  Thyborøn  
+5   05-11-2020  Thyborøn  
+6   05-11-2020  Thyborøn  
+7   05-11-2020  Thyborøn  
+8   05-11-2020  Thyborøn  
+9   05-11-2020  Thyborøn  
+10  05-11-2020  Thyborøn  
+11  05-11-2020  Thyborøn  
+12  05-11-2020  Thyborøn  
+13  05-11-2020  Thyborøn  
+14  05-11-2020  Thyborøn  
+15  05-11-2020  Thyborøn  
+16  05-11-2020  Thyborøn  
+17  05-11-2020  Thyborøn  
+18  05-11-2020  Thyborøn  
+19  05-11-2020  Thyborøn  
+20  05-11-2020  Thyborøn  
+21  05-11-2020  Thyborøn  
+22  05-11-2020  Thyborøn  
+23  05-11-2020  Thyborøn  
+24  05-11-2020  Thyborøn  
+25  05-11-2020  Thyborøn  
+26  05-11-2020  Thyborøn  
+27  05-11-2020  Thyborøn  
+28  05-11-2020  Thyborøn  
+29  05-11-2020  Thyborøn  
+30  05-11-2020  Thyborøn  
+31  05-11-2020  Thyborøn  
+32  05-11-2020  Thyborøn  
+33  05-11-2020  Thyborøn  
+34  05-11-2020  Thyborøn  
+35  05-11-2020  Thyborøn  
+36  05-11-2020  Thyborøn  
+37  05-11-2020  Thyborøn  
+38  05-11-2020  Thyborøn  
+39  05-11-2020  Thyborøn  
+40  05-11-2020  Thyborøn  
+41  05-11-2020  Thyborøn  
+42  05-11-2020  Thyborøn  
+43  05-11-2020  Thyborøn  
+44  05-11-2020  Thyborøn  
+45  05-11-2020  Thyborøn  
+46  05-11-2020  Thyborøn  
+47  05-11-2020  Thyborøn  
+48  05-11-2020  Thyborøn  
+49  05-11-2020  Thyborøn  
+50  05-11-2020  Thyborøn  
+51  05-11-2020  Thyborøn  
+52  05-11-2020  Thyborøn  
+53  05-11-2020  Thyborøn  
+54  05-11-2020  Thyborøn  
+55  05-11-2020  Thyborøn  
+56  05-11-2020  Thyborøn  
+57  05-11-2020  Thyborøn  
+58  05-11-2020  Thyborøn  
+59  05-11-2020  Thyborøn  
+60  05-11-2020  Thyborøn  
+61  05-11-2020  Thyborøn  
+62  05-11-2020  Thyborøn  
+63  05-11-2020  Thyborøn  
+64  05-11-2020  Thyborøn  
+65  05-11-2020  Thyborøn  
+66  05-11-2020  Thyborøn  
+67  05-11-2020  Thyborøn  
+68  05-11-2020  Thyborøn  
+69  05-11-2020  Thyborøn  
+70  05-11-2020  Thyborøn  
+71  05-11-2020  Thyborøn  
+72  05-11-2020  Thyborøn  
+73  05-11-2020  Thyborøn  
+74  05-11-2020  Thyborøn  
+75  05-11-2020  Thyborøn  
+76  05-11-2020  Thyborøn  
+77  05-11-2020  Thyborøn  
+78  05-11-2020  Thyborøn  
+79  05-11-2020  Thyborøn  
+80  05-11-2020  Thyborøn  
+81  05-11-2020  Thyborøn  
+82  05-11-2020  Thyborøn  
+83  05-11-2020  Thyborøn  
+84  05-11-2020  Thyborøn  
+85  05-11-2020  Thyborøn  
+86  05-11-2020  Thyborøn  
+             Art  Sort         Kg. Gnms. pris        Max        dato   auktion
+0        Blandet   9.0       4 kg.  10,50 Kr.  10,50 Kr.  06-11-2020  Thyborøn
+1   Blæksprutter   9.0     182 kg.  23,58 Kr.  24,00 Kr.  06-11-2020  Thyborøn
+2         Brosme   9.0      18 kg.  14,04 Kr.  16,30 Kr.  06-11-2020  Thyborøn
+3     Glashvarre   9.0      29 kg.  21,88 Kr.  23,00 Kr.  06-11-2020  Thyborøn
+4         Havkat   1.0      14 kg.  53,35 Kr.  55,60 Kr.  06-11-2020  Thyborøn
+5         Havkat   2.0       5 kg.  39,30 Kr.  39,30 Kr.  06-11-2020  Thyborøn
+6         Havkat   3.0       2 kg.   8,40 Kr.   8,40 Kr.  06-11-2020  Thyborøn
+7         Havkat   9.0       5 kg.  52,40 Kr.  52,40 Kr.  06-11-2020  Thyborøn
+8       Havtaske   1.0      45 kg.  36,44 Kr.  39,40 Kr.  06-11-2020  Thyborøn
+9       Havtaske   2.0      42 kg.  43,20 Kr.  43,40 Kr.  06-11-2020  Thyborøn
+10      Havtaske   3.0      37 kg.  46,64 Kr.  47,20 Kr.  06-11-2020  Thyborøn
+11      Havtaske   4.0      28 kg.  42,65 Kr.  42,70 Kr.  06-11-2020  Thyborøn
+12  Helleflynder   1.0      35 kg.  92,66 Kr.  96,80 Kr.  06-11-2020  Thyborøn
+13  Helleflynder   3.0      14 kg.  77,71 Kr.  78,80 Kr.  06-11-2020  Thyborøn
+14  Helleflynder   4.0       2 kg.  86,00 Kr.  86,00 Kr.  06-11-2020  Thyborøn
+15  Helleflynder   5.0       1 kg.  63,20 Kr.  63,20 Kr.  06-11-2020  Thyborøn
+16      Hvilling   1.0     223 kg.  19,06 Kr.  23,03 Kr.  06-11-2020  Thyborøn
+17      Hvilling   2.0      71 kg.  13,52 Kr.  15,25 Kr.  06-11-2020  Thyborøn
+18    Krabbeklør   2.0      10 kg.  34,60 Kr.  34,60 Kr.  06-11-2020  Thyborøn
+19        Kuller   1.0     258 kg.  30,16 Kr.  31,41 Kr.  06-11-2020  Thyborøn
+20        Kuller   2.0     909 kg.  17,83 Kr.  19,86 Kr.  06-11-2020  Thyborøn
+21        Kuller   3.0     690 kg.  11,96 Kr.  12,03 Kr.  06-11-2020  Thyborøn
+22       Kulmule   0.0     157 kg.  79,18 Kr.  79,70 Kr.  06-11-2020  Thyborøn
+23       Kulmule   1.0     398 kg.  59,34 Kr.  61,71 Kr.  06-11-2020  Thyborøn
+24       Kulmule   2.0   2.512 kg.  47,16 Kr.  53,20 Kr.  06-11-2020  Thyborøn
+25       Kulmule   3.0   1.237 kg.  27,87 Kr.  28,19 Kr.  06-11-2020  Thyborøn
+26       Kulmule   4.0      96 kg.  23,22 Kr.  23,22 Kr.  06-11-2020  Thyborøn
+27       Kulmule   9.0      26 kg.  24,81 Kr.  24,81 Kr.  06-11-2020  Thyborøn
+28        Langer   1.0      11 kg.  25,58 Kr.  29,40 Kr.  06-11-2020  Thyborøn
+29        Langer   2.0      19 kg.  27,72 Kr.  29,00 Kr.  06-11-2020  Thyborøn
+30        Langer   3.0      87 kg.  19,63 Kr.  22,30 Kr.  06-11-2020  Thyborøn
+31        Lyssej   1.0       5 kg.  38,60 Kr.  38,60 Kr.  06-11-2020  Thyborøn
+32        Lyssej   2.0      11 kg.  35,90 Kr.  35,90 Kr.  06-11-2020  Thyborøn
+33        Lyssej   3.0      31 kg.  34,44 Kr.  34,70 Kr.  06-11-2020  Thyborøn
+34        Lyssej   4.0      11 kg.  22,41 Kr.  23,00 Kr.  06-11-2020  Thyborøn
+35       Mørksej   1.0      57 kg.  22,36 Kr.  22,38 Kr.  06-11-2020  Thyborøn
+36       Mørksej   2.0      22 kg.  24,45 Kr.  24,45 Kr.  06-11-2020  Thyborøn
+37       Mørksej   3.0     235 kg.  18,71 Kr.  20,61 Kr.  06-11-2020  Thyborøn
+38       Mørksej   4.0   1.312 kg.  12,78 Kr.  15,44 Kr.  06-11-2020  Thyborøn
+39    Rødspætter   1.0       6 kg.  13,60 Kr.  14,00 Kr.  06-11-2020  Thyborøn
+40     Rødtunger   1.0       4 kg.  62,00 Kr.  62,00 Kr.  06-11-2020  Thyborøn
+41     Rødtunger   2.0      25 kg.  54,60 Kr.  54,60 Kr.  06-11-2020  Thyborøn
+42     Rødtunger   3.0       4 kg.  28,10 Kr.  28,10 Kr.  06-11-2020  Thyborøn
+43     Skærising   2.0       7 kg.  17,84 Kr.  21,10 Kr.  06-11-2020  Thyborøn
+44         Torsk   0.0     320 kg.  57,86 Kr.  60,51 Kr.  06-11-2020  Thyborøn
+45         Torsk   1.0   1.050 kg.  60,52 Kr.  62,91 Kr.  06-11-2020  Thyborøn
+46         Torsk   2.0   2.163 kg.  57,11 Kr.  59,47 Kr.  06-11-2020  Thyborøn
+47         Torsk   3.0   1.044 kg.  53,13 Kr.  53,90 Kr.  06-11-2020  Thyborøn
+48         Torsk   4.0     974 kg.  40,54 Kr.  42,41 Kr.  06-11-2020  Thyborøn
+49         Torsk   5.0     564 kg.  29,67 Kr.  33,97 Kr.  06-11-2020  Thyborøn
+50         Total   NaN  15.012 kg.        NaN        NaN  06-11-2020  Thyborøn
